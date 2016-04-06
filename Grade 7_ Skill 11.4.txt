@@ -1,0 +1,1440 @@
+11.4 PROGRAMMING INSTRUCTIONS
+TYPE
+input
+Hint type
+2 column
+Tool Tip: Choose all correct answers.
+
+
+11.4 Introduction to Pi (Demo)
+The circumference of the Earth is $24,901$ miles. The diameter of the Earth is $7,917$ miles. 
+
+Use the dimensions of the Earth to approximate $\pi$ to the hundredths place. 
+$\approx$
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}&\color{blue}{\text{The number}}\ \boldsymbol{\pi}, \ \text{pronounced “pie” and written as pi, is the ratio of a circle's circumference to its diameter.} \\
+\pi&=&\large \frac{\text{24,860}}{\text{diameter}} & \color{blue} \text{Since the circumference of the Earth is} \ 24,860 \ \text{miles}, \text{we put} \ 24,860 \ \text{in the numerator of the ratio for} \ \pi. \\
+\pi&=&\large \frac{\text{24,860}}{\text{7,917}}& \color{blue} \text{Since the diameter of the Earth is} \ 7,917 \ \text{miles}, \text{we put} \ 7,917 \ \text{in the denominator of the ratio for} \ \pi. \\
+\pi&\approx&3.14 &\color{blue}\text{When we simplify the fraction using a calculator, we see that}\ \frac{\text{24,860}}{\text{7,917}} \approx 3.14.
+\end{array}$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Demo Start)
+The circumference of the Earth is $24,901$ miles. The diameter of the Earth is $7,917$ miles. 
+
+Use the dimensions of the Earth to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Demo)
+1st Click.
+$\approx$
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}&\color{blue}{\text{The number}}\ \boldsymbol{\pi}, \ \text{pronounced “pie” and written as pi, is the ratio of a circle's circumference to its diameter.} \\
+\end{array}$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Demo)
+2nd Click.
+$\approx$
+24860
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}&\color{blue}{\text{The number}}\ \boldsymbol{\pi}, \ \text{pronounced “pie” and written as pi, is the ratio of a circle's circumference to its diameter.} \\
+\pi&=&\large \frac{\text{24,860}}{\text{diameter}} & \color{blue} \text{Since the circumference of the Earth is} \ 24,860 \ \text{miles}, \text{we put} \ 24,860 \ \text{in the numerator of the ratio for} \ \pi. \\
+\end{array}$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Demo)
+3rd Click.
+$\approx$
+24860
+7917
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}&\color{blue}{\text{The number}}\ \boldsymbol{\pi}, \ \text{pronounced “pie” and written as pi, is the ratio of a circle's circumference to its diameter.} \\
+\pi&=&\large \frac{\text{24,860}}{\text{diameter}} & \color{blue} \text{Since the circumference of the Earth is} \ 24,860 \ \text{miles}, \text{we put} \ 24,860 \ \text{in the numerator of the ratio for} \ \pi. \\
+\pi&=&\large \frac{\text{24,860}}{\text{7,917}}& \color{blue} \text{Since the diameter of the Earth is} \ 7,917 \ \text{miles}, \text{we put} \ 7,917 \ \text{in the denominator of the ratio for} \ \pi. \\
+\end{array}$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Demo)
+4th Click.
+$\approx$
+3.14
+24860
+7917
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}&\color{blue}{\text{The number}}\ \boldsymbol{\pi}, \ \text{pronounced “pie” and written as pi, is the ratio of a circle's circumference to its diameter.} \\
+\pi&=&\large \frac{\text{24,860}}{\text{diameter}} & \color{blue} \text{Since the circumference of the Earth is} \ 24,860 \ \text{miles}, \text{we put} \ 24,860 \ \text{in the numerator of the ratio for} \ \pi. \\
+\pi&=&\large \frac{\text{24,860}}{\text{7,917}}& \color{blue} \text{Since the diameter of the Earth is} \ 7,917 \ \text{miles}, \text{we put} \ 7,917 \ \text{in the denominator of the ratio for} \ \pi. \\
+\pi&\approx&3.14 &\color{blue}\text{When we simplify the fraction using a calculator, we see that}\ \frac{\text{24,860}}{\text{7,917}} \approx 3.14.
+\end{array}$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1)
+The circumference of a large cantaloupe is $47.1$ centimeters. The diameter of a large cantaloupe is $15$ centimeters. 
+
+Use the dimensions of a large cantaloupe to approximate $\pi$ to the hundredths place. 
+$\approx$
+15
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{\text{circumference}}{15}\\
+
+\end{array}$
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the diameter of a cantaloupe is $15 \ cm,$ $15$ is in the denominator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{\text{circumference}}{15}\\
+
+\pi&=&\large \frac{47.1}{15}\\
+
+\end{array}$
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the diameter of a cantaloupe is $15 \ cm,$ $15$ is in the denominator of the ratio.
+
+Since the circumference of a cantaloupe is $47.1 \ cm,$ we put $47.1$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{\text{circumference}}{15}\\
+
+\pi&=&\large \frac{47.1}{15}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the diameter of a cantaloupe is $15 \ cm,$ $15$ is in the denominator of the ratio.
+
+Since the circumference of a cantaloupe is $47.1 \ cm,$ we put $47.1$ in the numerator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Assisted Exercise #1 - Solution)
+SOLUTION
+
+The circumference of a large cantaloupe is $47.1$ centimeters. The diameter of a large cantaloupe is $15$ centimeters. 
+
+Use the dimensions of a large cantaloupe to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+47.1
+15
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1)
+The circumference of a basketball is $29.5$ inches. The diameter of a basketball is $9.39$ inches. 
+
+Use the dimensions of a basketball to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{29.5}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a basketball is $29.5 \ in,$ we put $29.5$ in the numerator of the ratio.
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{29.5}{\text{diameter}}\\
+
+\pi&=&\large \frac{29.5}{9.39}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a basketball is $29.5 \ in,$ we put $29.5$ in the numerator of the ratio.
+
+Since the diameter of a basketball is $9.39 \ in,$ we put $9.39$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{29.5}{\text{diameter}}\\
+
+\pi&=&\large \frac{29.5}{9.39}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a basketball is $29.5 \ in,$ we put $29.5$ in the numerator of the ratio.
+
+Since the diameter of a basketball is $9.39 \ in,$ we put $9.39$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #1 - Solution)
+SOLUTION
+
+The circumference of a basketball is $29.5$ inches. The diameter of a basketball is $9.39$ inches. 
+
+Use the dimensions of a basketball to approximate $\pi$ to the hundredths place. 
+
+$\approx$
+3.14
+29.5
+9.39
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2)
+The circumference of Mars is $13,263$ miles. The diameter of Mars is $4,224$ miles. 
+
+Use the dimensions of Mars to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{13,263}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Mars is $13,263 \ mi,$ we put $13,263$ in the numerator of the ratio.
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{13,263}{\text{diameter}}\\
+
+\pi&=&\large \frac{13,263}{4,224}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Mars is $13,263 \ mi,$ we put $13,263$ in the numerator of the ratio.
+
+Since the diameter of Mars is $4,224 \ mi,$ we put $4,224$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{13,263}{\text{diameter}}\\
+
+\pi&=&\large \frac{13,263}{4,224}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Mars is $13,263 \ mi,$ we put $13,263$ in the numerator of the ratio.
+
+Since the diameter of Mars is $4,224 \ mi,$ we put $4,224$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #2 - Solution)
+SOLUTION
+
+The circumference of Mars is $13,263$ miles. The diameter of Mars is $4,224$ miles. 
+
+Use the dimensions of Mars to approximate $\pi$ to the hundredths place. 
+
+$\approx$
+3.14
+13263
+4224
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3)
+The circumference of a tennis ball is $21.67$ centimeters. The diameter of a tennis ball is $6.9$ centimeters. 
+
+Use the dimensions of a tennis ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{21.67}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a tennis ball is $21.67 \ cm,$ we put $21.67$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{21.67}{\text{diameter}}\\
+
+\pi&=&\large \frac{21.67}{6.9}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a tennis ball is $21.67 \ cm,$ we put $21.67$ in the numerator of the ratio.
+
+Since the diameter of a tennis ball is $6.9 \ cm,$ we put $6.9$ in the denominator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{21.67}{\text{diameter}}\\
+
+\pi&=&\large \frac{21.67}{6.9}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a tennis ball is $21.67 \ cm,$ we put $21.67$ in the numerator of the ratio.
+
+Since the diameter of a tennis ball is $6.9 \ cm,$ we put $6.9$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #3 - Solution)
+SOLUTION
+
+The circumference of a tennis ball is $21.67$ centimeters. The diameter of a tennis ball is $6.9$ centimeters. 
+
+Use the dimensions of a tennis ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+21.67
+6.9
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4)
+The circumference of an orange is approximately $9.42$ inches. The diameter of an orange is approximately $3$ inches. 
+
+Use the dimensions of an orange to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.42}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of an orange is $9.42 \ in,$ we put $9.42$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.42}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.42}{3}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of an orange is $9.42 \ in,$ we put $9.42$ in the numerator of the ratio.
+
+Since the diameter of an orange is $3 \ in,$ we put $3$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.42}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.42}{3}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of an orange is $9.42 \ in,$ we put $9.42$ in the numerator of the ratio.
+
+Since the diameter of an orange is $3 \ in,$ we put $3$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #4 - Solution)
+SOLUTION
+
+The circumference of an orange is approximately $9.42$ inches. The diameter of an orange is approximately $3$ inches. 
+
+Use the dimensions of an orange to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+9.42
+3
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5)
+The circumference of the Moon is $10,910.9$ kilometers. The diameter of the Moon is $3,474.8$ kilometers. 
+
+Use the dimensions of the Moon to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{10,910.9}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Moon is $10,910.9 \ km,$ we put $10,910.9$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{10,910.9}{\text{diameter}}\\
+
+\pi&=&\large \frac{10,910.9}{3,474.8}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Moon is $10,910.9 \ km,$ we put $10,910.9$ in the numerator of the ratio.
+
+Since the diameter of the Moon is $3,474.8 \ km,$ we put $3,474.8$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{10,910.9}{\text{diameter}}\\
+
+\pi&=&\large \frac{10,910.9}{3,474.8}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Moon is $10,910.9 \ km,$ we put $10,910.9$ in the numerator of the ratio.
+
+Since the diameter of the Moon is $3,474.8 \ km,$ we put $3,474.8$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #5 - Solution)
+SOLUTION
+
+The circumference of the Moon is $10,910.9$ kilometers. The diameter of the Moon is $3,474.8$ kilometers. 
+
+Use the dimensions of the Moon to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+10910.9
+3474.8
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6)
+The circumference of a golf ball is $5.3$ inches. The diameter of a golf ball is $1.69$ inches. 
+
+Use the dimensions of a golf ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{5.3}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a golf ball is $5.3 \ in,$ we put $5.3$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{5.3}{\text{diameter}}\\
+
+\pi&=&\large \frac{5.3}{1.69}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a golf ball is $5.3 \ in,$ we put $5.3$ in the numerator of the ratio.
+
+Since the diameter of a golf ball is $1.69 \ in,$ we put $1.69$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{5.3}{\text{diameter}}\\
+
+\pi&=&\large \frac{5.3}{1.69}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a golf ball is $5.3 \ in,$ we put $5.3$ in the numerator of the ratio.
+
+Since the diameter of a golf ball is $1.69 \ in,$ we put $1.69$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #6 - Solution)
+SOLUTION
+
+The circumference of a golf ball is $5.3$ inches. The diameter of a golf ball is $1.69$ inches. 
+
+Use the dimensions of a golf ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+5.3
+1.69
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7)
+The circumference of a soccer ball is $69.1$ centimeters. The diameter of a soccer ball is $22$ centimeters. 
+
+Use the dimensions of a soccer ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{69.1}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a soccer ball is $69.1 \ cm,$ we put $69.1$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{69.1}{\text{diameter}}\\
+
+\pi&=&\large \frac{69.1}{22}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a soccer ball is $69.1 \ cm,$ we put $69.1$ in the numerator of the ratio.
+
+Since the diameter of a soccer ball is $22 \ cm,$ we put $22$ in the denominator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{69.1}{\text{diameter}}\\
+
+\pi&=&\large \frac{69.1}{22}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a soccer ball is $69.1 \ cm,$ we put $69.1$ in the numerator of the ratio.
+
+Since the diameter of a soccer ball is $22 \ cm,$ we put $22$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #7 - Solution)
+SOLUTION
+
+The circumference of a soccer ball is $69.1$ centimeters. The diameter of a soccer ball is $22$ centimeters. 
+
+Use the dimensions of a soccer ball to approximate $\pi$ to the hundredths place. 
+$\approx$
+3.14
+69.1
+22
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8)
+The circumference of Venus is $23,615.3$ miles. The diameter of Venus is $7,520.8$ miles. 
+
+Use the dimensions of Venus to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{23,615.3}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Venus is $23,615.3 \ mi,$ we put $23,615.3$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{23,615.3}{\text{diameter}}\\
+
+\pi&=&\large \frac{23,615.3}{7,520.8}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Venus is $23,615.3 \ mi,$ we put $23,615.3$ in the numerator of the ratio.
+
+Since the diameter of Venus is $7,520.8 \ mi,$ we put $7,520.8$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{23,615.3}{\text{diameter}}\\
+
+\pi&=&\large \frac{23,615.3}{7,520.8}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of Venus is $23,615.3 \ mi,$ we put $23,615.3$ in the numerator of the ratio.
+
+Since the diameter of Venus is $7,520.8 \ mi,$ we put $7,520.8$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #8 - Solution)
+SOLUTION
+
+The circumference of Venus is $23,615.3$ miles. The diameter of Venus is $7,520.8$ miles. 
+
+Use the dimensions of Venus to approximate $\pi$ to the hundredths place. 
+
+$\approx$
+3.14
+23615.3
+7520.8
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9)
+The circumference of a baseball is $9.23$ inches. The diameter of a baseball is $2.94$ inches. 
+
+Use the dimensions of a baseball to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.23}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a baseball is $9.23 \ in,$ we put $9.23$ in the numerator of the ratio.
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.23}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.23}{2.94}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a baseball is $9.23 \ in,$ we put $9.23$ in the numerator of the ratio.
+
+Since the diameter of a baseball is $2.94 \ in,$ we put $2.94$ in the denominator of the ratio.
+
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.23}{\text{diameter}}\\
+
+\pi&=&\large \frac{9.23}{2.94}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of a baseball is $9.23 \ in,$ we put $9.23$ in the numerator of the ratio.
+
+Since the diameter of a baseball is $2.94 \ in,$ we put $2.94$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #9 - Solution)
+SOLUTION
+
+The circumference of a baseball is $9.23$ inches. The diameter of a baseball is $2.94$ inches. 
+
+Use the dimensions of a baseball to approximate $\pi$ to the hundredths place. 
+
+$\approx$
+3.14
+9.23
+2.94
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10)
+The circumference of the Sun is $2,715,938.9$ miles. The diameter of the Sun is $864,948.7$ miles. 
+
+Use the dimensions of the Sun to approximate $\pi$ to the hundredths place. 
+$\approx$
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{2,715,938.9}{\text{diameter}}\\
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Sun is $2,715,938.9 \ mi,$ we put $2,715,938.9$ in the numerator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{2,715,938.9}{\text{diameter}}\\
+
+\pi&=&\large \frac{2,715,938.9}{864,948.7}\\
+
+
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Sun is $2,715,938.9 \ mi,$ we put $2,715,938.9$ in the numerator of the ratio.
+
+Since the diameter of the Sun is $864,948.7 \ mi,$ we put $864,948.7$ in the denominator of the ratio.
+
+
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{lllllllllll}
+\pi&=&\large \frac{\text{circumference}}{\text{diameter}}\\
+
+\pi&=&\large \frac{2,715,938.9}{\text{diameter}}\\
+
+\pi&=&\large \frac{2,715,938.9}{864,948.7}\\
+
+\pi&\approx&3.14 
+\end{array}$
+
+
+
+
+
+$\pi$ is the ratio of a circle's circumference to its diameter. 
+
+Since the circumference of the Sun is $2,715,938.9 \ mi,$ we put $2,715,938.9$ in the numerator of the ratio.
+
+Since the diameter of the Sun is $864,948.7 \ mi,$ we put $864,948.7$ in the denominator of the ratio.
+
+When we simplify the fraction using a calculator, we see that $\pi$ is approximately $3.14.$
+
+
+Tool Tip: Fill in the blanks.
+
+
+11.4 Introduction to Pi (Exercise #10 - Solution)
+SOLUTION
+
+The circumference of the Sun is $2,715,938.9$ miles. The diameter of the Sun is $864,948.7$ miles. 
+
+Use the dimensions of the Sun to approximate $\pi$ to the hundredths place. 
+
+$\approx$
+3.14
+2715938.9
+864948.7
+Tool Tip: Fill in the blanks.
+
