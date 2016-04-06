@@ -1,0 +1,1830 @@
+10.8 PROGRAMMING INSTRUCTIONS
+TYPE
+input and drop down
+Demo Image
+okay to use
+AE Image
+okay to use
+Exercise Image
+okay to use
+Hint type
+2 column
+Tool Tip: Choose all correct answers.
+
+
+Frank and Judy hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $4$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #1)
+What is the width of the actual kitchen?
+What is the length of the actual kitchen?
+Since the scale in the floor plan is $1$ inch $=4$ feet, we need to multiply each inch on the floor plans by $4$ to find the actual dimensions of the kitchen. 
+
+When we multiply $2$ by $4,$ we get $8,$ so the width of the kitchen is $8$ feet.
+
+When we multiply $3$ by $4,$ we get $12,$ so the length of the kitchen is $12$ feet.
+
+
+
+
+
+
+
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo Start #1)
+Frank and Judy hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $4$ feet of the actual size of their new home.
+What is the width of the actual kitchen?
+What is the length of the actual kitchen?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #1)
+1st Click.
+What is the width of the actual kitchen?
+What is the length of the actual kitchen?
+Since the scale in the floor plan is $1$ inch $=4$ feet, we need to multiply each inch on the floor plans by $4$ to find the actual dimensions of the kitchen. 
+
+
+
+
+
+
+
+
+
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #1)
+2nd Click.
+What is the width of the actual kitchen?
+8
+ft
+What is the length of the actual kitchen?
+Since the scale in the floor plan is $1$ inch $=4$ feet, we need to multiply each inch on the floor plans by $4$ to find the actual dimensions of the kitchen. 
+
+When we multiply $2$ by $4,$ we get $8,$ so the width of the kitchen is $8$ feet.
+
+
+
+
+
+
+
+
+
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #1)
+3rd Click.
+What is the width of the actual kitchen?
+8
+ft
+What is the length of the actual kitchen?
+12
+ft
+Since the scale in the floor plan is $1$ inch $=4$ feet, we need to multiply each inch on the floor plans by $4$ to find the actual dimensions of the kitchen. 
+
+When we multiply $2$ by $4,$ we get $8,$ so the width of the kitchen is $8$ feet.
+
+When we multiply $3$ by $4,$ we get $12,$ so the length of the kitchen is $12$ feet.
+
+
+
+
+
+
+
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #1)
+Since we want to test that they can determine the units of the actual size, we will place inches, feet, sq inches and sq feet in the drop-down menus.
+
+Johanna and Lukas hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $3$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #1)
+What is the width of the actual bedroom?
+ft
+What is the length of the actual bedroom?
+15
+4 cm
+5 cm
+1 cm = 3 ft
+Value
+Solution
+Dropdown
+R1C1
+12
+R1C2
+ft
+ft
+[cm, sq cm, ft, sq ft]
+R2C2
+15
+15
+R2C2
+ft
+[cm, sq cm, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=3$ feet, we need to multiply each centimeter on the floor plans by $3$ to find the actual dimensions of the bedroom. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=3$ feet, we need to multiply each centimeter on the floor plans by $3$ to find the actual dimensions of the bedroom. 
+
+When we multiply $5$ by $3,$ we get $15,$ so the width of the bedroom is $15$ feet.
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=3$ feet, we need to multiply each centimeter on the floor plans by $3$ to find the actual dimensions of the bedroom. 
+
+When we multiply $5$ by $3,$ we get $15,$ so the width of the bedroom is $15$ feet.
+
+When we multiply $4$ by $3,$ we get $12,$ so the length of the bedroom is $12$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+Johanna and Lukas hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $3$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #1 - Solution)
+What is the width of the actual bedroom?
+ft
+What is the length of the actual bedroom?
+15
+4 cm
+5 cm
+1 cm = 3 ft
+Value
+Solution
+Dropdown
+R1C1
+15
+R1C2
+ft
+ft
+[cm, sq cm, ft, sq ft]
+R2C2
+12
+12
+R2C2
+ft
+[cm, sq cm, ft, sq ft]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+Frank and Judy decide that they want to put new tile on the kitchen floor. The scale at the bottom of the floor plans shows that each inch on the drawing represents $4$ feet of the actual size of their new home.
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+96
+sq ft
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Then we can set up a proportion to solve for the area of the actual kitchen floor.} \\
+\dfrac{6 \ sq\ in}{A}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{The area of the kitchen floor in the scale drawing is $A=2 \ in \times 3 \ in =6 \ sq \ in,$ so we place that value next to $1 \ sq \ in$ since $1 \ sq \ in$ corresponds with the scale drawing.} \\
+A = \dfrac{(16 \ sq \ ft)(6 \ sq \ in)}{(1 \ sq \ in)}&\color{blue} \text{Then we use algebra to solve for the actual area of the kitchen floor.}\\
+A=96 \ sq \ ft&\color{blue}\text{So Frank and Judy need $96 \ sq \ ft$ of tile to re-tile their kitchen floor.}
+\end{array}$ 
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo Start #2)
+Frank and Judy decide that they want to put new tile on the kitchen floor. The scale at the bottom of the floor plans shows that each inch on the drawing represents $4$ feet of the actual size of their new home.
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+1st Click.
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\end{array}$ 
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+2nd Click.
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\end{array}$ 
+
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+3rd Click.
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\end{array}$ 
+
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+4th Click.
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Then we can set up a proportion to solve for the area of the actual kitchen floor.} \\
+\end{array}$ 
+
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+5th Click.
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Then we can set up a proportion to solve for the area of the actual kitchen floor.} \\
+\dfrac{6 \ sq\ in}{A}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{The area of the kitchen floor in the scale drawing is $A=2 \ in \times 3 \ in =6 \ sq \ in,$ so we place that value next to $1 \ sq \ in$ since $1 \ sq \ in$ corresponds with the scale drawing.} \\
+\end{array}$ 
+
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+6th Click.
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Then we can set up a proportion to solve for the area of the actual kitchen floor.} \\
+\dfrac{6 \ sq\ in}{A}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{The area of the kitchen floor in the scale drawing is $A=2 \ in \times 3 \ in =6 \ sq \ in,$ so we place that value next to $1 \ sq \ in$ since $1 \ sq \ in$ corresponds with the scale drawing.} \\
+A = \dfrac{(16 \ sq \ ft)(6 \ sq \ in)}{(1 \ sq \ in)}&\color{blue} \text{Then we use algebra to solve for the actual area of the kitchen floor.}\\
+\end{array}$ 
+
+
+
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Demo #2)
+7th Click.
+How many square feet of tile will Frank and Judy need 
+
+to re-tile their kitchen floor?
+96
+sq ft
+$\begin{array}{cl}
+&\color{blue} \text{Since we want to know the square footage of the kitchen floor, we must find the area.} \\
+\left(\dfrac{1 \ in}{4 \ ft}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 4^{2} = 16, \text{ the ratio between the area of the scale drawing and the area of the actual house is }\dfrac{1 \ sq \ in}{16 \ sq \ ft}. \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{Then we can set up a proportion to solve for the area of the actual kitchen floor.} \\
+\dfrac{6 \ sq\ in}{A}=\dfrac{1 \ sq \ in}{16 \ sq \ ft}&\color{blue} \text{The area of the kitchen floor in the scale drawing is $A=2 \ in \times 3 \ in =6 \ sq \ in,$ so we place that value next to $1 \ sq \ in$ since $1 \ sq \ in$ corresponds with the scale drawing.} \\
+A = \dfrac{(16 \ sq \ ft)(6 \ sq \ in)}{(1 \ sq \ in)}&\color{blue} \text{Then we use algebra to solve for the actual area of the kitchen floor.}\\
+A=96 \ sq \ ft&\color{blue}\text{So Frank and Judy need $96 \ sq \ ft$ of tile to re-tile their kitchen floor.}
+\end{array}$ 
+
+
+
+Dropdown Options: 
+[in, sq in, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2)
+Johanna and Lukas decide that they want to put new carpet in the bedroom. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $3$ feet of the actual size of their new home.
+sq ft
+4 cm
+5 cm
+1 cm = 3 ft
+Value
+Solution
+Dropdown
+R1C1
+R1C2
+sq ft
+sq ft
+[cm, sq cm, ft, sq ft]
+How many square feet of carpet will Frank and Judy need 
+
+to re-carpet the bedroom floor?
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2}
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2} \\
+&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{9\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2} \\
+&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2} \\
+&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft} \\
+\dfrac{20 \ sq\ cm}{A}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=4\ cm \times 5\ cm = 20\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2} \\
+&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft} \\
+\dfrac{20 \ sq\ cm}{A}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft} \\
+A &=& \dfrac{(9 \ sq \ ft)(20 \ sq \ cm)}{(1 \ sq \ cm)}
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=4\ cm \times 5\ cm = 20\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bedroom floor.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1 \ cm}{3 \ ft}\right)^{2} \\
+&\dfrac{1 \ sq \ cm}{9 \ sq \ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft} \\
+\dfrac{20 \ sq\ cm}{A}&=&\dfrac{1 \ sq \ cm}{9 \ sq \ ft} \\
+A &=& \dfrac{(9 \ sq \ ft)(20 \ sq \ cm)}{(1 \ sq \ cm)}\\
+A &=& 180 \ sq \ ft
+\end{array}$
+
+Since we want to know the square footage of the bedroom floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=4\ cm \times 5\ cm = 20\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bedroom floor.
+
+So Johanna and Lukas need $180\ sq\ ft$ of carpet to re-carpet the bedroom floor.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Assisted Exercise #2 - Solution)
+Johanna and Lukas decide that they want to put new carpet in the bedroom. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $3$ feet of the actual size of their new home.
+How many square feet of carpet will Frank and Judy need 
+
+to re-carpet the bedroom floor?
+sq ft
+4 cm
+5 cm
+1 cm = 3 ft
+Value
+Solution
+Dropdown
+R1C1
+180
+n/a
+R1C2
+sq ft
+sq ft
+[cm, sq cm, ft, sq ft]
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1)
+Juana and Lupe decide that they want to put new bricks on the floor of their patio. The scale at the bottom of the floor plans shows that each inch on the drawing represents $2$ feet of the actual size of their new home.
+How many square feet of bricks will Juana and Lupe need 
+
+to re-brick their patio?
+1 inch = 2 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} 
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{4\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{4\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{4\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual patio floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} \\
+\dfrac{30\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual patio floor.
+
+The area of the patio floor in the scale drawing is $A=5\ in \times 6\ in = 30\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} \\
+\dfrac{30\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} \\
+A &=& \dfrac{(30\ sq\ in)(4\ sq\ ft)}{(1\ sq\ in)}
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual patio floor.
+
+The area of the patio floor in the scale drawing is $A=5\ in \times 6\ in = 30\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the patio floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} \\
+\dfrac{30\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{4\ sq\ ft} \\
+A &=& \dfrac{(30\ sq\ in)(4\ sq\ ft)}{(1\ sq\ in)}\\
+A &=& 120\ sq\ ft
+\end{array}$
+
+Since we want to know the square footage of the patio floor, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual patio floor.
+
+The area of the patio floor in the scale drawing is $A=5\ in \times 6\ in = 30\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the patio floor.
+
+So Juana and Lupe need $120\ sq\ ft$ of bricks to re-brick their patio.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #1 - Solution)
+Solution
+Dropdown
+R1C1
+120
+n/a
+R1C2
+sq ft
+[in, sq in, ft, sq ft]
+Juana and Lupe decide that they want to put new bricks on the floor of their patio. The scale at the bottom of the floor plans shows that each inch on the drawing represents $2$ feet of the actual size of their new home.
+How many square feet of bricks will Juana and Lupe need 
+
+to re-brick their patio?
+1 inch = 2 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+Lena and Elias hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2.5$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #2)
+What is the width of the actual living room?
+What is the length of the actual living room?
+1 centimeter = 2.5 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2.5$ feet, we need to multiply each centimeter on the floor plans by $2.5$ to find the actual dimensions of the living room. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2.5$ feet, we need to multiply each centimeter on the floor plans by $2.5$ to find the actual dimensions of the living room. 
+
+When we multiply $7$ by $2.5,$ we get $17.5,$ so the width of the living room is $17.5$ feet.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2.5$ feet, we need to multiply each centimeter on the floor plans by $2.5$ to find the actual dimensions of the living room. 
+
+When we multiply $7$ by $2.5,$ we get $17.5,$ so the width of the living room is $17.5$ feet.
+
+When we multiply $8$ by $2.5,$ we get $20,$ so the length of the living room is $20$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #2 - Solution)
+Solution
+Dropdown
+R1C1
+17.5
+R1C2
+ft
+[cm, sq cm, ft, sq ft]
+R2C2
+20
+R2C2
+ft
+[cm, sq cm, ft, sq ft]
+Lena and Elias hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2.5$ feet of the actual size of their new home.
+What is the width of the actual living room?
+What is the length of the actual living room?
+1 centimeter = 2.5 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3)
+Dr. Leung decides that he wants to put new carpet in his office. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3$ feet of the actual size of his new office.
+How many square feet of carpet will Dr. Leung need 
+
+to re-carpet his office?
+1 inch = 3 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+
+
+Since we want to know the square footage of the office, we must find the area.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2}
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{9\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual office is $\dfrac{1\ sq\ in}{9\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{9\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual office is $\dfrac{1\ sq\ in}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual office floor.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{9\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} \\
+\dfrac{176\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual office is $\dfrac{1\ sq\ in}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual office floor.
+
+The area of the office floor in the scale drawing is $A=11\ in \times 16\ in = 176\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{9\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} \\
+\dfrac{176\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} \\
+A &=& \dfrac{(176\ sq\ in)(9\ sq\ ft)}{(1\ sq\ in)}
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual office is $\dfrac{1\ sq\ in}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual office floor.
+
+The area of the office floor in the scale drawing is $A=11\ in \times 16\ in = 176\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the office floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{9\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} \\
+\dfrac{176\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{9\ sq\ ft} \\
+A &=& \dfrac{(176\ sq\ in)(9\ sq\ ft)}{(1\ sq\ in)}\\
+A &=& 1,584\ sq\ ft
+\end{array}$
+
+Since we want to know the square footage of the office, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3^2=9,$ the ratio between the area of the scale drawing and the area of the actual office is $\dfrac{1\ sq\ in}{9\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual office floor.
+
+The area of the office floor in the scale drawing is $A=11\ in \times 16\ in = 176\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the office floor.
+
+So Dr. Leung needs $1,584\ sq\ ft$ of carpet to re-carpet his office.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #3 - Solution)
+Solution
+Dropdown
+R1C1
+1584
+n/a
+R1C2
+sq ft
+[in, sq in, ft, sq ft]
+Dr. Leung decides that he wants to put new carpet in his office. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3$ feet of the actual size of his new office.
+How many square feet of carpet will Dr. Leung need 
+
+to re-carpet his office?
+1 inch = 3 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+Jamie and Enzo hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3.5$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #4)
+What is the width of the actual bathroom?
+What is the length of the actual bathroom?
+1 inch = 3.5 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #4 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3.5$ feet, we need to multiply each inch on the floor plans by $3.5$ to find the actual dimensions of the bathroom. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #4 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3.5$ feet, we need to multiply each inch on the floor plans by $3.5$ to find the actual dimensions of the bathroom. 
+
+When we multiply $3$ by $3.5,$ we get $10.5,$ so the width of the bathroom is $10.5$ feet.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #4 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3.5$ feet, we need to multiply each inch on the floor plans by $3.5$ to find the actual dimensions of the bathroom. 
+
+When we multiply $3$ by $3.5,$ we get $10.5,$ so the width of the bathroom is $10.5$ feet.
+
+When we multiply $3$ by $3.5,$ we get $10.5,$ so the length of the bathroom is $10.5$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #4 - Solution)
+Solution
+Dropdown
+R1C1
+10.5
+R1C2
+ft
+[in, sq in, ft, sq ft]
+R2C2
+10.5
+R2C2
+ft
+[in, sq in, ft, sq ft]
+Jamie and Enzo hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3.5$ feet of the actual size of their new home.
+What is the width of the actual bathroom?
+What is the length of the actual bathroom?
+1 inch = 3.5 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5)
+Louanne and Mikael decide that they want to put new carpet in their bedroom. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2$ feet of the actual size of their new home.
+How many square feet of carpet will Louanne and Mikael need 
+
+to re-carpet their bedroom?
+1 centimeter = 2 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} 
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{4\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{4\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} \\
+\dfrac{48\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=8\ cm \times 6\ cm = 48\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} \\
+\dfrac{48\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} \\
+A &=& \dfrac{(48\ sq\ cm)(4\ sq\ ft)}{(1\ sq\ cm)}
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=8\ cm \times 6\ cm = 48\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bedroom floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{4\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} \\
+\dfrac{48\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{4\ sq\ ft} \\
+A &=& \dfrac{(48\ sq\ cm)(4\ sq\ ft)}{(1\ sq\ cm)}\\
+A &=& 192\ sq\ ft
+\end{array}$
+
+Since we want to know the square footage of the bedroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2^2=4,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{4\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bedroom floor.
+
+The area of the bedroom floor in the scale drawing is $A=8\ cm \times 6\ cm = 48\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bedroom floor.
+
+So Louanne and Mikael need $192\ sq\ ft$ of carpet to re-carpet their bedroom.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #5 - Solution)
+Solution
+Dropdown
+R1C1
+192
+n/a
+R1C2
+sq ft
+[cm, sq cm, ft, sq ft]
+Louanne and Mikael decide that they want to put new carpet in their bedroom. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2$ feet of the actual size of their new home.
+How many square feet of carpet will Louanne and Mikael need 
+
+to re-carpet their bedroom?
+1 centimeter = 2 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+Dr. Leung hires an architect to draw the floor plans for his new office. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3$ feet of the actual size of his new office.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #6)
+What is the width of the actual office?
+What is the length of the actual office?
+1 inch = 3 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #6 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3$ feet, we need to multiply each inch on the floor plans by $3$ to find the actual dimensions of the office. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #6 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3$ feet, we need to multiply each inch on the floor plans by $3$ to find the actual dimensions of the office. 
+
+When we multiply $11$ by $3,$ we get $33,$ so the width of the office is $33$ feet.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #6 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=3$ feet, we need to multiply each inch on the floor plans by $3$ to find the actual dimensions of the office. 
+
+When we multiply $11$ by $3,$ we get $33,$ so the width of the office is $33$ feet.
+
+When we multiply $16$ by $3,$ we get $48,$ so the length of the office is $48$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #6 - Solution)
+Solution
+Dropdown
+R1C1
+33
+R1C2
+ft
+[in, sq in, ft, sq ft]
+R2C2
+48
+R2C2
+ft
+[in, sq in, ft, sq ft]
+Dr. Leung hires an architect to draw the floor plans for his new office. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3$ feet of the actual size of his new office.
+What is the width of the actual office?
+What is the length of the actual office?
+1 inch = 3 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7)
+Jamie and Enzo decide that they want to put new tile in their bathroom. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3.5$ feet of the actual size of their new home.
+How many square feet of tile will Jamie and Enzo need 
+
+to re-tile their bathroom?
+1 inch = 3.5 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2}
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{12.25\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3.5^2=12.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{12.25\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{12.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3.5^2=12.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{12.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bathroom floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{12.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} \\
+\dfrac{9\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3.5^2=12.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{12.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bathroom floor.
+
+The area of the bathroom floor in the scale drawing is $A=3\ in \times 3\ in = 9\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{12.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} \\
+\dfrac{9\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} \\
+A &=& \dfrac{(9\ sq\ in)(12.25\ sq\ ft)}{(1\ sq\ in)}
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3.5^2=12.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{12.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bathroom floor.
+
+The area of the bathroom floor in the scale drawing is $A=3\ in \times 3\ in = 9\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bathroom floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ in}{3.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ in}{12.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} \\
+\dfrac{9\ sq\ in}{A}&=&\dfrac{1\ sq\ in}{12.25\ sq\ ft} \\
+A &=& \dfrac{(9\ sq\ in)(12.25\ sq\ ft)}{(1\ sq\ in)}\\
+A &=& 110.25\ sq\ ft
+\end{array}$
+
+Since we want to know the square footage of the bathroom, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $3.5^2=12.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ in}{12.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual bathroom floor.
+
+The area of the bathroom floor in the scale drawing is $A=3\ in \times 3\ in = 9\ sq\ in,$ so we place that value next to $1\ sq\ in$ since $1\ sq\ in$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the bathroom floor.
+
+So Jamie and Enzo need $110.25\ sq\ ft$ of tile to re-tile their bathroom.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #7 - Solution)
+Solution
+Dropdown
+R1C1
+110.25
+n/a
+R1C2
+sq ft
+[in, sq in, ft, sq ft]
+Jamie and Enzo decide that they want to put new tile in their bathroom. The scale at the bottom of the floor plans shows that each inch on the drawing represents $3.5$ feet of the actual size of their new home.
+How many square feet of tile will Jamie and Enzo need 
+
+to re-tile their bathroom?
+1 inch = 3.5 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+Juana and Lupe hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $2$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #8)
+What is the width of the actual patio?
+What is the length of the actual patio?
+1 inch = 2 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #8 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the patio. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #8 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the patio. 
+
+When we multiply $5$ by $2,$ we get $10,$ so the width of the patio is $10$ feet.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #8 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ inch $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the patio. 
+
+When we multiply $5$ by $2,$ we get $10,$ so the width of the patio is $10$ feet.
+
+When we multiply $6$ by $2,$ we get $12,$ so the length of the patio is $12$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #8 - Solution)
+Solution
+Dropdown
+R1C1
+10
+R1C2
+ft
+[in, sq in, ft, sq ft]
+R2C2
+12
+R2C2
+ft
+[in, sq in, ft, sq ft]
+Juana and Lupe hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each inch on the drawing represents $2$ feet of the actual size of their new home.
+What is the width of the actual patio?
+What is the length of the actual patio?
+1 inch = 2 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9)
+Lena and Elias decide that they want to put new hardwood floor in their living room. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2.5$ feet of the actual size of their new home.
+How many square feet of hardwood will Lena and Elias need 
+
+to re-floor their living room?
+1 centimeter = 2.5 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (1st Hint)
+Text
+
+
+
+
+Since we want to know the square footage of the living room, we must find the area.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2}
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{6.25\ sq\ ft}
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2.5^2=6.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{6.25\ sq\ ft}.$
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{6.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2.5^2=6.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{6.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual living room floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{6.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} \\
+\dfrac{56\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} 
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2.5^2=6.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{6.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual living room floor.
+
+The area of the living room floor in the scale drawing is $A=7\ cm \times 8\ cm = 56\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{6.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} \\
+\dfrac{56\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} \\
+A &=& \dfrac{(56\ sq\ cm)(6.25\ sq\ ft)}{(1\ sq\ cm)}
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2.5^2=6.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{6.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual living room floor.
+
+The area of the living room floor in the scale drawing is $A=7\ cm \times 8\ cm = 56\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the living room floor.
+
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+$\begin{array}{rcl}
+&\left(\dfrac{1\ cm}{2.5\ ft}\right)^{2} \\
+&\dfrac{1\ sq\ cm}{6.25\ sq\ ft}\\ \\
+\dfrac{\text{Area of Scale Drawing}}{\text{Area of Actual Size}}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} \\
+\dfrac{56\ sq\ cm}{A}&=&\dfrac{1\ sq\ cm}{6.25\ sq\ ft} \\
+A &=& \dfrac{(56\ sq\ cm)(6.25\ sq\ ft)}{(1\ sq\ cm)}\\
+A &=& 350\ sq\ ft
+\end{array}$
+
+Since we want to know the square footage of the living room, we must find the area.
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^2=1$ and $2.5^2=6.25,$ the ratio between the area of the scale drawing and the area of the actual house is $\dfrac{1\ sq\ cm}{6.25\ sq\ ft}.$
+
+Then we can set up a proportion to solve for the area of the actual living room floor.
+
+The area of the living room floor in the scale drawing is $A=7\ cm \times 8\ cm = 56\ sq\ cm,$ so we place that value next to $1\ sq\ cm$ since $1\ sq\ cm$ corresponds with the scale drawing.
+
+Then we use algebra to solve for the actual area of the living room floor.
+
+So Lena and Elias need $350\ sq\ ft$ of hardwood to re-floor their living room.
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #9 - Solution)
+Solution
+Dropdown
+R1C1
+350
+n/a
+R1C2
+sq ft
+[cm, sq cm, ft, sq ft]
+Lena and Elias decide that they want to put new hardwood floor in their living room. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2.5$ feet of the actual size of their new home.
+How many square feet of hardwood will Lena and Elias need 
+
+to re-floor their living room?
+1 centimeter = 2.5 feet
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+
+Louanne and Mikael hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2$ feet of the actual size of their new home.
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #10)
+What is the width of the actual bedroom?
+What is the length of the actual bedroom?
+1 centimeter = 2 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #10 - Hints)
+Equation/Image (1st Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the bedroom. 
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #10 - Hints)
+Equation/Image (2nd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the bedroom. 
+
+When we multiply $8$ by $2,$ we get $16,$ so the width of the bedroom is $16$ feet.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #10 - Hints)
+Equation/Image (3rd Hint)
+Text
+Since the scale in the floor plan is $1$ centimeter $=2$ feet, we need to multiply each inch on the floor plans by $2$ to find the actual dimensions of the bedroom. 
+
+When we multiply $8$ by $2,$ we get $16,$ so the width of the bedroom is $16$ feet.
+
+When we multiply $6$ by $2,$ we get $12,$ so the length of the bedroom is $12$ feet.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.8 Problem Solving: Determining Lengths and Areas Using Scales (Exercise #10 - Solution)
+Solution
+Dropdown
+R1C1
+16
+R1C2
+ft
+[cm, sq cm, ft, sq ft]
+R2C2
+12
+R2C2
+ft
+[cm, sq cm, ft, sq ft]
+Louanne and Mikael hire an architect to draw the floor plans for their new home. The scale at the bottom of the floor plans shows that each centimeter on the drawing represents $2$ feet of the actual size of their new home.
+What is the width of the actual bedroom?
+What is the length of the actual bedroom?
+1 centimeter = 2 feet
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
