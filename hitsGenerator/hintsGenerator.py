@@ -1,14 +1,11 @@
+import io
 import re
 import json
 
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-<<<<<<< HEAD:hintsGenerator.py
-filePath = "/Users/rhe/Desktop/Grade 7_ Skill 11.7.txt"
-=======
-filePath = "/Users/sma/LazyGang/Grade 7- Skill 10.7.txt"
->>>>>>> 0aefb0b1a57e2341105be6563f41efd0ff8d7622:hitsGenerator/hintsGenerator.py
+filePath = "/Users/rhe/Desktop/Grade 7_ Skill 12.4.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -44,7 +41,7 @@ for test in finalAERight:
     print test
 
 
-regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d*\s*- Solution\)"
+regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))
@@ -116,3 +113,5 @@ with open('output.json', 'w') as txtfile:
     json.dump(finalData,txtfile)
 # for extHint in exeHints:
 #     print extHint
+
+

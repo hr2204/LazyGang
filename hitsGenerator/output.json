@@ -4,12 +4,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{4}{3}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Trapezoidal Prism} + \\text{Volume of Cube}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can add the volume of the right trapezoidal prism and the volume of the cube."
       }
     ]
   },
@@ -18,12 +18,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{16}{9} \\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& \\left ( \\left( \\dfrac{16\\ ft + 30\\ ft}{2} \\times 24\\ ft \\right )\\times 30\\ ft \\right ) + (30\\ ft \\times 30\\ ft \\times 30\\ ft)\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{16}{9}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -32,12 +32,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{16}{9} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&43,560\\ cu\\ ft \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
+        "value": "The volume of the solid figure is $43,560$ cubic feet."
       }
     ]
   },
@@ -46,12 +46,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{18\\ sq\\ in}&=&\\dfrac{16}{9}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Trapezoidal Prism} - \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $16.$"
+        "value": "To find the volume of the solid figure, we can subtract the volume of the right triangular prism from the volume of the right trapezoidal prism."
       }
     ]
   },
@@ -60,12 +60,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}18\\ sq\\ in \\times \\color{black}\\dfrac{\\text{A}}{18\\ sq\\ in}&=&\\dfrac{16}{9}\\ \\color{red}\\times\\ 18\\ sq\\ in \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& \\left ( \\left( \\dfrac{10\\ in + 20\\ in}{2} \\times 12\\ in \\right )\\times 6\\ in \\right ) - \\left ( \\dfrac{6\\ in \\times 4\\ in}{2} \\times 6\\ in  \\right )\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $18\\ sq\\ in$ to solve for the area of the large rectangle."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -74,12 +74,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&32\\ sq\\ in \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&1,008\\ cu\\ in \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the larger rectangle is $32\\ sq\\ in.$"
+        "value": "The volume of the solid figure is $1,008$ cubic inches."
       }
     ]
   },
@@ -88,12 +88,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{2}{3}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Rectangular Prism} + \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can add the volume of the right rectangular prism and the volume of the right triangular prism."
       }
     ]
   },
@@ -102,12 +102,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{4}{9}\\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (8\\ ft \\times 10\\ ft \\times 16\\ ft) + \\left ( \\dfrac{3\\ ft \\times 8\\ ft}{2} \\times 10\\ ft  \\right )\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{4}{9}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -116,12 +116,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{4}{9} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&1,400\\ cu\\ ft \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
+        "value": "The volume of the solid figure is $1,400$ cubic feet."
       }
     ]
   },
@@ -130,12 +130,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{45\\ sq\\ yd}&=&\\dfrac{4}{9}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Trapezoidal Prism} - \\text{Volume of Right Rectangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the large trapezoid, so we place that value next to $9$ since $9$ is larger than $4.$"
+        "value": "To find the volume of the solid figure, we can subtract the volume of the right rectangular prism from the volume of the right trapezoidal prism."
       }
     ]
   },
@@ -144,12 +144,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}45\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{45\\ sq\\ yd}&=&\\dfrac{4}{9}\\ \\color{red}\\times\\ 45\\ sq\\ yd\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& \\left ( \\left( \\dfrac{4\\ m + 10\\ m}{2} \\times 4\\ m \\right )\\times 4\\ m \\right ) - (1\\ m \\times 1\\ m \\times 4\\ m)\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $45\\ sq\\ yd$ to solve for the area of the small trapezoid."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -158,12 +158,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&20\\ sq\\ yd \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&108\\ cu\\ m \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the smaller trapezoid is $20\\ sq\\ yd.$"
+        "value": "The volume of the solid figure is $108$ cubic meters."
       }
     ]
   },
@@ -172,12 +172,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{2}{5}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Triangular Prism} + \\text{Volume of Right Rectangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can add the volume of the right triangular prism and the volume of the right rectangular prism."
       }
     ]
   },
@@ -186,12 +186,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{4}{25}\\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& \\left ( \\dfrac{12\\ yd \\times 8\\ yd}{2} \\times 6\\ yd  \\right ) + (12\\ yd \\times 6\\ yd \\times 14\\ yd) \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{4}{25}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -200,12 +200,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Triangle}}{\\text{Area of Large Triangle}}&=&\\dfrac{4}{25} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&1,296\\ cu\\ yd \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller triangle."
+        "value": "The volume of the solid figure is $1,296$ cubic yards."
       }
     ]
   },
@@ -214,12 +214,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{75\\ sq\\ km}&=&\\dfrac{4}{25}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Trapezoidal Prism} + \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the large triangle, so we place that value next to $25$ since $25$ is larger than $4.$"
+        "value": "To find the volume of the solid figure, we can add the volume of the right trapezoidal prism and the volume of the right triangular prism."
       }
     ]
   },
@@ -228,12 +228,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}75\\ sq\\ km \\times \\color{black}\\dfrac{\\text{A}}{75\\ sq\\ km}&=&\\dfrac{4}{25}\\ \\color{red}\\times\\ 75\\ sq\\ km\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& \\left ( \\left (\\dfrac{5\\ cm + 11\\ cm}{2} \\times 4\\ cm \\right ) \\times 6\\ cm  \\right ) + \\left ( \\dfrac{5\\ cm \\times 12\\ cm}{2} \\times 6\\ cm \\right ) \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $75\\ sq\\ km$ to solve for the area of the small triangle."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -242,12 +242,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&12\\ sq\\ km \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&372\\ cu\\ cm \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the smaller triangle is $12\\ sq\\ km.$"
+        "value": "The volume of the solid figure is $372$ cubic centimeters."
       }
     ]
   },
@@ -256,12 +256,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{7}{2}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Large Right Rectangular Prism} - \\text{Volume of Smaller Right Rectangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can subtract the volume of the smaller right rectangular prism from the volume of the large right rectangular prism"
       }
     ]
   },
@@ -270,12 +270,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{49}{4} \\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (8\\ m \\times 10\\ m \\times 14\\ m) - (2\\ m \\times 4\\ m \\times 14\\ m)\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\\dfrac{49}{4}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -284,12 +284,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{49}{4} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&1,008\\ cu\\ m \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
+        "value": "The volume of the solid figure is $1,008$ cubic meters."
       }
     ]
   },
@@ -298,12 +298,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{40\\ sq\\ yd}&=&\\dfrac{49}{4}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Cube} + \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the small rectangle, so we place that value next to $4$ since $4$ is smaller than $49.$"
+        "value": "To find the volume of the solid figure, we can add the volume of the cube and the volume of the right triangular prism."
       }
     ]
   },
@@ -312,12 +312,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}40\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{40\\ sq\\ yd}&=&\\dfrac{49}{4}\\ \\color{red}\\times\\ 40\\ sq\\ yd \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (10\\ cm \\times 10\\ cm \\times 10\\ cm) + \\left ( \\dfrac{24\\ cm \\times 10\\ cm}{2} \\times 10\\ cm \\right ) \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $40\\ sq\\ yd$ to solve for the area of the large rectangle."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -326,12 +326,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&490\\ sq\\ yd \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&2,200\\ cu\\ cm \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the larger rectangle is $490\\ sq\\ yd.$"
+        "value": "The volume of the solid figure is $2,200$ cubic centimeters."
       }
     ]
   },
@@ -340,12 +340,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{1}{6}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Rectangular Prism} - \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can subtract the volume of the right triangular prism from the volume of the right rectangular prism."
       }
     ]
   },
@@ -354,12 +354,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{1}{36}\\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (12\\ in \\times 14\\ in \\times 6\\ in) - \\left ( \\dfrac{4\\ in \\times 3\\ in}{2} \\times 6\\ in  \\right )\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\\dfrac{1}{36}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -368,12 +368,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Parallelogram}}{\\text{Area of Large Parallelogram}}&=&\\dfrac{1}{36} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&972\\ cu\\ in \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller parallelogram."
+        "value": "The volume of the solid figure is $972$ cubic inches."
       }
     ]
   },
@@ -382,12 +382,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{144\\ sq\\ in}&=&\\dfrac{1}{36}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Right Rectangular Prism} + \\text{Volume of Right Triangular Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the large parallelogram, so we place that value next to $36$ since $36$ is larger than $1.$"
+        "value": "To find the volume of the solid figure, we can add the volume of the right rectangular prism and the volume of the right triangular prism."
       }
     ]
   },
@@ -396,12 +396,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}144\\ sq\\ in\\ \\times \\color{black}\\dfrac{\\text{A}}{144\\ sq\\ in}&=&\\dfrac{1}{36}\\ \\color{red}\\times\\ 144\\ sq\\ in\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (24\\ yd \\times 20\\ yd \\times 10\\ yd) + \\left ( \\dfrac{24\\ yd \\times 16\\ yd}{2} \\times 20\\ yd \\right ) \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $144\\ sq\\ in$ to solve for the area of the small parallelogram."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -410,12 +410,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&4\\ sq\\ in \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&8,640\\ cu\\ yd \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the smaller parallelogram is $4\\ sq\\ in.$"
+        "value": "The volume of the solid figure is $8,640$ cubic yards."
       }
     ]
   },
@@ -424,12 +424,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{4}\\right)^{2}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Cube} - \\text{Volume of Right Trapezoidal Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+        "value": "To find the volume of the solid figure, we can subtract the volume of the right trapezoidal prism from the volume of the cube."
       }
     ]
   },
@@ -438,12 +438,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{9}{16}\\\\ \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (20\\ ft \\times 20\\ ft \\times 20\\ ft) - \\left ( \\left( \\dfrac{6\\ ft + 14\\ ft}{2} \\times 3\\ ft \\right )\\times 20\\ ft \\right ) \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\\dfrac{9}{16}.$"
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -452,12 +452,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{9}{16} \\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&7,400\\ cu\\ ft \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
+        "value": "The volume of the solid figure is $7,400$ cubic feet."
       }
     ]
   },
@@ -466,12 +466,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{112\\ sq\\ cm}&=&\\dfrac{9}{16}\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}\\text{Total Volume}&=&  \\text{Volume of Right Rectangular Prism} + \\text{Volume of Right Trapezoidal Prism}\\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "We know the area of the large trapezoid, so we place that value next to $16$ since $16$ is larger than $9.$"
+        "value": "To find the volume of the solid figure, we can add the volume of the right rectangular prism and the volume of the right trapezoidal prism."
       }
     ]
   },
@@ -480,12 +480,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}112\\ sq\\ cm\\ \\times \\color{black}\\dfrac{\\text{A}}{112\\ sq\\ cm}&=&\\dfrac{9}{16}\\ \\color{red}\\times\\ 112\\ sq\\ cm\\\\ \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=& (10\\ in \\times 3\\ in \\times 6\\ in) + \\left ( \\left (\\dfrac{4\\ in + 10\\ in}{2} \\times 4\\ in \\right ) \\times 3\\ in  \\right )  \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $112\\ sq\\ cm$ to solve for the area of the small trapezoid."
+        "value": "We use the formula $V=\\text{Base Area} \\times \\text{Height}$ to find the volumes."
       }
     ]
   },
@@ -494,516 +494,12 @@
     "row": [
       {
         "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&63\\ sq\\ cm \\end{array}$",
+        "value": " $\\begin{array}{rl}V&=&264\\ cu\\ in \\\\ \\end{array}$",
         "show": false
       },
       {
         "type": "mathtex_wrapper",
-        "value": "So the area of the smaller trapezoid is $63\\ sq\\ cm.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 37,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{5}{3}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 38,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{25}{9} \\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{25}{9}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 39,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{25}{9} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
-      }
-    ]
-  },
-  {
-    "hint_id": 40,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{81\\ sq\\ m}&=&\\dfrac{25}{9}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $25.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 41,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}81\\ sq\\ m \\times \\color{black}\\dfrac{\\text{A}}{81\\ sq\\ m}&=&\\dfrac{25}{9}\\ \\color{red}\\times\\ 81\\ sq\\ m \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $81\\ sq\\ m$ to solve for the area of the large rectangle."
-      }
-    ]
-  },
-  {
-    "hint_id": 42,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&225\\ sq\\ m \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the larger rectangle is $225\\ sq\\ m.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 43,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{4}{5}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 44,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{16}{25}\\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{16}{25}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 45,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Quadrilateral}}{\\text{Area of Large Quadrilateral}}&=&\\dfrac{16}{25} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller quadrilateral."
-      }
-    ]
-  },
-  {
-    "hint_id": 46,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{100\\ sq\\ km}&=&\\dfrac{16}{25}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the large quadrilateral, so we place that value next to $25$ since $25$ is larger than $16.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 47,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}100\\ sq\\ km\\ \\times \\color{black}\\dfrac{\\text{A}}{100\\ sq\\ km}&=&\\dfrac{16}{25}\\ \\color{red}\\times\\ 100\\ sq\\ km\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $100\\ sq\\ km$ to solve for the area of the small quadrilateral."
-      }
-    ]
-  },
-  {
-    "hint_id": 48,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&64\\ sq\\ km \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the smaller quadrilateral is $64\\ sq\\ km.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 49,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{2}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 50,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{9}{4} \\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\\dfrac{9}{4}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 51,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Triangle}}{\\text{Area of Small Triangle}}&=&\\dfrac{9}{4} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger triangle."
-      }
-    ]
-  },
-  {
-    "hint_id": 52,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{76\\ sq\\ ft}&=&\\dfrac{9}{4}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the small triangle, so we place that value next to $4$ since $4$ is smaller than $9.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 53,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}76\\ sq\\ ft \\times \\color{black}\\dfrac{\\text{A}}{76\\ sq\\ ft}&=&\\dfrac{9}{4}\\ \\color{red}\\times\\ 76\\ sq\\ ft \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $76\\ sq\\ ft$ to solve for the area of the large triangle."
-      }
-    ]
-  },
-  {
-    "hint_id": 54,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&171\\ sq\\ ft \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the larger triangle is $171\\ sq\\ ft.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 55,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{6}{5}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 56,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{36}{25} \\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{36}{25}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 57,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Parallelogram}}{\\text{Area of Small Parallelogram}}&=&\\dfrac{36}{25} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger parallelogram."
-      }
-    ]
-  },
-  {
-    "hint_id": 58,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{125\\ sq\\ in}&=&\\dfrac{36}{25}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the small parallelogram, so we place that value next to $25$ since $25$ is smaller than $36.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 59,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}125\\ sq\\ in \\times \\color{black}\\dfrac{\\text{A}}{125\\ sq\\ in}&=&\\dfrac{36}{25}\\ \\color{red}\\times\\ 125\\ sq\\ in \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $125\\ sq\\ in$ to solve for the area of the large parallelogram."
-      }
-    ]
-  },
-  {
-    "hint_id": 60,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&180\\ sq\\ in \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the larger parallelogram is $180\\ sq\\ in.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 61,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{7}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 62,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{9}{49}\\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\\dfrac{9}{49}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 63,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{9}{49} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
-      }
-    ]
-  },
-  {
-    "hint_id": 64,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{196\\ sq\\ m}&=&\\dfrac{9}{49}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the large trapezoid, so we place that value next to $49$ since $49$ is larger than $9.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 65,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}196\\ sq\\ m \\times \\color{black}\\dfrac{\\text{A}}{196\\ sq\\ m}&=&\\dfrac{9}{49}\\ \\color{red}\\times\\ 196\\ sq\\ m\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $196\\ sq\\ m$ to solve for the area of the small trapezoid."
-      }
-    ]
-  },
-  {
-    "hint_id": 66,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&36\\ sq\\ m \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the smaller trapezoid is $36\\ sq\\ m.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 67,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\left(\\dfrac{5}{4}\\right)^{2}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To find the ratio of areas, we must square the ratio of side lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 68,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}&\\dfrac{25}{16} \\\\ \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\\dfrac{25}{16}.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 69,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Quadrilateral}}{\\text{Area of Small Quadrilateral}}&=&\\dfrac{25}{16} \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we can set up a proportion to solve for the area of the larger quadrilateral."
-      }
-    ]
-  },
-  {
-    "hint_id": 70,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{96\\ sq\\ yd}&=&\\dfrac{25}{16}\\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We know the area of the small quadrilateral, so we place that value next to $16$ since $16$ is smaller than $25.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 71,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}\\color{red}96\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{96\\ sq\\ yd}&=&\\dfrac{25}{16}\\ \\color{red}\\times\\ 96\\ sq\\ yd \\\\ \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we multiply both sides of the equation by $96\\ sq\\ yd$ to solve for the area of the large quadrilateral."
-      }
-    ]
-  },
-  {
-    "hint_id": 72,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl}A&=&150\\ sq\\ yd \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So the area of the larger quadrilateral is $150\\ sq\\ yd.$"
+        "value": "The volume of the solid figure is $264$ cubic inches."
       }
     ]
   }
