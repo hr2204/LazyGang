@@ -1,1 +1,464 @@
-[{"hint_id": 1, "type": "mathtex_wrapper", "value": "When we multiply $15\\ m$ by $5,$ we get $75\\ m,$ so $x = 75\\ m.$"}, {"hint_id": 2, "type": "mathtex_wrapper", "value": "When we multiply $31\\ m$ by $5,$ we get $155\\ m,$ so $y = 155\\ m.$"}, {"hint_id": 3, "type": "mathtex_wrapper", "value": "Since the lengths of the pink rectangle are larger than the lengths of the purple rectangle, the pink rectangle is an enlargement of the purple rectangle."}, {"hint_id": 4, "type": "mathtex_wrapper", "value": "We multiplied by $5$ to find the side lengths of the pink rectangle, so the constant of proportionality is $5.$"}, {"hint_id": 5, "type": "mathtex_wrapper", "value": "When we multiply $24\\ yd$ by $\\dfrac{1}{6},$ we get $4\\ yd,$ so $x = 4\\ yd.$"}, {"hint_id": 6, "type": "mathtex_wrapper", "value": "When we multiply $36\\ yd$ by $\\dfrac{1}{6},$ we get $6\\ yd,$ so $y = 6\\ yd.$"}, {"hint_id": 7, "type": "mathtex_wrapper", "value": "Since the lengths of the blue parallelogram are smaller than the lengths of the orange parallelogram, the blue parallelogram is a reduction of the orange parallelogram."}, {"hint_id": 8, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{6}$ to find the side lengths of the blue parallelogram, so the constant of proportionality is $\\dfrac{1}{6}.$"}, {"hint_id": 9, "type": "mathtex_wrapper", "value": "When we multiply $7\\ in$ by $4,$ we get $28\\ in,$ so $x = 28\\ in.$"}, {"hint_id": 10, "type": "mathtex_wrapper", "value": "When we multiply $10\\ in$ by $4,$ we get $40\\ in,$ so $y = 40\\ in.$"}, {"hint_id": 11, "type": "mathtex_wrapper", "value": "Since the lengths of the green triangle are larger than the lengths of the pink triangle, the green triangle is an enlargement of the pink triangle."}, {"hint_id": 12, "type": "mathtex_wrapper", "value": "We multiplied by $4$ to find the side lengths of the green triangle, so the constant of proportionality is $4.$"}, {"hint_id": 13, "type": "mathtex_wrapper", "value": "When we multiply $9\\ ft$ by $\\dfrac{1}{3},$ we get $3\\ ft,$ so $x = 3\\ ft.$"}, {"hint_id": 14, "type": "mathtex_wrapper", "value": "When we multiply $6\\ ft$ by $\\dfrac{1}{3},$ we get $2\\ ft,$ so $y = 2\\ ft.$"}, {"hint_id": 15, "type": "mathtex_wrapper", "value": "Since the lengths of the green trapezoid are smaller than the lengths of the purple trapezoid, the green trapezoid is a reduction of the purple trapezoid."}, {"hint_id": 16, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{3}$ to find the side lengths of the green trapezoid, so the constant of proportionality is $\\dfrac{1}{2}.$"}, {"hint_id": 17, "type": "mathtex_wrapper", "value": "When we multiply $10\\ km$ by $6,$ we get $60\\ km,$ so $x = 60\\ km.$"}, {"hint_id": 18, "type": "mathtex_wrapper", "value": "When we multiply $17\\ km$ by $6,$ we get $102\\ km,$ so $y = 102\\ km.$"}, {"hint_id": 19, "type": "mathtex_wrapper", "value": "Since the lengths of the purple rectangle are larger than the lengths of the orange rectangle, the purple rectangle is an enlargement of the orange rectangle."}, {"hint_id": 20, "type": "mathtex_wrapper", "value": "We multiplied by $6$ to find the side lengths of the purple rectangle, so the constant of proportionality is $6.$"}, {"hint_id": 21, "type": "mathtex_wrapper", "value": "When we multiply $8\\ cm$ by $9,$ we get $72\\ cm,$ so $x = 72\\ cm.$"}, {"hint_id": 22, "type": "mathtex_wrapper", "value": "When we multiply $12\\ cm$ by $9,$ we get $108\\ cm,$ so $y = 108\\ cm.$"}, {"hint_id": 23, "type": "mathtex_wrapper", "value": "Since the lengths of the red parallelogram are larger than the lengths of the blue parallelogram, the red parallelogram is an enlargement of the blue parallelogram."}, {"hint_id": 24, "type": "mathtex_wrapper", "value": "We multiplied by $9$ to find the side lengths of the red parallelogram, so the constant of proportionality is $9.$"}, {"hint_id": 25, "type": "mathtex_wrapper", "value": "When we multiply $40\\ m$ by $\\dfrac{1}{4},$ we get $10\\ m,$ so $x = 10\\ m.$"}, {"hint_id": 26, "type": "mathtex_wrapper", "value": "When we multiply $48\\ m$ by $\\dfrac{1}{4},$ we get $12\\ m,$ so $y = 12\\ m.$"}, {"hint_id": 27, "type": "mathtex_wrapper", "value": "Since the lengths of the blue triangle are smaller than the lengths of the yellow triangle, the blue triangle is a reduction of the yellow triangle."}, {"hint_id": 28, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{4}$ to find the side lengths of the blue triangle, so the constant of proportionality is $\\dfrac{1}{4}.$"}, {"hint_id": 29, "type": "mathtex_wrapper", "value": "When we multiply $7\\ yd$ by $11,$ we get $77\\ yd,$ so $x = 77\\ yd.$"}, {"hint_id": 30, "type": "mathtex_wrapper", "value": "When we multiply $9\\ yd$ by $11,$ we get $99\\ yd,$ so $y = 99\\ yd.$"}, {"hint_id": 31, "type": "mathtex_wrapper", "value": "Since the lengths of the purple rectangle are larger than the lengths of the gray rectangle, the purple rectangle is an enlargement of the gray rectangle."}, {"hint_id": 32, "type": "mathtex_wrapper", "value": "We multiplied by $11$ to find the side lengths of the purple rectangle, so the constant of proportionality is $11.$"}, {"hint_id": 33, "type": "mathtex_wrapper", "value": "When we multiply $24\\ ft$ by $\\dfrac{1}{2},$ we get $12\\ ft,$ so $x = 12\\ ft.$"}, {"hint_id": 34, "type": "mathtex_wrapper", "value": "When we multiply $20\\ ft$ by $\\dfrac{1}{2},$ we get $10\\ ft,$ so $y = 10\\ ft.$"}, {"hint_id": 35, "type": "mathtex_wrapper", "value": "Since the lengths of the pink trapezoid are smaller than the lengths of the blue trapezoid, the pink trapezoid is a reduction of the blue trapezoid."}, {"hint_id": 36, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{2}$ to find the side lengths of the pink trapezoid, so the constant of proportionality is $\\dfrac{1}{2}.$"}, {"hint_id": 37, "type": "mathtex_wrapper", "value": "When we multiply $5\\ m$ by $\\dfrac{1}{5},$ we get $1\\ m,$ so $x = 1\\ m.$"}, {"hint_id": 38, "type": "mathtex_wrapper", "value": "When we multiply $35\\ m$ by $\\dfrac{1}{5},$ we get $7\\ m,$ so $y = 7\\ m.$"}, {"hint_id": 39, "type": "mathtex_wrapper", "value": "Since the lengths of the green rectangle are smaller than the lengths of the orange rectangle, the green rectangle is a reduction of the orange rectangle."}, {"hint_id": 40, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{5}$ to find the side lengths of the green rectangle, so the constant of proportionality is $\\dfrac{1}{5}.$"}, {"hint_id": 41, "type": "mathtex_wrapper", "value": "When we multiply $10\\ in$ by $8,$ we get $80\\ in,$ so $x = 80\\ in.$"}, {"hint_id": 42, "type": "mathtex_wrapper", "value": "When we multiply $4\\ in$ by $8,$ we get $32\\ in,$ so $y = 32\\ in.$"}, {"hint_id": 43, "type": "mathtex_wrapper", "value": "Since the lengths of the purple triangle are larger than the lengths of the red triangle, the purple triangle is an enlargement of the red triangle."}, {"hint_id": 44, "type": "mathtex_wrapper", "value": "We multiplied by $8$ to find the side lengths of the purple triangle, so the constant of proportionality is $8.$"}, {"hint_id": 45, "type": "mathtex_wrapper", "value": "When we multiply $16\\ cm$ by $\\dfrac{1}{4},$ we get $4\\ cm,$ so $x = 4\\ cm.$"}, {"hint_id": 46, "type": "mathtex_wrapper", "value": "When we multiply $8\\ cm$ by $\\dfrac{1}{4},$ we get $2\\ cm,$ so $y = 2\\ cm.$"}, {"hint_id": 47, "type": "mathtex_wrapper", "value": "Since the lengths of the yellow parallelogram are smaller than the lengths of the green parallelogram, the yellow parallelogram is a reduction of the green parallelogram."}, {"hint_id": 48, "type": "mathtex_wrapper", "value": "We multiplied by $\\dfrac{1}{4}$ to find the side lengths of the yellow parallelogram, so the constant of proportionality is $\\dfrac{1}{4}.$"}]
+[
+  {
+    "hint_id": 1,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 2,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(13 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $13 \\ m,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 3,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&530.66 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $530.66 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 4,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 5,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(10 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $20 \\ cm,$ so we use $10 \\ cm$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 6,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&314 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $314 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 7,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 8,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(11 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $11 \\ m,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 9,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&379.94 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $379.94 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 10,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 11,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(9 \\ ft)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $18 \\ ft,$ so we use $9 \\ ft$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 12,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&254.34 \\ sq \\ ft&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $254.34 \\ sq \\ ft.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 13,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 14,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(33 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $33 \\ cm,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 15,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&3,419.46 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $3,419.46 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 16,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 17,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(5 \\ in)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $10 \\ in,$ so we use $5 \\ in$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 18,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&78.5 \\ sq \\ in&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $78.5 \\ sq \\ in.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 19,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 20,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(4 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $4 \\ cm,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 21,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&50.24 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $50.24 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 22,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 23,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(15 \\ mi)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $15 \\ mi,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 24,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&706.5 \\ sq \\ mi&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $706.5 \\ sq \\ mi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 25,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 26,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(30 \\ km)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $60 \\ km,$ so we use $30 \\ km$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 27,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&2826 \\ sq \\ km&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $2,826 \\ sq \\ km.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 28,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 29,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(12 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $24 \\ m,$ so we use $12 \\ m$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 30,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&452.16 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $452.16 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 31,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 32,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(7 \\ in)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $7 \\ in,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 33,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&153.86 \\ sq \\ in&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $153.86 \\ sq \\ in.$"
+      }
+    ]
+  }
+]

@@ -5,7 +5,7 @@ import json
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/sma/LazyGang/Grade 7- Skill 10.7.txt"
+filePath = "/Users/rhe/Desktop/Grade 7_ Skill 12.4.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -113,3 +113,5 @@ with open('output.json', 'w') as txtfile:
     json.dump(finalData,txtfile)
 # for extHint in exeHints:
 #     print extHint
+
+
