@@ -1,0 +1,2271 @@
+10.7 PROGRAMMING INSTRUCTIONS
+TYPE
+input and drop down
+Hint type
+2 column
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+The ratio between the side lengths of two quadrilaterals is $\dfrac{3}{1}.$ The area of the smaller quadrilateral is $3 \ sq \ cm.$
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}=\dfrac{9}{1}&\color{blue} \text{Then we can set up a proportion to solve for the area of the larger quadrilateral.} \\
+\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1}&\color{blue} \text{We know the area of the small quadrilateral, so we place that value next to }1 \text{ since } 1 \text{ is smaller than }9. \\
+\color{red}3 \ sq \ cm \ \times \color{black}\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1} \ \color{red}\times \ 3 \ sq \ cm&\color{blue} \text{Then we multiply both sides of the equation by }3 \ sq \ cm \text{ to solve for the area of the large quadrilateral.} \\
+A=27 \ sq \ cm&\color{blue}\text{So the area of the larger quadrilateral is }27 \ sq \ cm.
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo Start #1)
+The ratio between the side lengths of two quadrilaterals is $\dfrac{3}{1}.$ The area of the smaller quadrilateral is $3 \ sq \ cm.$
+What is the ratio between the areas of the two quadrilaterals?
+What is the area of the larger quadrilateral?
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+1st Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+2nd Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+9
+1
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+3rd Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}=\dfrac{9}{1}&\color{blue} \text{Then we can set up a proportion to solve for the area of the larger quadrilateral.} \\
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+9
+1
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+4th Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}=\dfrac{9}{1}&\color{blue} \text{Then we can set up a proportion to solve for the area of the larger quadrilateral.} \\
+\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1}&\color{blue} \text{We know the area of the small quadrilateral, so we place that value next to }1 \text{ since } 1 \text{ is smaller than }9. \\
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+9
+1
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+5th Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}=\dfrac{9}{1}&\color{blue} \text{Then we can set up a proportion to solve for the area of the larger quadrilateral.} \\
+\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1}&\color{blue} \text{We know the area of the small quadrilateral, so we place that value next to }1 \text{ since } 1 \text{ is smaller than }9. \\
+\color{red}3 \ sq \ cm \ \times \color{black}\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1} \ \color{red}\times \ 3 \ sq \ cm&\color{blue} \text{Then we multiply both sides of the equation by }3 \ sq \ cm \text{ to solve for the area of the large quadrilateral.} \\
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+9
+1
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #1)
+6th Click.
+What is the ratio between the areas of the two quadrilaterals?
+$\begin{array}{cl}
+\left(\dfrac{3}{1}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{9}{1}&\color{blue} \text{Since }3^{2} = 9 \text{ and } 1^{2} = 1, \text{ the ratio between the two areas is }\dfrac{9}{1}. \\
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}=\dfrac{9}{1}&\color{blue} \text{Then we can set up a proportion to solve for the area of the larger quadrilateral.} \\
+\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1}&\color{blue} \text{We know the area of the small quadrilateral, so we place that value next to }1 \text{ since } 1 \text{ is smaller than }9. \\
+\color{red}3 \ sq \ cm \ \times \color{black}\dfrac{\text{A}}{3 \ sq \ cm}=\dfrac{9}{1} \ \color{red}\times \ 3 \ sq \ cm&\color{blue} \text{Then we multiply both sides of the equation by }3 \ sq \ cm \text{ to solve for the area of the large quadrilateral.} \\
+A=27 \ sq \ cm&\color{blue}\text{So the area of the larger quadrilateral is }27 \ sq \ cm.
+\end{array}$ 
+
+
+
+What is the area of the larger quadrilateral?
+27
+sq cm
+9
+1
+Dropdown Options: 
+[cm, sq cm]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1)
+The ratio between the side lengths of two rectangles is $\dfrac{4}{3}.$ The area of the smaller rectangle is $18\ sq\ in.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+sq in
+9
+Value
+Solution
+Dropdown
+R1
+16
+R2
+9
+9
+R3C1
+32
+R3C2
+sq in
+sq in
+[in, sq in]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}\\
+
+&\dfrac{16}{9} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{16}{9}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}\\
+
+&\dfrac{16}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{16}{9} 
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{16}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}\\
+
+&\dfrac{16}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{16}{9} \\
+
+\dfrac{\text{A}}{18\ sq\ in}&=&\dfrac{16}{9}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{16}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $16.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}\\
+
+&\dfrac{16}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{16}{9} \\
+
+\dfrac{\text{A}}{18\ sq\ in}&=&\dfrac{16}{9}\\
+
+\color{red}18\ sq\ in \times \color{black}\dfrac{\text{A}}{18\ sq\ in}&=&\dfrac{16}{9}\ \color{red}\times\ 18\ sq\ in
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{16}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $16.$
+
+Then we multiply both sides of the equation by $18\ sq\ in$ to solve for the area of the large rectangle.
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{3}\right)^{2}\\
+
+&\dfrac{16}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{16}{9} \\
+
+\dfrac{\text{A}}{18\ sq\ in}&=&\dfrac{16}{9}\\
+
+\color{red}18\ sq\ in \times \color{black}\dfrac{\text{A}}{18\ sq\ in}&=&\dfrac{16}{9}\ \color{red}\times\ 18\ sq\ in \\
+
+A&=&32\ sq\ in
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{16}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $16.$
+
+Then we multiply both sides of the equation by $18\ sq\ in$ to solve for the area of the large rectangle.
+
+So the area of the larger rectangle is $32\ sq\ in.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #1 - Solution)
+The ratio between the side lengths of two rectangles is $\dfrac{4}{3}.$ The area of the smaller rectangle is $18\ sq\ in.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+sq in
+9
+Value
+Solution
+Dropdown
+R1
+16
+R2
+9
+9
+R3C1
+32
+R3C2
+sq in
+sq in
+[in, sq in]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+The ratio between the side lengths of two triangles is $\dfrac{1}{2}.$ The area of the larger triangle is $24 \ sq \ m.$
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}=\dfrac{1}{4}&\color{blue} \text{Then we can set up a proportion to solve for the area of the smaller triangle.} \\
+\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4}&\color{blue} \text{We know the area of the large triangle, so we place that value next to }4 \text{ since } 4 \text{ is larger than }1. \\
+\color{red}24 \ sq \ m \ \times \color{black}\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4} \ \color{red}\times \ 24 \ sq \ m&\color{blue} \text{Then we multiply both sides of the equation by }24 \ sq \ m \text{ to solve for the area of the small triangle.} \\
+A=6 \ sq \ m&\color{blue}\text{So the area of the smaller triangle is }6 \ sq \ m.
+\end{array}$ 
+
+What is the area of the smaller quadrilateral?
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo Start #2)
+The ratio between the side lengths of two triangles is $\dfrac{1}{2}.$ The area of the larger triangle is $24 \ sq \ m.$
+What is the ratio between the areas of the two triangles?
+What is the area of the smaller triangle?
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+1st Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\end{array}$ 
+
+What is the area of the smaller triangle?
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+2nd Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\end{array}$ 
+
+What is the area of the smaller triangle?
+1
+4
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+3rd Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}=\dfrac{1}{4}&\color{blue} \text{Then we can set up a proportion to solve for the area of the smaller triangle.} \\
+\end{array}$ 
+
+What is the area of the smaller triangle?
+1
+4
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+4th Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}=\dfrac{1}{4}&\color{blue} \text{Then we can set up a proportion to solve for the area of the smaller triangle.} \\
+\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4}&\color{blue} \text{We know the area of the large triangle, so we place that value next to }4 \text{ since } 4 \text{ is larger than }1. \\
+\end{array}$ 
+
+What is the area of the smaller triangle?
+1
+4
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+5th Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}=\dfrac{1}{4}&\color{blue} \text{Then we can set up a proportion to solve for the area of the smaller triangle.} \\
+\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4}&\color{blue} \text{We know the area of the large triangle, so we place that value next to }4 \text{ since } 4 \text{ is larger than }1. \\
+\color{red}24 \ sq \ m \ \times \color{black}\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4} \ \color{red}\times \ 24 \ sq \ m&\color{blue} \text{Then we multiply both sides of the equation by }24 \ sq \ m \text{ to solve for the area of the small triangle.} \\
+\end{array}$ 
+
+What is the area of the smaller triangle?
+1
+4
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Demo #2)
+6th Click.
+What is the ratio between the areas of the two triangles?
+$\begin{array}{cl}
+\left(\dfrac{1}{2}\right)^{2}&\color{blue} \text{To find the ratio of areas, we must square the ratio of side lengths.} \\
+\dfrac{1}{4}&\color{blue} \text{Since }1^{2} = 1 \text{ and } 2^{2} = 4, \text{ the ratio between the two areas is }\dfrac{1}{4}. \\
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}=\dfrac{1}{4}&\color{blue} \text{Then we can set up a proportion to solve for the area of the smaller triangle.} \\
+\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4}&\color{blue} \text{We know the area of the large triangle, so we place that value next to }4 \text{ since } 4 \text{ is larger than }1. \\
+\color{red}24 \ sq \ m \ \times \color{black}\dfrac{\text{A}}{24 \ sq \ m}=\dfrac{1}{4} \ \color{red}\times \ 24 \ sq \ m&\color{blue} \text{Then we multiply both sides of the equation by }24 \ sq \ m \text{ to solve for the area of the small triangle.} \\
+A=6 \ sq \ m&\color{blue}\text{So the area of the smaller triangle is }6 \ sq \ m.
+\end{array}$ 
+
+What is the area of the smaller triangle?
+6
+sq m
+1
+4
+Dropdown Options: 
+[m, sq m]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2)
+The ratio between the side lengths of two trapezoids is $\dfrac{2}{3}.$ The area of the larger trapezoid is $45\ sq\ yd.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+sq yd
+4
+Value
+Solution
+Dropdown
+R1
+4
+4
+R2
+9
+R3C1
+20
+R3C2
+sq yd
+sq yd
+[yd, sq yd]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}\\
+
+&\dfrac{4}{9}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{4}{9}.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}\\
+
+&\dfrac{4}{9}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{4}{9}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{4}{9}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}\\
+
+&\dfrac{4}{9}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{4}{9} \\
+
+\dfrac{\text{A}}{45\ sq\ yd}&=&\dfrac{4}{9}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{4}{9}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $9$ since $9$ is larger than $4.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}\\
+
+&\dfrac{4}{9}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{4}{9} \\
+
+\dfrac{\text{A}}{45\ sq\ yd}&=&\dfrac{4}{9}\\
+
+\color{red}45\ sq\ yd \times \color{black}\dfrac{\text{A}}{45\ sq\ yd}&=&\dfrac{4}{9}\ \color{red}\times\ 45\ sq\ yd
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{4}{9}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $9$ since $9$ is larger than $4.$
+
+Then we multiply both sides of the equation by $45\ sq\ yd$ to solve for the area of the small trapezoid.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{3}\right)^{2}\\
+
+&\dfrac{4}{9}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{4}{9} \\
+
+\dfrac{\text{A}}{45\ sq\ yd}&=&\dfrac{4}{9}\\
+
+\color{red}45\ sq\ yd \times \color{black}\dfrac{\text{A}}{45\ sq\ yd}&=&\dfrac{4}{9}\ \color{red}\times\ 45\ sq\ yd\\
+
+A&=&20\ sq\ yd
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{4}{9}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $9$ since $9$ is larger than $4.$
+
+Then we multiply both sides of the equation by $45\ sq\ yd$ to solve for the area of the small trapezoid.
+
+So the area of the smaller trapezoid is $20\ sq\ yd.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Assisted Exercise #2 - Solution)
+The ratio between the side lengths of two trapezoids is $\dfrac{2}{3}.$ The area of the larger trapezoid is $45\ sq\ yd.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+sq yd
+4
+Value
+Solution
+Dropdown
+R1
+4
+4
+R2
+9
+R3C1
+20
+R3C2
+sq yd
+sq yd
+[yd, sq yd]
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1)
+The ratio between the side lengths of two triangles is $\dfrac{2}{5}.$ The area of the larger triangle is $75\ sq\ km.$
+What is the ratio between the areas of the two triangles?
+What is the area of the smaller triangles?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}\\
+
+&\dfrac{4}{25}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{4}{25}.$
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}\\
+
+&\dfrac{4}{25}\\ \\
+
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}&=&\dfrac{4}{25} 
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{4}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller triangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}\\
+
+&\dfrac{4}{25}\\ \\
+
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}&=&\dfrac{4}{25} \\
+
+\dfrac{\text{A}}{75\ sq\ km}&=&\dfrac{4}{25}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{4}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller triangle.
+
+We know the area of the large triangle, so we place that value next to $25$ since $25$ is larger than $4.$
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}\\
+
+&\dfrac{4}{25}\\ \\
+
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}&=&\dfrac{4}{25} \\
+
+\dfrac{\text{A}}{75\ sq\ km}&=&\dfrac{4}{25}\\
+
+\color{red}75\ sq\ km \times \color{black}\dfrac{\text{A}}{75\ sq\ km}&=&\dfrac{4}{25}\ \color{red}\times\ 75\ sq\ km
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{4}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller triangle.
+
+We know the area of the large triangle, so we place that value next to $25$ since $25$ is larger than $4.$
+
+Then we multiply both sides of the equation by $75\ sq\ km$ to solve for the area of the small triangle.
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{2}{5}\right)^{2}\\
+
+&\dfrac{4}{25}\\ \\
+
+\dfrac{\text{Area of Small Triangle}}{\text{Area of Large Triangle}}&=&\dfrac{4}{25} \\
+
+\dfrac{\text{A}}{75\ sq\ km}&=&\dfrac{4}{25}\\
+
+\color{red}75\ sq\ km \times \color{black}\dfrac{\text{A}}{75\ sq\ km}&=&\dfrac{4}{25}\ \color{red}\times\ 75\ sq\ km\\
+
+A&=&12\ sq\ km
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{4}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller triangle.
+
+We know the area of the large triangle, so we place that value next to $25$ since $25$ is larger than $4.$
+
+Then we multiply both sides of the equation by $75\ sq\ km$ to solve for the area of the small triangle.
+
+So the area of the smaller triangle is $12\ sq\ km.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #1 - Solution)
+Solution
+Dropdown
+R1
+4
+R2
+25
+R3C1
+12
+R3C2
+sq km
+[km, sq km]
+The ratio between the side lengths of two triangles is $\dfrac{2}{5}.$ The area of the larger triangle is $75\ sq\ km.$
+What is the ratio between the areas of the two triangles?
+What is the area of the smaller triangles?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2)
+The ratio between the side lengths of two rectangles is $\dfrac{7}{2}.$ The area of the smaller rectangle is $40\ sq\ yd.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}\\
+
+&\dfrac{49}{4} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{49}{4}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}\\
+
+&\dfrac{49}{4} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{49}{4}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{49}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}\\
+
+&\dfrac{49}{4} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{49}{4} \\
+
+\dfrac{\text{A}}{40\ sq\ yd}&=&\dfrac{49}{4}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{49}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $4$ since $4$ is smaller than $49.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}\\
+
+&\dfrac{49}{4} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{49}{4} \\
+
+\dfrac{\text{A}}{40\ sq\ yd}&=&\dfrac{49}{4}\\
+
+\color{red}40\ sq\ yd \times \color{black}\dfrac{\text{A}}{40\ sq\ yd}&=&\dfrac{49}{4}\ \color{red}\times\ 40\ sq\ yd
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{49}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $4$ since $4$ is smaller than $49.$
+
+Then we multiply both sides of the equation by $40\ sq\ yd$ to solve for the area of the large rectangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{7}{2}\right)^{2}\\
+
+&\dfrac{49}{4} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{49}{4} \\
+
+\dfrac{\text{A}}{40\ sq\ yd}&=&\dfrac{49}{4}\\
+
+\color{red}40\ sq\ yd \times \color{black}\dfrac{\text{A}}{40\ sq\ yd}&=&\dfrac{49}{4}\ \color{red}\times\ 40\ sq\ yd \\
+
+A&=&490\ sq\ yd
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{49}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $4$ since $4$ is smaller than $49.$
+
+Then we multiply both sides of the equation by $40\ sq\ yd$ to solve for the area of the large rectangle.
+
+So the area of the larger rectangle is $490\ sq\ yd.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #2 - Solution)
+Solution
+Dropdown
+R1
+49
+R2
+4
+R3C1
+490
+R3C2
+sq yd
+[yd, sq yd]
+The ratio between the side lengths of two rectangles is $\dfrac{7}{2}.$ The area of the smaller rectangle is $40\ sq\ yd.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3)
+The ratio between the side lengths of two parallelograms is $\dfrac{1}{6}.$ The area of the larger parallelogram is $144\ sq\ in.$
+What is the ratio between the areas of the two parallelograms?
+What is the area of the smaller parallelogram?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}\\
+
+&\dfrac{1}{36}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\dfrac{1}{36}.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}\\
+
+&\dfrac{1}{36}\\ \\
+
+\dfrac{\text{Area of Small Parallelogram}}{\text{Area of Large Parallelogram}}&=&\dfrac{1}{36}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\dfrac{1}{36}.$
+
+Then we can set up a proportion to solve for the area of the smaller parallelogram.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}\\
+
+&\dfrac{1}{36}\\ \\
+
+\dfrac{\text{Area of Small Parallelogram}}{\text{Area of Large Parallelogram}}&=&\dfrac{1}{36} \\
+
+\dfrac{\text{A}}{144\ sq\ in}&=&\dfrac{1}{36}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\dfrac{1}{36}.$
+
+Then we can set up a proportion to solve for the area of the smaller parallelogram.
+
+We know the area of the large parallelogram, so we place that value next to $36$ since $36$ is larger than $1.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}\\
+
+&\dfrac{1}{36}\\ \\
+
+\dfrac{\text{Area of Small Parallelogram}}{\text{Area of Large Parallelogram}}&=&\dfrac{1}{36} \\
+
+\dfrac{\text{A}}{144\ sq\ in}&=&\dfrac{1}{36}\\
+
+\color{red}144\ sq\ in\ \times \color{black}\dfrac{\text{A}}{144\ sq\ in}&=&\dfrac{1}{36}\ \color{red}\times\ 144\ sq\ in
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\dfrac{1}{36}.$
+
+Then we can set up a proportion to solve for the area of the smaller parallelogram.
+
+We know the area of the large parallelogram, so we place that value next to $36$ since $36$ is larger than $1.$
+
+Then we multiply both sides of the equation by $144\ sq\ in$ to solve for the area of the small parallelogram.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{1}{6}\right)^{2}\\
+
+&\dfrac{1}{36}\\ \\
+
+\dfrac{\text{Area of Small Parallelogram}}{\text{Area of Large Parallelogram}}&=&\dfrac{1}{36} \\
+
+\dfrac{\text{A}}{144\ sq\ in}&=&\dfrac{1}{36}\\
+
+\color{red}144\ sq\ in\ \times \color{black}\dfrac{\text{A}}{144\ sq\ in}&=&\dfrac{1}{36}\ \color{red}\times\ 144\ sq\ in\\
+
+A&=&4\ sq\ in
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\dfrac{1}{36}.$
+
+Then we can set up a proportion to solve for the area of the smaller parallelogram.
+
+We know the area of the large parallelogram, so we place that value next to $36$ since $36$ is larger than $1.$
+
+Then we multiply both sides of the equation by $144\ sq\ in$ to solve for the area of the small parallelogram.
+
+So the area of the smaller parallelogram is $4\ sq\ in.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #3 - Solution)
+Solution
+Dropdown
+R1
+1
+R2
+36
+R3C1
+4
+R3C2
+sq in
+[in, sq in]
+The ratio between the side lengths of two parallelograms is $\dfrac{1}{6}.$ The area of the larger parallelogram is $144\ sq\ in.$
+What is the ratio between the areas of the two parallelograms?
+What is the area of the smaller parallelogram?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4)
+The ratio between the side lengths of two trapezoids is $\dfrac{3}{4}.$ The area of the larger trapezoid is $112\ sq\ cm.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}\\
+
+&\dfrac{9}{16}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{9}{16}.$
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}\\
+
+&\dfrac{9}{16}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{16} 
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{9}{16}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}\\
+
+&\dfrac{9}{16}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{16} \\
+
+\dfrac{\text{A}}{112\ sq\ cm}&=&\dfrac{9}{16}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{9}{16}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $16$ since $16$ is larger than $9.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}\\
+
+&\dfrac{9}{16}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{16} \\
+
+\dfrac{\text{A}}{112\ sq\ cm}&=&\dfrac{9}{16}\\
+
+\color{red}112\ sq\ cm\ \times \color{black}\dfrac{\text{A}}{112\ sq\ cm}&=&\dfrac{9}{16}\ \color{red}\times\ 112\ sq\ cm
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{9}{16}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $16$ since $16$ is larger than $9.$
+
+Then we multiply both sides of the equation by $112\ sq\ cm$ to solve for the area of the small trapezoid.
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{4}\right)^{2}\\
+
+&\dfrac{9}{16}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{16} \\
+
+\dfrac{\text{A}}{112\ sq\ cm}&=&\dfrac{9}{16}\\
+
+\color{red}112\ sq\ cm\ \times \color{black}\dfrac{\text{A}}{112\ sq\ cm}&=&\dfrac{9}{16}\ \color{red}\times\ 112\ sq\ cm\\
+
+A&=&63\ sq\ cm
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{9}{16}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $16$ since $16$ is larger than $9.$
+
+Then we multiply both sides of the equation by $112\ sq\ cm$ to solve for the area of the small trapezoid.
+
+So the area of the smaller trapezoid is $63\ sq\ cm.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #4 - Solution)
+Solution
+Dropdown
+R1
+9
+R2
+16
+R3C1
+63
+R3C2
+sq cm
+[cm, sq cm]
+The ratio between the side lengths of two trapezoids is $\dfrac{3}{4}.$ The area of the larger trapezoid is $112\ sq\ cm.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5)
+The ratio between the side lengths of two rectangles is $\dfrac{5}{3}.$ The area of the smaller rectangle is $81\ sq\ m.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}\\
+
+&\dfrac{25}{9} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{25}{9}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}\\
+
+&\dfrac{25}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{25}{9}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{25}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}\\
+
+&\dfrac{25}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{25}{9} \\
+
+\dfrac{\text{A}}{81\ sq\ m}&=&\dfrac{25}{9}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{25}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $25.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}\\
+
+&\dfrac{25}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{25}{9} \\
+
+\dfrac{\text{A}}{81\ sq\ m}&=&\dfrac{25}{9}\\
+
+\color{red}81\ sq\ m \times \color{black}\dfrac{\text{A}}{81\ sq\ m}&=&\dfrac{25}{9}\ \color{red}\times\ 81\ sq\ m 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{25}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $25.$
+
+Then we multiply both sides of the equation by $81\ sq\ m$ to solve for the area of the large rectangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{3}\right)^{2}\\
+
+&\dfrac{25}{9} \\ \\
+
+\dfrac{\text{Area of Large Rectangle}}{\text{Area of Small Rectangle}}&=&\dfrac{25}{9} \\
+
+\dfrac{\text{A}}{81\ sq\ m}&=&\dfrac{25}{9}\\
+
+\color{red}81\ sq\ m \times \color{black}\dfrac{\text{A}}{81\ sq\ m}&=&\dfrac{25}{9}\ \color{red}\times\ 81\ sq\ m \\
+
+A&=&225\ sq\ m
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\dfrac{25}{9}.$
+
+Then we can set up a proportion to solve for the area of the larger rectangle.
+
+We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $25.$
+
+Then we multiply both sides of the equation by $81\ sq\ m$ to solve for the area of the large rectangle.
+
+So the area of the larger rectangle is $225\ sq\ m.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #5 - Solution)
+Solution
+Dropdown
+R1
+25
+R2
+9
+R3C1
+225
+R3C2
+sq m
+[m, sq m]
+The ratio between the side lengths of two rectangles is $\dfrac{5}{3}.$ The area of the smaller rectangle is $81\ sq\ m.$
+What is the ratio between the areas of the two rectangles?
+What is the area of the larger rectangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6)
+The ratio between the side lengths of two quadrilaterals is $\dfrac{4}{5}.$ The area of the larger quadrilateral is $100\ sq\ km.$
+What is the ratio between the areas of the two quadrilaterals?
+What is the area of the smaller quadrilateral?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}\\
+
+&\dfrac{16}{25}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{16}{25}.$
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}\\
+
+&\dfrac{16}{25}\\ \\
+
+\dfrac{\text{Area of Small Quadrilateral}}{\text{Area of Large Quadrilateral}}&=&\dfrac{16}{25} 
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{16}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller quadrilateral.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}\\
+
+&\dfrac{16}{25}\\ \\
+
+\dfrac{\text{Area of Small Quadrilateral}}{\text{Area of Large Quadrilateral}}&=&\dfrac{16}{25} \\
+
+\dfrac{\text{A}}{100\ sq\ km}&=&\dfrac{16}{25}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{16}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller quadrilateral.
+
+We know the area of the large quadrilateral, so we place that value next to $25$ since $25$ is larger than $16.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}\\
+
+&\dfrac{16}{25}\\ \\
+
+\dfrac{\text{Area of Small Quadrilateral}}{\text{Area of Large Quadrilateral}}&=&\dfrac{16}{25} \\
+
+\dfrac{\text{A}}{100\ sq\ km}&=&\dfrac{16}{25}\\
+
+\color{red}100\ sq\ km\ \times \color{black}\dfrac{\text{A}}{100\ sq\ km}&=&\dfrac{16}{25}\ \color{red}\times\ 100\ sq\ km
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{16}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller quadrilateral.
+
+We know the area of the large quadrilateral, so we place that value next to $25$ since $25$ is larger than $16.$
+
+Then we multiply both sides of the equation by $100\ sq\ km$ to solve for the area of the small quadrilateral.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{4}{5}\right)^{2}\\
+
+&\dfrac{16}{25}\\ \\
+
+\dfrac{\text{Area of Small Quadrilateral}}{\text{Area of Large Quadrilateral}}&=&\dfrac{16}{25} \\
+
+\dfrac{\text{A}}{100\ sq\ km}&=&\dfrac{16}{25}\\
+
+\color{red}100\ sq\ km\ \times \color{black}\dfrac{\text{A}}{100\ sq\ km}&=&\dfrac{16}{25}\ \color{red}\times\ 100\ sq\ km\\
+
+A&=&64\ sq\ km
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{16}{25}.$
+
+Then we can set up a proportion to solve for the area of the smaller quadrilateral.
+
+We know the area of the large quadrilateral, so we place that value next to $25$ since $25$ is larger than $16.$
+
+Then we multiply both sides of the equation by $100\ sq\ km$ to solve for the area of the small quadrilateral.
+
+So the area of the smaller quadrilateral is $64\ sq\ km.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #6 - Solution)
+Solution
+Dropdown
+R1
+16
+R2
+25
+R3C1
+64
+R3C2
+sq km
+[km, sq km]
+The ratio between the side lengths of two quadrilaterals is $\dfrac{4}{5}.$ The area of the larger quadrilateral is $100\ sq\ km.$
+What is the ratio between the areas of the two quadrilaterals?
+What is the area of the smaller quadrilateral?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7)
+The ratio between the side lengths of two triangles is $\dfrac{3}{2}.$ The area of the smaller triangle is $76\ sq\ ft.$
+What is the ratio between the areas of the two triangles?
+What is the area of the larger triangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}\\
+
+&\dfrac{9}{4}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{9}{4}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}\\
+
+&\dfrac{9}{4} \\ \\
+
+\dfrac{\text{Area of Large Triangle}}{\text{Area of Small Triangle}}&=&\dfrac{9}{4}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{9}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger triangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}\\
+
+&\dfrac{9}{4} \\ \\
+
+\dfrac{\text{Area of Large Triangle}}{\text{Area of Small Triangle}}&=&\dfrac{9}{4} \\
+
+\dfrac{\text{A}}{76\ sq\ ft}&=&\dfrac{9}{4}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{9}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger triangle.
+
+We know the area of the small triangle, so we place that value next to $4$ since $4$ is smaller than $9.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}\\
+
+&\dfrac{9}{4} \\ \\
+
+\dfrac{\text{Area of Large Triangle}}{\text{Area of Small Triangle}}&=&\dfrac{9}{4} \\
+
+\dfrac{\text{A}}{76\ sq\ ft}&=&\dfrac{9}{4}\\
+
+\color{red}76\ sq\ ft \times \color{black}\dfrac{\text{A}}{76\ sq\ ft}&=&\dfrac{9}{4}\ \color{red}\times\ 76\ sq\ ft 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{9}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger triangle.
+
+We know the area of the small triangle, so we place that value next to $4$ since $4$ is smaller than $9.$
+
+Then we multiply both sides of the equation by $76\ sq\ ft$ to solve for the area of the large triangle.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{2}\right)^{2}\\
+
+&\dfrac{9}{4} \\ \\
+
+\dfrac{\text{Area of Large Triangle}}{\text{Area of Small Triangle}}&=&\dfrac{9}{4} \\
+
+\dfrac{\text{A}}{76\ sq\ ft}&=&\dfrac{9}{4}\\
+
+\color{red}76\ sq\ ft \times \color{black}\dfrac{\text{A}}{76\ sq\ ft}&=&\dfrac{9}{4}\ \color{red}\times\ 76\ sq\ ft \\
+
+A&=&171\ sq\ ft
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\dfrac{9}{4}.$
+
+Then we can set up a proportion to solve for the area of the larger triangle.
+
+We know the area of the small triangle, so we place that value next to $4$ since $4$ is smaller than $9.$
+
+Then we multiply both sides of the equation by $76\ sq\ ft$ to solve for the area of the large triangle.
+
+So the area of the larger triangle is $171\ sq\ ft.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #7 - Solution)
+Solution
+Dropdown
+R1
+9
+R2
+4
+R3C1
+171
+R3C2
+sq ft
+[ft, sq ft]
+The ratio between the side lengths of two triangles is $\dfrac{3}{2}.$ The area of the smaller triangle is $76\ sq\ ft.$
+What is the ratio between the areas of the two triangles?
+What is the area of the larger triangle?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8)
+The ratio between the side lengths of two parallelograms is $\dfrac{6}{5}.$ The area of the smaller parallelogram is $125\ sq\ in.$
+What is the ratio between the areas of the two parallelograms?
+What is the area of the larger parallelogram?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}\\
+
+&\dfrac{36}{25} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{36}{25}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}\\
+
+&\dfrac{36}{25} \\ \\
+
+\dfrac{\text{Area of Large Parallelogram}}{\text{Area of Small Parallelogram}}&=&\dfrac{36}{25} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{36}{25}.$
+
+Then we can set up a proportion to solve for the area of the larger parallelogram.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}\\
+
+&\dfrac{36}{25} \\ \\
+
+\dfrac{\text{Area of Large Parallelogram}}{\text{Area of Small Parallelogram}}&=&\dfrac{36}{25} \\
+
+\dfrac{\text{A}}{125\ sq\ in}&=&\dfrac{36}{25}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{36}{25}.$
+
+Then we can set up a proportion to solve for the area of the larger parallelogram.
+
+We know the area of the small parallelogram, so we place that value next to $25$ since $25$ is smaller than $36.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}\\
+
+&\dfrac{36}{25} \\ \\
+
+\dfrac{\text{Area of Large Parallelogram}}{\text{Area of Small Parallelogram}}&=&\dfrac{36}{25} \\
+
+\dfrac{\text{A}}{125\ sq\ in}&=&\dfrac{36}{25}\\
+
+\color{red}125\ sq\ in \times \color{black}\dfrac{\text{A}}{125\ sq\ in}&=&\dfrac{36}{25}\ \color{red}\times\ 125\ sq\ in 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{36}{25}.$
+
+Then we can set up a proportion to solve for the area of the larger parallelogram.
+
+We know the area of the small parallelogram, so we place that value next to $25$ since $25$ is smaller than $36.$
+
+Then we multiply both sides of the equation by $125\ sq\ in$ to solve for the area of the large parallelogram.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{6}{5}\right)^{2}\\
+
+&\dfrac{36}{25} \\ \\
+
+\dfrac{\text{Area of Large Parallelogram}}{\text{Area of Small Parallelogram}}&=&\dfrac{36}{25} \\
+
+\dfrac{\text{A}}{125\ sq\ in}&=&\dfrac{36}{25}\\
+
+\color{red}125\ sq\ in \times \color{black}\dfrac{\text{A}}{125\ sq\ in}&=&\dfrac{36}{25}\ \color{red}\times\ 125\ sq\ in \\
+
+A&=&180\ sq\ in
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\dfrac{36}{25}.$
+
+Then we can set up a proportion to solve for the area of the larger parallelogram.
+
+We know the area of the small parallelogram, so we place that value next to $25$ since $25$ is smaller than $36.$
+
+Then we multiply both sides of the equation by $125\ sq\ in$ to solve for the area of the large parallelogram.
+
+So the area of the larger parallelogram is $180\ sq\ in.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #8 - Solution)
+Solution
+Dropdown
+R1
+36
+R2
+25
+R3C1
+180
+R3C2
+sq in
+[in, sq in]
+The ratio between the side lengths of two parallelograms is $\dfrac{6}{5}.$ The area of the smaller parallelogram is $125\ sq\ in.$
+What is the ratio between the areas of the two parallelograms?
+What is the area of the larger parallelogram?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9)
+The ratio between the side lengths of two trapezoids is $\dfrac{3}{7}.$ The area of the larger trapezoid is $196\ sq\ cm.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}\\
+
+&\dfrac{9}{49}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\dfrac{9}{49}.$
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}\\
+
+&\dfrac{9}{49}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{49}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\dfrac{9}{49}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}\\
+
+&\dfrac{9}{49}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{49} \\
+
+\dfrac{\text{A}}{196\ sq\ m}&=&\dfrac{9}{49}
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\dfrac{9}{49}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $49$ since $49$ is larger than $9.$
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}\\
+
+&\dfrac{9}{49}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{49} \\
+
+\dfrac{\text{A}}{196\ sq\ m}&=&\dfrac{9}{49}\\
+
+\color{red}196\ sq\ m \times \color{black}\dfrac{\text{A}}{196\ sq\ m}&=&\dfrac{9}{49}\ \color{red}\times\ 196\ sq\ m
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\dfrac{9}{49}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $49$ since $49$ is larger than $9.$
+
+Then we multiply both sides of the equation by $196\ sq\ m$ to solve for the area of the small trapezoid.
+
+
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{3}{7}\right)^{2}\\
+
+&\dfrac{9}{49}\\ \\
+
+\dfrac{\text{Area of Small Trapezoid}}{\text{Area of Large Trapezoid}}&=&\dfrac{9}{49} \\
+
+\dfrac{\text{A}}{196\ sq\ m}&=&\dfrac{9}{49}\\
+
+\color{red}196\ sq\ m \times \color{black}\dfrac{\text{A}}{196\ sq\ m}&=&\dfrac{9}{49}\ \color{red}\times\ 196\ sq\ m\\
+
+A&=&36\ sq\ m
+\end{array}$
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\dfrac{9}{49}.$
+
+Then we can set up a proportion to solve for the area of the smaller trapezoid.
+
+We know the area of the large trapezoid, so we place that value next to $49$ since $49$ is larger than $9.$
+
+Then we multiply both sides of the equation by $196\ sq\ m$ to solve for the area of the small trapezoid.
+
+So the area of the smaller trapezoid is $36\ sq\ m.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #9 - Solution)
+Solution
+Dropdown
+R1
+9
+R2
+49
+R3C1
+36
+R3C2
+sq m
+[m, sq m]
+The ratio between the side lengths of two trapezoids is $\dfrac{3}{7}.$ The area of the larger trapezoid is $196\ sq\ cm.$
+What is the ratio between the areas of the two trapezoids?
+What is the area of the smaller trapezoid?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10)
+The ratio between the side lengths of two quadrilaterals is $\dfrac{5}{4}.$ The area of the smaller quadrilateral is $96\ sq\ yd.$
+What is the ratio between the areas of the two quadrilaterals?
+What is the area of the larger quadrilateral?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (1st Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (2nd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}\\
+
+&\dfrac{25}{16} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{25}{16}.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (3rd Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}\\
+
+&\dfrac{25}{16} \\ \\
+
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}&=&\dfrac{25}{16} 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{25}{16}.$
+
+Then we can set up a proportion to solve for the area of the larger quadrilateral.
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (4th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}\\
+
+&\dfrac{25}{16} \\ \\
+
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}&=&\dfrac{25}{16} \\
+
+\dfrac{\text{A}}{96\ sq\ yd}&=&\dfrac{25}{16}
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{25}{16}.$
+
+Then we can set up a proportion to solve for the area of the larger quadrilateral.
+
+We know the area of the small quadrilateral, so we place that value next to $16$ since $16$ is smaller than $25.$
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (5th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}\\
+
+&\dfrac{25}{16} \\ \\
+
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}&=&\dfrac{25}{16} \\
+
+\dfrac{\text{A}}{96\ sq\ yd}&=&\dfrac{25}{16}\\
+
+\color{red}96\ sq\ yd \times \color{black}\dfrac{\text{A}}{96\ sq\ yd}&=&\dfrac{25}{16}\ \color{red}\times\ 96\ sq\ yd 
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{25}{16}.$
+
+Then we can set up a proportion to solve for the area of the larger quadrilateral.
+
+We know the area of the small quadrilateral, so we place that value next to $16$ since $16$ is smaller than $25.$
+
+Then we multiply both sides of the equation by $96\ sq\ yd$ to solve for the area of the large quadrilateral.
+
+
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Hints)
+Equation/Image (6th Hint)
+Text
+$\begin{array}{rcl}
+&\left(\dfrac{5}{4}\right)^{2}\\
+
+&\dfrac{25}{16} \\ \\
+
+\dfrac{\text{Area of Large Quadrilateral}}{\text{Area of Small Quadrilateral}}&=&\dfrac{25}{16} \\
+
+\dfrac{\text{A}}{96\ sq\ yd}&=&\dfrac{25}{16}\\
+
+\color{red}96\ sq\ yd \times \color{black}\dfrac{\text{A}}{96\ sq\ yd}&=&\dfrac{25}{16}\ \color{red}\times\ 96\ sq\ yd \\
+
+A&=&150\ sq\ yd
+\end{array}$
+
+
+
+To find the ratio of areas, we must square the ratio of side lengths.
+
+Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\dfrac{25}{16}.$
+
+Then we can set up a proportion to solve for the area of the larger quadrilateral.
+
+We know the area of the small quadrilateral, so we place that value next to $16$ since $16$ is smaller than $25.$
+
+Then we multiply both sides of the equation by $96\ sq\ yd$ to solve for the area of the large quadrilateral.
+
+So the area of the larger quadrilateral is $150\ sq\ yd.$
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
+
+10.7 Creating Scales of Area (Exercise #10 - Solution)
+Solution
+Dropdown
+R1
+25
+R2
+16
+R3C1
+150
+R3C2
+sq yd
+[yd, sq yd]
+The ratio between the side lengths of two quadrilaterals is $\dfrac{5}{4}.$ The area of the smaller quadrilateral is $96\ sq\ yd.$
+What is the ratio between the areas of the two quadrilaterals?
+What is the area of the larger quadrilateral?
+Tool Tip: Fill in the blanks and choose the proper units from the drop-down menus.
