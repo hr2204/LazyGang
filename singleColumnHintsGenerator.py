@@ -6,7 +6,7 @@ import json
 
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/sma/LazyGang/Grade 7- Skill 10.6.txt"
+filePath = "/Users/sma/LazyGang/hitsGenerator/Grade 7- Skill 10.6.txt"
 data = ""
 
 with open(filePath, 'r') as f:
