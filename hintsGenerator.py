@@ -1,11 +1,10 @@
-import io
 import re
 import json
 
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Desktop/readHints/Grade 7_.Skill 11.10.txt"
+filePath = "/Users/rhe/Desktop/Grade 7_ Skill 11.7.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -41,7 +40,7 @@ for test in finalAERight:
     print test
 
 
-regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
+regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d*\s*- Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))
