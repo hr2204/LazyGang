@@ -1,0 +1,464 @@
+[
+  {
+    "hint_id": 1,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 2,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(13 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $13 \\ m,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 3,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&530.66 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $530.66 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 4,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 5,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(10 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $20 \\ cm,$ so we use $10 \\ cm$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 6,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&314 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $314 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 7,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 8,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(11 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $11 \\ m,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 9,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&379.94 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $379.94 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 10,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 11,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(9 \\ ft)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $18 \\ ft,$ so we use $9 \\ ft$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 12,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&254.34 \\ sq \\ ft&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $254.34 \\ sq \\ ft.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 13,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 14,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(33 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $33 \\ cm,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 15,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&3,419.46 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $3,419.46 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 16,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 17,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(5 \\ in)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $10 \\ in,$ so we use $5 \\ in$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 18,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&78.5 \\ sq \\ in&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $78.5 \\ sq \\ in.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 19,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 20,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(4 \\ cm)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $4 \\ cm,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 21,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&50.24 \\ sq \\ cm&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $50.24 \\ sq \\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 22,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 23,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(15 \\ mi)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $15 \\ mi,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 24,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&706.5 \\ sq \\ mi&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $706.5 \\ sq \\ mi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 25,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 26,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(30 \\ km)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $60 \\ km,$ so we use $30 \\ km$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 27,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&2826 \\ sq \\ km&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $2,826 \\ sq \\ km.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 28,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 29,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(12 \\ m)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The diameter of the circle is $24 \\ m,$ so we use $12 \\ m$ for the radius of the circle and $3.14$ for $\\pi.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 30,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&452.16 \\ sq \\ m&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $452.16 \\ sq \\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 31,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&\\pi \\ r^{\\ 2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We use the equation for the area of a circle."
+      }
+    ]
+  },
+  {
+    "hint_id": 32,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&(3.14)(7 \\ in)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We replace $r$ with the radius of the circle, $7 \\ in,$ and we replace $\\pi$ with $3.14.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 33,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&\\approx&153.86 \\ sq \\ in&\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "The area of the circle is approximately $153.86 \\ sq \\ in.$"
+      }
+    ]
+  }
+]
