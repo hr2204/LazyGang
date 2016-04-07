@@ -4,7 +4,11 @@ import json
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
+<<<<<<< HEAD:hintsGenerator.py
 filePath = "/Users/rhe/Desktop/Grade 7_ Skill 11.7.txt"
+=======
+filePath = "/Users/sma/LazyGang/Grade 7- Skill 10.7.txt"
+>>>>>>> 0aefb0b1a57e2341105be6563f41efd0ff8d7622:hitsGenerator/hintsGenerator.py
 data = ""
 
 with open(filePath, 'r') as f:

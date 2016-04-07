@@ -1,0 +1,1010 @@
+[
+  {
+    "hint_id": 1,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{4}{3}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 2,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{16}{9} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $4^{2}=16$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{16}{9}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 3,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{16}{9} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 4,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{18\\ sq\\ in}&=&\\dfrac{16}{9}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $16.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 5,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}18\\ sq\\ in \\times \\color{black}\\dfrac{\\text{A}}{18\\ sq\\ in}&=&\\dfrac{16}{9}\\ \\color{red}\\times\\ 18\\ sq\\ in \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $18\\ sq\\ in$ to solve for the area of the large rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 6,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&32\\ sq\\ in \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger rectangle is $32\\ sq\\ in.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 7,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{2}{3}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 8,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{4}{9}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $2^{2}=4$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{4}{9}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 9,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{4}{9} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 10,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{45\\ sq\\ yd}&=&\\dfrac{4}{9}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large trapezoid, so we place that value next to $9$ since $9$ is larger than $4.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 11,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}45\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{45\\ sq\\ yd}&=&\\dfrac{4}{9}\\ \\color{red}\\times\\ 45\\ sq\\ yd\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $45\\ sq\\ yd$ to solve for the area of the small trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 12,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&20\\ sq\\ yd \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller trapezoid is $20\\ sq\\ yd.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 13,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{2}{5}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 14,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{4}{25}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $2^{2}=4$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{4}{25}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 15,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Triangle}}{\\text{Area of Large Triangle}}&=&\\dfrac{4}{25} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller triangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 16,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{75\\ sq\\ km}&=&\\dfrac{4}{25}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large triangle, so we place that value next to $25$ since $25$ is larger than $4.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 17,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}75\\ sq\\ km \\times \\color{black}\\dfrac{\\text{A}}{75\\ sq\\ km}&=&\\dfrac{4}{25}\\ \\color{red}\\times\\ 75\\ sq\\ km\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $75\\ sq\\ km$ to solve for the area of the small triangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 18,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&12\\ sq\\ km \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller triangle is $12\\ sq\\ km.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 19,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{7}{2}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 20,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{49}{4} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $7^{2}=49$ and $2^{2}=4,$ the ratio between the two areas is $\\dfrac{49}{4}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 21,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{49}{4} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 22,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{40\\ sq\\ yd}&=&\\dfrac{49}{4}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small rectangle, so we place that value next to $4$ since $4$ is smaller than $49.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 23,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}40\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{40\\ sq\\ yd}&=&\\dfrac{49}{4}\\ \\color{red}\\times\\ 40\\ sq\\ yd \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $40\\ sq\\ yd$ to solve for the area of the large rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 24,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&490\\ sq\\ yd \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger rectangle is $490\\ sq\\ yd.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 25,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{1}{6}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 26,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{1}{36}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $1^{2}=1$ and $6^{2}=36,$ the ratio between the two areas is $\\dfrac{1}{36}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 27,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Parallelogram}}{\\text{Area of Large Parallelogram}}&=&\\dfrac{1}{36} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller parallelogram."
+      }
+    ]
+  },
+  {
+    "hint_id": 28,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{144\\ sq\\ in}&=&\\dfrac{1}{36}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large parallelogram, so we place that value next to $36$ since $36$ is larger than $1.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 29,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}144\\ sq\\ in\\ \\times \\color{black}\\dfrac{\\text{A}}{144\\ sq\\ in}&=&\\dfrac{1}{36}\\ \\color{red}\\times\\ 144\\ sq\\ in\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $144\\ sq\\ in$ to solve for the area of the small parallelogram."
+      }
+    ]
+  },
+  {
+    "hint_id": 30,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&4\\ sq\\ in \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller parallelogram is $4\\ sq\\ in.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 31,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{4}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 32,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{9}{16}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $3^{2}=9$ and $4^{2}=16,$ the ratio between the two areas is $\\dfrac{9}{16}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 33,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{9}{16} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 34,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{112\\ sq\\ cm}&=&\\dfrac{9}{16}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large trapezoid, so we place that value next to $16$ since $16$ is larger than $9.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 35,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}112\\ sq\\ cm\\ \\times \\color{black}\\dfrac{\\text{A}}{112\\ sq\\ cm}&=&\\dfrac{9}{16}\\ \\color{red}\\times\\ 112\\ sq\\ cm\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $112\\ sq\\ cm$ to solve for the area of the small trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 36,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&63\\ sq\\ cm \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller trapezoid is $63\\ sq\\ cm.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 37,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{5}{3}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 38,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{25}{9} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $5^{2}=25$ and $3^{2}=9,$ the ratio between the two areas is $\\dfrac{25}{9}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 39,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Rectangle}}{\\text{Area of Small Rectangle}}&=&\\dfrac{25}{9} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 40,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{81\\ sq\\ m}&=&\\dfrac{25}{9}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small rectangle, so we place that value next to $9$ since $9$ is smaller than $25.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 41,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}81\\ sq\\ m \\times \\color{black}\\dfrac{\\text{A}}{81\\ sq\\ m}&=&\\dfrac{25}{9}\\ \\color{red}\\times\\ 81\\ sq\\ m \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $81\\ sq\\ m$ to solve for the area of the large rectangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 42,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&225\\ sq\\ m \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger rectangle is $225\\ sq\\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 43,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{4}{5}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 44,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{16}{25}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $4^{2}=16$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{16}{25}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 45,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Quadrilateral}}{\\text{Area of Large Quadrilateral}}&=&\\dfrac{16}{25} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller quadrilateral."
+      }
+    ]
+  },
+  {
+    "hint_id": 46,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{100\\ sq\\ km}&=&\\dfrac{16}{25}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large quadrilateral, so we place that value next to $25$ since $25$ is larger than $16.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 47,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}100\\ sq\\ km\\ \\times \\color{black}\\dfrac{\\text{A}}{100\\ sq\\ km}&=&\\dfrac{16}{25}\\ \\color{red}\\times\\ 100\\ sq\\ km\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $100\\ sq\\ km$ to solve for the area of the small quadrilateral."
+      }
+    ]
+  },
+  {
+    "hint_id": 48,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&64\\ sq\\ km \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller quadrilateral is $64\\ sq\\ km.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 49,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{2}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 50,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{9}{4} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $3^{2}=9$ and $2^{2}=4,$ the ratio between the two areas is $\\dfrac{9}{4}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 51,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Triangle}}{\\text{Area of Small Triangle}}&=&\\dfrac{9}{4} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger triangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 52,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{76\\ sq\\ ft}&=&\\dfrac{9}{4}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small triangle, so we place that value next to $4$ since $4$ is smaller than $9.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 53,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}76\\ sq\\ ft \\times \\color{black}\\dfrac{\\text{A}}{76\\ sq\\ ft}&=&\\dfrac{9}{4}\\ \\color{red}\\times\\ 76\\ sq\\ ft \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $76\\ sq\\ ft$ to solve for the area of the large triangle."
+      }
+    ]
+  },
+  {
+    "hint_id": 54,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&171\\ sq\\ ft \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger triangle is $171\\ sq\\ ft.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 55,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{6}{5}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 56,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{36}{25} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $6^{2}=36$ and $5^{2}=25,$ the ratio between the two areas is $\\dfrac{36}{25}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 57,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Parallelogram}}{\\text{Area of Small Parallelogram}}&=&\\dfrac{36}{25} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger parallelogram."
+      }
+    ]
+  },
+  {
+    "hint_id": 58,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{125\\ sq\\ in}&=&\\dfrac{36}{25}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small parallelogram, so we place that value next to $25$ since $25$ is smaller than $36.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 59,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}125\\ sq\\ in \\times \\color{black}\\dfrac{\\text{A}}{125\\ sq\\ in}&=&\\dfrac{36}{25}\\ \\color{red}\\times\\ 125\\ sq\\ in \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $125\\ sq\\ in$ to solve for the area of the large parallelogram."
+      }
+    ]
+  },
+  {
+    "hint_id": 60,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&180\\ sq\\ in \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger parallelogram is $180\\ sq\\ in.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 61,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{3}{7}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 62,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{9}{49}\\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $3^{2}=9$ and $7^{2}=49,$ the ratio between the two areas is $\\dfrac{9}{49}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 63,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Small Trapezoid}}{\\text{Area of Large Trapezoid}}&=&\\dfrac{9}{49} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the smaller trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 64,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{196\\ sq\\ m}&=&\\dfrac{9}{49}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the large trapezoid, so we place that value next to $49$ since $49$ is larger than $9.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 65,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}196\\ sq\\ m \\times \\color{black}\\dfrac{\\text{A}}{196\\ sq\\ m}&=&\\dfrac{9}{49}\\ \\color{red}\\times\\ 196\\ sq\\ m\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $196\\ sq\\ m$ to solve for the area of the small trapezoid."
+      }
+    ]
+  },
+  {
+    "hint_id": 66,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&36\\ sq\\ m \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the smaller trapezoid is $36\\ sq\\ m.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 67,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\left(\\dfrac{5}{4}\\right)^{2}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "To find the ratio of areas, we must square the ratio of side lengths."
+      }
+    ]
+  },
+  {
+    "hint_id": 68,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}&\\dfrac{25}{16} \\\\ \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Since $5^{2}=25$ and $4^{2}=16,$ the ratio between the two areas is $\\dfrac{25}{16}.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 69,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{Area of Large Quadrilateral}}{\\text{Area of Small Quadrilateral}}&=&\\dfrac{25}{16} \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we can set up a proportion to solve for the area of the larger quadrilateral."
+      }
+    ]
+  },
+  {
+    "hint_id": 70,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\dfrac{\\text{A}}{96\\ sq\\ yd}&=&\\dfrac{25}{16}\\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "We know the area of the small quadrilateral, so we place that value next to $16$ since $16$ is smaller than $25.$"
+      }
+    ]
+  },
+  {
+    "hint_id": 71,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}\\color{red}96\\ sq\\ yd \\times \\color{black}\\dfrac{\\text{A}}{96\\ sq\\ yd}&=&\\dfrac{25}{16}\\ \\color{red}\\times\\ 96\\ sq\\ yd \\\\ \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "Then we multiply both sides of the equation by $96\\ sq\\ yd$ to solve for the area of the large quadrilateral."
+      }
+    ]
+  },
+  {
+    "hint_id": 72,
+    "row": [
+      {
+        "type": "mathtex_wrapper",
+        "value": " $\\begin{array}{rl}A&=&150\\ sq\\ yd \\end{array}$",
+        "show": false
+      },
+      {
+        "type": "mathtex_wrapper",
+        "value": "So the area of the larger quadrilateral is $150\\ sq\\ yd.$"
+      }
+    ]
+  }
+]
