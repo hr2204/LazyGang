@@ -1,478 +1,237 @@
 [
   {
     "hint_id": 1,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $8$ numbers of pages, so the population mean is $\\dfrac{92 + 46 + 71 + 79 + 102 + 141 + 81 + 76}{8} = 86$ pages."
   },
   {
     "hint_id": 2,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we add all $5$ entries, we get $16+32+18+18+36=120.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $4$ entries in the sample, so the mean of sample $A$ is $\\dfrac{92 + 46 + 71 + 79}{4} = 72$ pages."
   },
   {
     "hint_id": 3,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we divide $120$ by $5$ since there are five numbers in our set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $4$ entries in the sample, so the mean of sample $B$ is $\\dfrac{102 + 141 + 81 + 76}{4} =100$ pages."
   },
   {
     "hint_id": 4,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $120 \\div 5 = 24,$ so the mean is $24$ minutes."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 5,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $6$ fish lengths, so the population mean is $\\dfrac{5.5 + 9.3 + 6.8 + 5.2 + 6.3 + 4.7}{6} = 6.3$ inches."
   },
   {
     "hint_id": 6,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we place all entries in order from least to greatest, we get $2.3,\\ 3.4,\\ 5.6,\\ 5.8,\\ 6.8,\\ 6.8,\\ 9.6,\\ 10.9.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $3$ entries in the sample, so the mean of sample $A$ is $\\dfrac{5.5 + 9.3 + 6.8}{3} = 7.2$ inches."
   },
   {
     "hint_id": 7,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that the numbers in the middle are $5.8$ and $6.8,$ so the median fish length is $\\dfrac{5.8+6.8}{2} = 6.3.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $3$ entries in the sample, so the mean of sample $B$ is $\\dfrac{5.2 + 6.3 + 4.7}{3} =5.4$ inches."
   },
   {
     "hint_id": 8,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 9,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that $21$ occurs twice and all the other numbers occur one time."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $12$ test scores, so the population mean is $\\dfrac{98 + 91 + 99 + 100 + 75 + 81 + 90 + 94 + 79 + 96 + 89 + 76}{12} = 89$ points."
   },
   {
     "hint_id": 10,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $21$ is the mode of the set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $4$ entries in the sample, so the mean of sample $A$ is $\\dfrac{98 + 91 + 99 + 100}{4} = 97$ points."
   },
   {
     "hint_id": 11,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $4$ entries in the sample, so the mean of sample $B$ is $\\dfrac{75 + 81 + 90 + 94}{4} =85$ points."
   },
   {
     "hint_id": 12,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we add all $7$ entries, we get $9+23+18+6+23+23+24=126.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $C$ using the $4$ entries in the sample, so the mean of sample $B$ is $\\dfrac{79 + 96 + 89 + 76}{4} =85.$"
   },
   {
     "hint_id": 13,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we divide $126$ by $7$ since there are seven numbers in our set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 14,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $126 \\div 7 = 18,$ so the mean is $18$ points."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $10$ numbers of customers, so the population mean is $\\dfrac{105 + 162 + 176 + 154 + 148 + 102 + 135 + 126 + 93 + 99}{10} = 130$ customers."
   },
   {
     "hint_id": 15,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $5$ entries in the sample, so the mean of sample $A$ is $\\dfrac{105 + 162 + 176 + 154 + 148}{5} = 149$ customers."
   },
   {
     "hint_id": 16,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we place all entries in order from least to greatest, we get $16,\\ 18,\\ 18,\\ 32,\\ 36.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $5$ entries in the sample, so the mean of sample $B$ is $\\dfrac{102 + 135 + 126 + 93 + 99}{5} =111$ customers."
   },
   {
     "hint_id": 17,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that the number in the middle is $18,$ so the median is $18$ minutes."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 18,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $15$ heights, so the population mean is $\\dfrac{55 + 57 + 66 + 59 + 63 + 51 + 67 + 53 + 61 + 63 + 68 + 52 + 64 + 65 + 71}{15} = 61$ inches."
   },
   {
     "hint_id": 19,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that $6.8$ occurs twice and all the other numbers occur one time."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $5$ entries in the sample, so the mean of sample $A$ is $\\dfrac{55 + 57 + 66 + 59 + 63}{5} = 60$ inches."
   },
   {
     "hint_id": 20,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $6.8$ is the mode of the set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $5$ entries in the sample, so the mean of sample $B$ is $\\dfrac{51 + 67 + 53 + 61 + 63}{5} =59$ inches."
   },
   {
     "hint_id": 21,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $C$ using the $5$ entries in the sample, so the mean of sample $C$ is $\\dfrac{68 + 52 + 64 + 65 + 71}{5} =64$ inches."
   },
   {
     "hint_id": 22,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we add all $6$ entries, we get $21+37+26+21+42+39=186.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 23,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we divide $186$ by $6$ since there are six numbers in our set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $6$ snowfalls, so the population mean is $\\dfrac{4.1 + 1.2 + 3.7 + 5.6 + 1.9 + 2.7}{6} = 3.2$ inches."
   },
   {
     "hint_id": 24,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $186 \\div 6 = 31,$ so the mean is $31$ inches."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $3$ entries in the sample, so the mean of sample $A$ is $\\dfrac{4.1 + 1.2 + 3.7}{3} = 3$ inches."
   },
   {
     "hint_id": 25,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $3$ entries in the sample, so the mean of sample $B$ is $\\dfrac{5.6 + 1.9 + 2.7}{3} =3.4$ inches."
   },
   {
     "hint_id": 26,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we place all entries in order from least to greatest, we get $6,\\ 9,\\ 18,\\ 23,\\ 23,\\ 23,\\ 24.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 27,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that the number in the middle is $23,$ so the median points earned is $23.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $8$ distances, so the population mean is $\\dfrac{8 + 3 + 6 + 3 + 6 + 5 + 7 + 6}{8} = 5.5$ miles."
   },
   {
     "hint_id": 28,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $4$ entries in the sample, so the mean of sample $A$ is $\\dfrac{8 + 3 + 6 + 3}{4} = 5$ miles."
   },
   {
     "hint_id": 29,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "When we add all $8$ entries, we get $5.6+5.8+9.6+2.3+3.4+10.9+6.8+6.8=51.2.$"
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $4$ entries in the sample, so the mean of sample $B$ is $\\dfrac{6 + 5 + 7 + 6}{4} =6$ miles."
   },
   {
     "hint_id": 30,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we divide $51.2$ by $8$ since there are eight numbers in our set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   },
   {
     "hint_id": 31,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $51.2 \\div 8 = 6.4,$ so the mean is $6.4$ inches."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $9$ numbers of minutes, so the population mean is $\\dfrac{43 + 61 + 37 + 55 + 70 + 73 + 32 + 21 + 22}{9} = 46$ minutes."
   },
   {
     "hint_id": 32,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $3$ entries in the sample, so the mean of sample $A$ is $\\dfrac{43 + 61 + 37}{3} = 47$ minutes."
   },
   {
     "hint_id": 33,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that $23$ occurs three times and all the other numbers occur one time."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $3$ entries in the sample, so the mean of sample $B$ is $\\dfrac{55 + 70 + 73}{3} =66$ minutes."
   },
   {
     "hint_id": 34,
-    "row": [
-      {
-        "type": "mathtex_wrapper",
-        "value": " $\\begin{array}{rl} \\end{array}$",
-        "show": false
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So $23$ is the mode of the set of data."
-      }
-    ]
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $C$ using the $3$ entries in the sample, so the mean of sample $C$ is $\\dfrac{32 + 21 + 22}{3} =25$ minutes."
+  },
+  {
+    "hint_id": 35,
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
+  },
+  {
+    "hint_id": 36,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $10$ temperatures, so the population mean is $\\dfrac{65 + 80 + 71 + 62 + 97 + 64 + 79 + 82 + 90 + 70}{10} = 76$ degrees Fahrenheit."
+  },
+  {
+    "hint_id": 37,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $5$ entries in the sample, so the mean of sample $A$ is $\\dfrac{65 + 80 + 71 + 62 + 97}{5} = 75$ degrees Fahrenheit."
+  },
+  {
+    "hint_id": 38,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $5$ entries in the sample, so the mean of sample $B$ is $\\dfrac{64 + 79 + 82 + 90 + 70}{5} =77$ degrees Fahrenheit."
+  },
+  {
+    "hint_id": 39,
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
+  },
+  {
+    "hint_id": 40,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $6$ weights, so the population mean is $\\dfrac{40 + 21 + 26 + 51 + 13 + 35}{6} = 31$ pounds."
+  },
+  {
+    "hint_id": 41,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $3$ entries in the sample, so the mean of sample $A$ is $\\dfrac{40 + 21 + 26}{3} = 29$ pounds."
+  },
+  {
+    "hint_id": 42,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $3$ entries in the sample, so the mean of sample $B$ is $\\dfrac{51 + 13 + 35}{3} =33$ pounds."
+  },
+  {
+    "hint_id": 43,
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
+  },
+  {
+    "hint_id": 44,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the population mean using all $8$ scores, so the population mean is $\\dfrac{30 + 14 + 28 + 20 + 10 + 40 + 24 + 10}{8} = 22$ points."
+  },
+  {
+    "hint_id": 45,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $A$ using the $4$ entries in the sample, so the mean of sample $A$ is $\\dfrac{30 + 14 + 28 + 20}{4} = 23$ points."
+  },
+  {
+    "hint_id": 46,
+    "type": "mathtex_wrapper",
+    "value": "We calculate the mean of sample $B$ using the $4$ entries in the sample, so the mean of sample $B$ is $\\dfrac{10 + 40 + 24 + 10}{4} =21$ points."
+  },
+  {
+    "hint_id": 47,
+    "type": "mathtex_wrapper",
+    "value": "Different samples of the same size give different estimates of the population mean, so the means of different samples could be different from each other and from the mean of the whole population. This variation from sample to sample in the values of sample statistics is called sampling variability."
   }
 ]

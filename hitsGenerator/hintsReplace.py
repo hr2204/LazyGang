@@ -1,17 +1,30 @@
 import re
 
 #----------------Usage-----------------------------------
-#  1) Copy skill_problem.json to sample.json
-#  2) Ipnut txtPath from slides
-#  3) Choose number of AE
-#  4) Run and get the result from output_problem.json
+#  1) Ipnut txtPath from slides
+#  2) Choose number of AE
+#  3) Run and check your result
 #----------------input--Here---------------------------------
 
 
-txtPath = "/Users/rhe/Downloads/Grade 7_ Skill 13.5.txt"
+txtPath = "/Users/rhe/Downloads/Grade 7_ Skill 13.9.txt"
 
 numberOfAE = 2
 
+
+#------------------init path-----------------------------------------
+
+regex_txtPath = "\d+\.\d+"
+fileName = re.search(regex_txtPath, txtPath, re.S)
+skillNumber = fileName.group(0)
+# fileName = txtPath.split()
+# skillNumber = fileName[-1].strip(".txt")
+# print "----------", skillNumber
+print "----------"+fileName.group(0)
+
+projectPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/7th/"
+skillPath = projectPath + skillNumber + "/skill_problem.json"
+print skillPath
 #----------------get IDs from .txt-----------------------------------
 
 index = 0
@@ -118,9 +131,9 @@ else:
 
 print values
 
-filePath = "sample.json"
+# filePath = "sample.json"
 data = ""
-with open(filePath, 'r') as f:
+with open(skillPath, 'r') as f:
     data = f.read()
 
 
@@ -132,7 +145,7 @@ text = re.sub(regex_hint_id, do, data, 0, re.S)
 # print text
 
 
-with open('output_problem.json', 'w') as txtfile:
+with open(skillPath, 'w') as txtfile:
     txtfile.write(text)
 
 
