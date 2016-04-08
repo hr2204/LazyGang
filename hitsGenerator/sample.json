@@ -1,0 +1,56 @@
+[
+  {
+    "skill_id": "14.10",
+    "problem_id": 1,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blanks.",
+    "meta_data": " meta data will come here",
+    "demo_id": 1,
+    "hintIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill_id": "14.10",
+    "problem_id": 2,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blanks.",
+    "meta_data": " meta data will come here",
+    "demo_id": 1,
+    "hintIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "skill_id": "14.10",
+    "problem_id": 3,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blanks.",
+    "meta_data": " meta data will come here",
+    "demo_id": 1,
+    "hintIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+]
