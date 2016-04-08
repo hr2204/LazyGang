@@ -14,12 +14,17 @@ print type(jsonObjs)
 with open(problemFilePath, 'r') as f:
     data = f.read()
 
-print data
+# print data
 
-
+str1 = "hintIds"
 regex_hintId = "\"hintIds\": [.*]"
 
-re.rep
+print  [i for i in range(len(data)) if data.startswith(str1, i)]
+print  [i for i in range(len(data)) if data.startswith("specified_tim", i)]
+print data[351:393]
+temp = data[351:393]
+data.replace(data[351:393],"aaa")
+print data
 
 #------------------------------------------------------------
 filePath = "/Users/rhe/Desktop/Grade 7_ Skill 12.4.txt"
