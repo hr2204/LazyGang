@@ -2,241 +2,331 @@
   {
     "hint_id": 1,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $15\\ m$ by $5,$ we get $75\\ m,$ so $x = 75\\ m.$"
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 2,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $31\\ m$ by $5,$ we get $155\\ m,$ so $y = 155\\ m.$"
+    "value": "When the inspector selects $2$ tubs of ice cream at random of each of $5$ different flavors, he is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
   },
   {
     "hint_id": 3,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the pink rectangle are larger than the lengths of the purple rectangle, the pink rectangle is an enlargement of the purple rectangle."
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 4,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $5$ to find the side lengths of the pink rectangle, so the constant of proportionality is $5.$"
+    "value": "When the inspector assigns a number to each tub of ice cream in a freezer and then selects $10$ numbers at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
   },
   {
     "hint_id": 5,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $24\\ yd$ by $\\dfrac{1}{6},$ we get $4\\ yd,$ so $x = 4\\ yd.$"
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 6,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $36\\ yd$ by $\\dfrac{1}{6},$ we get $6\\ yd,$ so $y = 6\\ yd.$"
+    "value": "When the inspector selects every $4\\text{th}$ tub of ice cream on a numerical list, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
   },
   {
     "hint_id": 7,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the blue parallelogram are smaller than the lengths of the orange parallelogram, the blue parallelogram is a reduction of the orange parallelogram."
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 8,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{6}$ to find the side lengths of the blue parallelogram, so the constant of proportionality is $\\dfrac{1}{6}.$"
+    "value": "When Alda selects every $10\\text{th}$ name from an alphabetical list, she is using a pattern to select members of the sample at regular intervals. This means she is using systematic random sampling."
   },
   {
     "hint_id": 9,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $7\\ in$ by $4,$ we get $28\\ in,$ so $x = 28\\ in.$"
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 10,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $10\\ in$ by $4,$ we get $40\\ in,$ so $y = 40\\ in.$"
+    "value": "When Alda selects $10$ names at random from alphabetical lists of $5$ different neighborhoods, she is dividing the population into non-overlapping groups and then selecting members of the sample at random from each group. This means she is using stratified random sampling. "
   },
   {
     "hint_id": 11,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the green triangle are larger than the lengths of the pink triangle, the green triangle is an enlargement of the pink triangle."
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 12,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $4$ to find the side lengths of the green triangle, so the constant of proportionality is $4.$"
+    "value": "When Alda writes the last name of each household on a slip of paper and then selects $40$ slips at random from a hat, she is selecting every member of the sample at random without any pre-planned order. This means she is using simple random sampling. "
   },
   {
     "hint_id": 13,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $9\\ ft$ by $\\dfrac{1}{3},$ we get $3\\ ft,$ so $x = 3\\ ft.$"
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 14,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $6\\ ft$ by $\\dfrac{1}{3},$ we get $2\\ ft,$ so $y = 2\\ ft.$"
+    "value": "When Baruch selects $30$ names at random from numerical lists of womens\u2019 and mens\u2019 bib numbers, he is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
   },
   {
     "hint_id": 15,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the green trapezoid are smaller than the lengths of the purple trapezoid, the green trapezoid is a reduction of the purple trapezoid."
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 16,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{3}$ to find the side lengths of the green trapezoid, so the constant of proportionality is $\\dfrac{1}{2}.$"
+    "value": "When Baruch selects every $15\\text{th}$ name on a numerical list, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
   },
   {
     "hint_id": 17,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $10\\ km$ by $6,$ we get $60\\ km,$ so $x = 60\\ km.$"
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 18,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $17\\ km$ by $6,$ we get $102\\ km,$ so $y = 102\\ km.$"
+    "value": "When Baruch writes the bib number of each runner on a slip of paper and then selects $40$ slips at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
   },
   {
     "hint_id": 19,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the purple rectangle are larger than the lengths of the orange rectangle, the purple rectangle is an enlargement of the orange rectangle."
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 20,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $6$ to find the side lengths of the purple rectangle, so the constant of proportionality is $6.$"
+    "value": "When Liannaka selects every $50\\text{th}$ name on an alphabetical list of residents, she is using a pattern to select members of the sample at regular intervals. This means she is using systematic random sampling."
   },
   {
     "hint_id": 21,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $8\\ cm$ by $9,$ we get $72\\ cm,$ so $x = 72\\ cm.$"
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 22,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $12\\ cm$ by $9,$ we get $108\\ cm,$ so $y = 108\\ cm.$"
+    "value": "When Liannaka selects $30$ names at random from alphabetical lists of residents\u2019 names in each state, she is dividing the population into non-overlapping groups and then selecting members of the sample at random from each group. This means she is using stratified random sampling. "
   },
   {
     "hint_id": 23,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the red parallelogram are larger than the lengths of the blue parallelogram, the red parallelogram is an enlargement of the blue parallelogram."
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 24,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $9$ to find the side lengths of the red parallelogram, so the constant of proportionality is $9.$"
+    "value": "When Liannaka writes each resident's name on a slip of paper and then selects $200$ slips at random from a hat, she is selecting every member of the sample at random without any pre-planned order. This means she is using simple random sampling. "
   },
   {
     "hint_id": 25,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $40\\ m$ by $\\dfrac{1}{4},$ we get $10\\ m,$ so $x = 10\\ m.$"
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 26,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $48\\ m$ by $\\dfrac{1}{4},$ we get $12\\ m,$ so $y = 12\\ m.$"
+    "value": "When Lyman writes each farmer's name on a slip of paper and then selects $5$ slips at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
   },
   {
     "hint_id": 27,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the blue triangle are smaller than the lengths of the yellow triangle, the blue triangle is a reduction of the yellow triangle."
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 28,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{4}$ to find the side lengths of the blue triangle, so the constant of proportionality is $\\dfrac{1}{4}.$"
+    "value": "When Lyman selects $2$ names at random from alphabetical lists of farmer\u2019 names by county, he is dividing the population into non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
   },
   {
     "hint_id": 29,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $7\\ yd$ by $11,$ we get $77\\ yd,$ so $x = 77\\ yd.$"
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 30,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $9\\ yd$ by $11,$ we get $99\\ yd,$ so $y = 99\\ yd.$"
+    "value": "When Lyman selects every $3\\text{rd}$ name on an alphabetical list of farmers\u2019 names, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
   },
   {
     "hint_id": 31,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the purple rectangle are larger than the lengths of the gray rectangle, the purple rectangle is an enlargement of the gray rectangle."
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 32,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $11$ to find the side lengths of the purple rectangle, so the constant of proportionality is $11.$"
+    "value": "When Tamara selects $5$ names at random from alphabetical lists of doctors who work at clinics and doctors who work at hospitals, she is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means she is using stratified random sampling. "
   },
   {
     "hint_id": 33,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $24\\ ft$ by $\\dfrac{1}{2},$ we get $12\\ ft,$ so $x = 12\\ ft.$"
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 34,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $20\\ ft$ by $\\dfrac{1}{2},$ we get $10\\ ft,$ so $y = 10\\ ft.$"
+    "value": "When Tamara writes each doctor's name on a slip of paper and then selects $10$ slips at random from a hat, she is selecting every member of the sample at random without any pre-planned order. This means she is using simple random sampling. "
   },
   {
     "hint_id": 35,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the pink trapezoid are smaller than the lengths of the blue trapezoid, the pink trapezoid is a reduction of the blue trapezoid."
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 36,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{2}$ to find the side lengths of the pink trapezoid, so the constant of proportionality is $\\dfrac{1}{2}.$"
+    "value": "When Tamara selects every $40\\text{th}$ name on an alphabetical list of doctors\u2019 names, she is using a pattern to select members of the sample at regular intervals. This means she is using systematic random sampling."
   },
   {
     "hint_id": 37,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $5\\ m$ by $\\dfrac{1}{5},$ we get $1\\ m,$ so $x = 1\\ m.$"
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 38,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $35\\ m$ by $\\dfrac{1}{5},$ we get $7\\ m,$ so $y = 7\\ m.$"
+    "value": "When Tormod selects $10$ names at random from alphabetical lists of visitors who arrived before noon and visitors who arrived after noon, he is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
   },
   {
     "hint_id": 39,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the green rectangle are smaller than the lengths of the orange rectangle, the green rectangle is a reduction of the orange rectangle."
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 40,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{5}$ to find the side lengths of the green rectangle, so the constant of proportionality is $\\dfrac{1}{5}.$"
+    "value": "When Tormod selects every $20\\text{th}$ name on an alphabetical list of visitors\u2019 names, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
   },
   {
     "hint_id": 41,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $10\\ in$ by $8,$ we get $80\\ in,$ so $x = 80\\ in.$"
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 42,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $4\\ in$ by $8,$ we get $32\\ in,$ so $y = 32\\ in.$"
+    "value": "When Tormod  writes each visitor's name on a slip of paper and then selects $20$ slips at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
   },
   {
     "hint_id": 43,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the purple triangle are larger than the lengths of the red triangle, the purple triangle is an enlargement of the red triangle."
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
   },
   {
     "hint_id": 44,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $8$ to find the side lengths of the purple triangle, so the constant of proportionality is $8.$"
+    "value": "When Jayne writes each vehicle\u2019s license plate on a slip of paper and then selects $30$ slips at random from a hat, she is selecting every member of the sample at random without any pre-planned order. This means she is using simple random sampling. "
   },
   {
     "hint_id": 45,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $16\\ cm$ by $\\dfrac{1}{4},$ we get $4\\ cm,$ so $x = 4\\ cm.$"
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
   },
   {
     "hint_id": 46,
     "type": "mathtex_wrapper",
-    "value": "When we multiply $8\\ cm$ by $\\dfrac{1}{4},$ we get $2\\ cm,$ so $y = 2\\ cm.$"
+    "value": "When Jayne selects every $50\\text{th}$ license plate from a list, she is using a pattern to select members of the sample at regular intervals. This means she is using systematic random sampling."
   },
   {
     "hint_id": 47,
     "type": "mathtex_wrapper",
-    "value": "Since the lengths of the yellow parallelogram are smaller than the lengths of the green parallelogram, the yellow parallelogram is a reduction of the green parallelogram."
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
   },
   {
     "hint_id": 48,
     "type": "mathtex_wrapper",
-    "value": "We multiplied by $\\dfrac{1}{4}$ to find the side lengths of the yellow parallelogram, so the constant of proportionality is $\\dfrac{1}{4}.$"
+    "value": "When Jayne selects $10$ license plates at random from lists of plates by type of vehicle (car, truck, and van), she is dividing the population into three non-overlapping groups and then selecting members of the sample at random from each group. This means she is using stratified random sampling. "
+  },
+  {
+    "hint_id": 49,
+    "type": "mathtex_wrapper",
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
+  },
+  {
+    "hint_id": 50,
+    "type": "mathtex_wrapper",
+    "value": "When Coltin selects $10$ numbers at random from lists of sneakers and of dress shoes, he is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
+  },
+  {
+    "hint_id": 51,
+    "type": "mathtex_wrapper",
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
+  },
+  {
+    "hint_id": 52,
+    "type": "mathtex_wrapper",
+    "value": "When Coltin selects every $25\\text{th}$ number from a list of numbered shoes, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
+  },
+  {
+    "hint_id": 53,
+    "type": "mathtex_wrapper",
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
+  },
+  {
+    "hint_id": 54,
+    "type": "mathtex_wrapper",
+    "value": "When Coltin writes each shoe number on a slip of paper and then selects $20$ slips at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
+  },
+  {
+    "hint_id": 55,
+    "type": "mathtex_wrapper",
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
+  },
+  {
+    "hint_id": 56,
+    "type": "mathtex_wrapper",
+    "value": "When Trilby selects $50$ names at random from lists of in-state and out-of-state students, she is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means she is using stratified random sampling. "
+  },
+  {
+    "hint_id": 57,
+    "type": "mathtex_wrapper",
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
+  },
+  {
+    "hint_id": 58,
+    "type": "mathtex_wrapper",
+    "value": "When Trilby writes each college student\u2019s name on a slip of paper and then selects $75$ slips at random from a hat, she is selecting every member of the sample at random without any pre-planned order. This means she is using simple random sampling. "
+  },
+  {
+    "hint_id": 59,
+    "type": "mathtex_wrapper",
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
+  },
+  {
+    "hint_id": 60,
+    "type": "mathtex_wrapper",
+    "value": "When Trilby selects every $100\\text{th}$ name from an alphabetical list of students\u2019 names, she is using a pattern to select members of the sample at regular intervals. This means she is using systematic random sampling."
+  },
+  {
+    "hint_id": 61,
+    "type": "mathtex_wrapper",
+    "value": "Systematic random sampling means every member of the sample is selected at regular intervals according to a rule or pattern."
+  },
+  {
+    "hint_id": 62,
+    "type": "mathtex_wrapper",
+    "value": "When Harper selects every $20\\text{th}$ name from an alphabetical list of visitors\u2019 names, he is using a pattern to select members of the sample at regular intervals. This means he is using systematic random sampling."
+  },
+  {
+    "hint_id": 63,
+    "type": "mathtex_wrapper",
+    "value": "Simple random sampling means every member of the sample is selected at random from the entire population without any pre-planned order."
+  },
+  {
+    "hint_id": 64,
+    "type": "mathtex_wrapper",
+    "value": "When Harper writes each visitor\u2019s name on a slip of paper and then selects $20$ slips at random from a hat, he is selecting every member of the sample at random without any pre-planned order. This means he is using simple random sampling. "
+  },
+  {
+    "hint_id": 65,
+    "type": "mathtex_wrapper",
+    "value": "Stratified random sampling means the population is divided into two or more non-overlapping groups, then members of the sample are selected at random from each group."
+  },
+  {
+    "hint_id": 66,
+    "type": "mathtex_wrapper",
+    "value": "When Harper selects $10$ names at random from lists of visitors with and without children, he is dividing the population into two non-overlapping groups and then selecting members of the sample at random from each group. This means he is using stratified random sampling. "
   }
 ]
