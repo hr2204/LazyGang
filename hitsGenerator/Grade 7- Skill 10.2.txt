@@ -1,0 +1,3759 @@
+10.2 PROGRAMMING INSTRUCTIONS
+ Have buttons where they can select compass, ruler, or protractor. We will always provide the first line.
+
+For the compass: First, a radius button appears and they select the radius (only using up and down arrows). Then have them click on a point (they can only click on a point that is on the page. A circle will NOT be created at a random click). 
+Protractor: They will click on a point (just like compass) and a protractor will appear. They will be allowed to have more than one protractor on the page at a time
+Line: They click on one point. When they move their mouse, they will see the extended line. When they click again, the second point will be plotted.
+
+-All dots created need to be clickable.
+-When they select “line”, they need to Click on one point and then they can drag the line to the second point..
+-When we choose protractor and then line, the protractor does not go away so that the student is able to use it to create the line.
+-I will label all diagrams the same so that when they plot the third point, we will always call it “C” (In other words, we need to place a label “C” next to the point.)
+-When a student creates two lines that intersect, when they create the second line, a point will be created at their intersection..
+
+NEW COMPONENT
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 PROGRAMMING INSTRUCTIONS
+TYPE
+NEW COMPONENT
+Demo IMAGES
+use component
+Hint type
+2 column
+Hint IMAGES
+use component
+NOTE
+Hint
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+Create triangle $ABC$ where $AC = 6$ units, $AB = 7$ units, and $BC = 4$ units.
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+
+
+
+
+Compass
+Protractor
+Line
+$7$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo Start)
+$7$ units
+Compass
+Protractor
+Line
+$A$
+$B$
+Create triangle $ABC$ where $AC = 6$ units, $AB = 7$ units, and $BC = 4$ units.
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+1st Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+
+
+
+
+
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+2nd Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+
+
+
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+3rd Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+r=
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+4th Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+
+
+
+
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+5th Click.
+$7$ units
+r=
+Compass
+Protractor
+Line
+6
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+6th Click.
+$7$ units
+r=
+Compass
+Protractor
+Line
+6
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+7th Click.
+$7$ units
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+
+
+
+
+
+
+
+
+
+
+r=
+Compass
+6
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+8th Click.
+$7$ units
+r=
+Compass
+Protractor
+Line
+4
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+
+
+
+
+
+
+
+
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+9th Click.
+$7$ units
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+
+$C$
+r=
+Compass
+4
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+$A$
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+10th Click.
+$7$ units
+Compass
+Protractor
+Line
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+$C$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+$B$
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+11th Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+
+
+
+$C$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+12th Click.
+$7$ units
+Compass
+Protractor
+Line
+$A$
+$B$
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle.
+
+Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create.
+
+So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+
+
+$C$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Demo)
+Create a triangle with side lengths $6 \space km,$ $7 \space km,$ and $4 \space km.$
+ Have a tool box where they can select compass, ruler, or protractor. We will always provide the first line.
+
+For the compass, have them click on a point where they want to place the center of the compass. Concentric circles will automatically be created. Then they can click on the circle that they want to choose from all of the circles. We can either have the circle turn red or we can have the others disappear. The benefit of having the chosen circle turn red is that they can click a different circle if they make a mistake.
+Ruler: Not sure if we need this. We can just have them create the lines by clicking two points
+The protractor can slide around the screen, but they will still be able to create a line by clicking on 2 points.
+
+-All dots created need to be clickable.
+-When they select “line”, they need to Click on one point and then they can drag the line to the second point..
+-If “dot” is selected, they should only be able to create one dot per problem. So, if the dot option is selected and they create a dot and then click another point, the original dot will disappear and the dot will appear in the new location.
+-When we choose protractor and then line, the protractor does not go away so that the student is able to use it to create the line.
+-I will label all diagrams the same so that when they plot the third point, we will always call it “C” (In other words, we need to place a label “C” next to the point.)
+-If you create two lines that have a common point, that point is now 
+-When a student selects “point”, and places the point at an intersection of two lines, the “extra” part of the lines will disappear.
+
+Tool Tip: Fill in the blank and choose the proper units from the drop-down menu.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise)
+Create triangle $ABC$ where $AC = 5$ units, $AB = 7$ units, and $BC = 8$ units.
+Compass
+Protractor
+Line
+$7$ units
+$A$
+$B$
+RESTART
+UNDO
+For Assisted Exercise, have segment AC already created in the diagram. Students only need to create BC.
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (2nd Hint)
+Text
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (5th Hint)
+Text
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (6th Hint)
+Text
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Hints)
+Equation/Image (10th Hint)
+Text
+1: Nothing in image
+
+
+
+
+2: Compass button highlighted yellow
+
+3: number appears in r= button
+
+
+
+
+4: Highlight point A in red
+
+
+5: Unhighlight point A, show circle around point A
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $5$ units since side $AC$ needs to be $5$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $5$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Assisted Exercise - Solution)
+Create triangle $ABC$ where $AC = 5$ units, $AB = 7$ units, and $BC = 8$ units.
+ 
+Point A is located at the origin, (0,0)
+For Assisted Exercise, have segment AC already created in the diagram. Students only need to create BC.
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1)
+Create triangle $ABC$ where $AC = 7$ units, $AB = 8$ units, and $BC = 6$ units.
+Compass
+Protractor
+Line
+$8$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (8th Hint)
+Text
+
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #1 - Solution)
+Create triangle $ABC$ where $AC = 7$ units, $AB = 8$ units, and $BC = 6$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2)
+Create triangle $ABC$ where $AC = 8$ units, $AB = 10$ units, and $BC = 6$ units.
+Compass
+Protractor
+Line
+$10$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #2 - Solution)
+Create triangle $ABC$ where $AC = 8$ units, $AB = 10$ units, and $BC = 6$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3)
+Create triangle $ABC$ where $AC = 8$ units, $AB = 9$ units, and $BC = 6$ units.
+Compass
+Protractor
+Line
+$9$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (5th Hint)
+Text
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (6th Hint)
+Text
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $8$ units.
+
+To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #3 - Solution)
+Create triangle $ABC$ where $AC = 8$ units, $AB = 9$ units, and $BC = 6$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4)
+Create triangle $ABC$ where $AC = 4$ units, $AB = 10$ units, and $BC = 9$ units.
+Compass
+Protractor
+Line
+$10$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+4: Highlight point A in red
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (5th Hint)
+Text
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (6th Hint)
+Text
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (7th Hint)
+Text
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (8th Hint)
+Text
+
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #4 - Solution)
+Create triangle $ABC$ where $AC = 4$ units, $AB = 10$ units, and $BC = 9$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5)
+Create triangle $ABC$ where $AC = 7$ units, $AB = 5$ units, and $BC = 3$ units.
+Compass
+Protractor
+Line
+$5$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+4: Highlight point A in red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (5th Hint)
+Text
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $7$ units.
+
+To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #5 - Solution)
+Create triangle $ABC$ where $AC = 7$ units, $AB = 5$ units, and $BC = 3$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6)
+Create triangle $ABC$ where $AC = 4$ units, $AB = 6$ units, and $BC = 8$ units.
+Compass
+Protractor
+Line
+$6$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (6th Hint)
+Text
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (7th Hint)
+Text
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $4$ units.
+
+To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #6 - Solution)
+Create triangle $ABC$ where $AC = 4$ units, $AB = 6$ units, and $BC = 8$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7)
+Create triangle $ABC$ where $AC = 2$ units, $AB = 4$ units, and $BC = 5$ units.
+Compass
+Protractor
+Line
+$4$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #7 - Solution)
+Create triangle $ABC$ where $AC = 2$ units, $AB = 4$ units, and $BC = 5$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8)
+Create triangle $ABC$ where $AC = 6$ units, $AB = 5$ units, and $BC = 4$ units.
+Compass
+Protractor
+Line
+$5$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (7th Hint)
+Text
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (8th Hint)
+Text
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $6$ units.
+
+To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #8 - Solution)
+Create triangle $ABC$ where $AC = 6$ units, $AB = 5$ units, and $BC = 4$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9)
+Create triangle $ABC$ where $AC = 2$ units, $AB = 4$ units, and $BC = 5$ units.
+Compass
+Protractor
+Line
+$4$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (4th Hint)
+Text
+
+
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (6th Hint)
+Text
+
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (7th Hint)
+Text
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (8th Hint)
+Text
+
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $2$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #9 - Solution)
+Create triangle $ABC$ where $AC = 2$ units, $AB = 4$ units, and $BC = 5$ units.
+ 
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10)
+Create triangle $ABC$ where $AC = 9$ units, $AB = 6$ units, and $BC = 5$ units.
+Compass
+Protractor
+Line
+$6$ units
+$A$
+$B$
+RESTART
+UNDO
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (1st Hint)
+Text
+1: Nothing in image
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (2nd Hint)
+Text
+
+
+
+2: Compass button highlighted yellow
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (3rd Hint)
+Text
+
+3: number appears in r= button
+
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (4th Hint)
+Text
+
+4: Highlight point A in red
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (5th Hint)
+Text
+
+
+5: Unhighlight point A, show circle around point A
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (6th Hint)
+Text
+
+6: Change number for r=, highlight point B in red, show circle around point B
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (7th Hint)
+Text
+
+
+7: Unhighlight point B, Highlight point C where the two circles intersect
+
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (8th Hint)
+Text
+
+
+8: Highlight Line button, Show line AC, make points A and C red
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (9th Hint)
+Text
+
+9: Show line BC, point A back to normal color, make points B and C red
+
+
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Hints)
+Equation/Image (10th Hint)
+Text
+
+10: Complete triangle ABC, all points back to normal color
+
+
+
+We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides.
+
+Start by clicking on the Compass button.
+
+We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long.
+
+Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$
+
+We can see that we have created one circle with a radius of $9$ units.
+
+To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$
+
+We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect.
+
+So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$
+
+Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$
+
+Now we have made triangle $ABC$ by constructing three sides with the given lengths.
+
+
+Images need to be created once we have the component-- please speak to us about making the images when you get to this section
+Tool Tip: Use the buttons to construct the triangle.
+
+10.2 Side-Side-Side (SSS) Triangle Constructions (Exercise #10 - Solution)
+Create triangle $ABC$ where $AC = 9$ units, $AB = 6$ units, and $BC = 5$ units.
+Point A is located at the origin, (0,0)
+Tool Tip: Use the buttons to construct the triangle.
