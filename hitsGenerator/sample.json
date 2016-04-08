@@ -1,56 +1,592 @@
 [
   {
-    "skill_id": "14.10",
+    "skill_id": "13.5",
     "problem_id": 1,
     "template_type": "rowtype",
     "hint_template_type": "singlecolumn",
     "description": "",
-    "tooltip": "Fill in the blanks.",
+    "tooltip": "Fill in the blank.",
     "meta_data": " meta data will come here",
-    "demo_id": 1,
     "hintIds": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ]
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The number of minutes that Carleigh spent practicing her tuba last week are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mean number of minutes she practiced?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$16,\\ 32,\\ 18,\\ 18,\\ 36$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mean is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": "24"
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "minutes."
+        }
+      ]
+    ],
+    "assisted_exercise": false
   },
   {
-    "skill_id": "14.10",
+    "skill_id": "13.5",
     "problem_id": 2,
     "template_type": "rowtype",
     "hint_template_type": "singlecolumn",
     "description": "",
-    "tooltip": "Fill in the blanks.",
+    "tooltip": "Fill in the blank.",
     "meta_data": " meta data will come here",
-    "demo_id": 1,
     "hintIds": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ]
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The lengths, in inches, of the fish that Archer caught during a fishing trip are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the median fish length?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$5.6,\\ 5.8,\\ 9.6,\\ 2.3,\\ 3.4,\\ 10.9,\\ 6.8,\\ 6.8$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The median is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 6.3
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
   },
   {
-    "skill_id": "14.10",
+    "skill_id": "13.5",
     "problem_id": 3,
     "template_type": "rowtype",
     "hint_template_type": "singlecolumn",
     "description": "",
-    "tooltip": "Fill in the blanks.",
+    "tooltip": "Fill in the blank.",
     "meta_data": " meta data will come here",
-    "demo_id": 1,
     "hintIds": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ]
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The monthly rainfall, in inches, in a rainforest are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mode of the set of data?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$21,\\ 37,\\ 26,\\ 21,\\ 42,\\ 39$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mode is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 21
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 4,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The number of points that Tyrus earned playing $7$ rounds of a game are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mean points he earned?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$9,\\ 23,\\ 18,\\ 6,\\ 23,\\ 23,\\ 24$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mean is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 18
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "points."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 5,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The number of minutes that Carleigh spent practicing her tuba last week are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the median number of minutes she practiced?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$16,\\ 32,\\ 18,\\ 18,\\ 36$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The median is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 18
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "minutes."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 6,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The lengths, in inches, of the fish that Archer caught during a fishing trip are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mode of the set of data?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$5.6,\\ 5.8,\\ 9.6,\\ 2.3,\\ 3.4,\\ 10.9,\\ 6.8,\\ 6.8$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mode is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 6.8
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 7,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The monthly rainfall, in inches, in a rainforest are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mean rainfall?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$21,\\ 37,\\ 26,\\ 21,\\ 42,\\ 39$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mean is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 31
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 8,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The number of points that Tyrus earned playing $7$ rounds of a game are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the median points he earned?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$9,\\ 23,\\ 18,\\ 6,\\ 23,\\ 23,\\ 24$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The median is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 23
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "points."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 9,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The lengths, in inches, of the fish that Archer caught during a fishing trip are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mean fish length?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$5.6,\\ 5.8,\\ 9.6,\\ 2.3,\\ 3.4,\\ 10.9,\\ 6.8,\\ 6.8$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mean is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 6.4
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
+  },
+  {
+    "skill_id": "13.5",
+    "problem_id": 10,
+    "template_type": "rowtype",
+    "hint_template_type": "singlecolumn",
+    "description": "",
+    "tooltip": "Fill in the blank.",
+    "meta_data": " meta data will come here",
+    "hintIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The number of points that Tyrus earned playing $7$ rounds of a game are shown below."
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "What is the mode of the set of data?",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "$9,\\ 23,\\ 18,\\ 6,\\ 23,\\ 23,\\ 24$"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "The mode is"
+        },
+        {
+          "type": "input",
+          "class":"input-r-3-digits",
+          "value": "",
+          "answer": 23
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "inches."
+        }
+      ]
+    ],
+    "assisted_exercise": false
   }
 ]

@@ -1,1608 +1,172 @@
 [
   {
-<<<<<<< HEAD
     "hint_id": 1,
     "type": "mathtex_wrapper",
-    "value": "A representative sample represents as accurately as possible the characteristics of the entire population being studied."
+    "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
   },
   {
     "hint_id": 2,
     "type": "mathtex_wrapper",
-    "value": "In the first choice, minivans are only a specific group of vehicles, so they do not represent the entire population of vehicles on the highway. This is not a representative sample."
+    "value": "When we add all $5$ entries, we get $16+32+18+18+36=120.$"
   },
   {
     "hint_id": 3,
     "type": "mathtex_wrapper",
-    "value": "In the second choice, vehicles on the road between $8\\text{am}$ and $9\\text{am}$ represent a specific group of drivers who are most likely commuting to work in the morning. This sample is not a representative sample."
+    "value": "Then we divide $120$ by $5$ since there are five numbers in our set of data."
   },
   {
     "hint_id": 4,
     "type": "mathtex_wrapper",
-    "value": "In the third choice, every $20\\text{th}$ vehicle passing a particular exit in one $24\\text{-hour}$ period would be representative of the entire population of all vehicles driving at any time of day on a particular stretch of highway. This sample is a representative sample."
+    "value": "So $120 \\div 5 = 24,$ so the mean is $24$ minutes."
   },
   {
     "hint_id": 5,
     "type": "mathtex_wrapper",
-    "value": "In the fourth choice, red cars are only a specific group of vehicles, so they do not represent the entire population of vehicles on the highway. This is not a representative sample."
+    "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
   },
   {
     "hint_id": 6,
     "type": "mathtex_wrapper",
-    "value": "In a random sample, every member of the population has an equal chance of being chosen."
+    "value": "When we place all entries in order from least to greatest, we get $2.3,\\ 3.4,\\ 5.6,\\ 5.8,\\ 6.8,\\ 6.8,\\ 9.6,\\ 10.9.$"
   },
   {
     "hint_id": 7,
     "type": "mathtex_wrapper",
-    "value": "Since Jackson is only selecting apples from the top of the crate and not from the middle or the bottom of the crate, this is not a random sample."
+    "value": "We can see that the numbers in the middle are $5.8$ and $6.8,$ so the median fish length is $\\dfrac{5.8+6.8}{2} = 6.3.$"
   },
   {
     "hint_id": 8,
     "type": "mathtex_wrapper",
-    "value": "An unbiased sample of the population should be chosen in a fair, unbiased manner so that each member of the population has an equal chance of being selected."
+    "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
   },
   {
     "hint_id": 9,
     "type": "mathtex_wrapper",
-    "value": "When every $50\\text{th}$ household is selected from a list organized by last name, each household has an equal chance of being selected. The first choice is an unbiased sample."
+    "value": "We see that $21$ occurs twice and all the other numbers occur one time."
   },
   {
     "hint_id": 10,
     "type": "mathtex_wrapper",
-    "value": "Since the number of pets in households living near Gamba in his neighborhood might not be similar to households living elsewhere in his town, the second choice is a biased sample."
+    "value": "So $21$ is the mode of the set of data."
   },
   {
     "hint_id": 11,
     "type": "mathtex_wrapper",
-    "value": "Since the number of pets in households of students who attend Gamba\u2019s school might not be similar to the other households in his town, the third choice is a biased sample."
+    "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
   },
   {
     "hint_id": 12,
     "type": "mathtex_wrapper",
-    "value": "Since the number of pets in households who shop at the nearest grocery store might not be similar to households who shop at other stores, the fourth choice is a biased sample."
+    "value": "When we add all $7$ entries, we get $9+23+18+6+23+23+24=126.$"
   },
   {
     "hint_id": 13,
     "type": "mathtex_wrapper",
-    "value": "In a random sample, every member of the population has an equal chance of being chosen."
+    "value": "Then we divide $126$ by $7$ since there are seven numbers in our set of data."
   },
   {
     "hint_id": 14,
     "type": "mathtex_wrapper",
-    "value": "Since every pair of the $500$ shoes has an equal chance of being selected, this is a random sample."
+    "value": "So $126 \\div 7 = 18,$ so the mean is $18$ points."
   },
   {
     "hint_id": 15,
     "type": "mathtex_wrapper",
-    "value": "A representative sample represents as accurately as possible the characteristics of the entire population being studied."
+    "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
   },
   {
     "hint_id": 16,
     "type": "mathtex_wrapper",
-    "value": "In the first choice, the last $50$ words in the novel is only a specific group of words, so they do not represent the entire population of words in the novel. This is not a representative sample."
+    "value": "When we place all entries in order from least to greatest, we get $16,\\ 18,\\ 18,\\ 32,\\ 36.$"
   },
   {
     "hint_id": 17,
     "type": "mathtex_wrapper",
-    "value": "In the second choice, Chapter $6$ is only a specific section of the novel, so the first word of every paragraph in Chapter $6$ does not represent the entire population of words in the novel. This is not a representative sample."
+    "value": "We can see that the number in the middle is $18,$ so the median is $18$ minutes."
   },
   {
     "hint_id": 18,
     "type": "mathtex_wrapper",
-    "value": "In the third choice, the first $50$ words on the first page is only a specific group of words, so they do not represent the entire population of words in the novel. This is not a representative sample."
+    "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
   },
   {
     "hint_id": 19,
     "type": "mathtex_wrapper",
-    "value": "In the fourth choice, the first word on every odd-numbered page of the novel would be representative of the entire population of words in the novel. This sample is a representative sample."
+    "value": "We see that $6.8$ occurs twice and all the other numbers occur one time."
   },
   {
     "hint_id": 20,
     "type": "mathtex_wrapper",
-    "value": "An unbiased sample of the population should be chosen in a fair, unbiased manner so that each member of the population has an equal chance of being selected."
+    "value": "So $6.8$ is the mode of the set of data."
   },
   {
     "hint_id": 21,
     "type": "mathtex_wrapper",
-    "value": "Since the preferences of people buying a hot dog in the Food Court might not be similar to the preferences of the rest of the people at the amusement park, the first choice is a biased sample."
+    "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
   },
   {
     "hint_id": 22,
     "type": "mathtex_wrapper",
-    "value": "Since the preferences of people who ride the bumper cars might not be similar to the preferences of the rest of the people at an amusement park, the second choice is a biased sample."
+    "value": "When we add all $6$ entries, we get $21+37+26+21+42+39=186.$"
   },
   {
     "hint_id": 23,
     "type": "mathtex_wrapper",
-    "value": "When visitors are selected at regular intervals as they enter the park, each visitor has an equal chance of being questioned. The third choice is an unbiased sample."
+    "value": "Then we divide $186$ by $6$ since there are six numbers in our set of data."
   },
   {
     "hint_id": 24,
     "type": "mathtex_wrapper",
-    "value": "Since the preferences of people in line for a roller coaster might not be similar to the preferences of the rest of the people at the amusement park, the fourth choice is a biased sample."
+    "value": "So $186 \\div 6 = 31,$ so the mean is $31$ inches."
   },
   {
     "hint_id": 25,
     "type": "mathtex_wrapper",
-    "value": "A representative sample represents as accurately as possible the characteristics of the entire population being studied."
+    "value": "The median of a set of data is the middle number when the numbers in the set are placed in order from least to greatest. If there are an even number of entries, the median is the average of the two middle numbers."
   },
   {
     "hint_id": 26,
     "type": "mathtex_wrapper",
-    "value": "In the first choice, counting the words in one article on the front page of each section of the newspaper would be representative of all types of articles in the newspaper. This sample is a representative sample."
+    "value": "When we place all entries in order from least to greatest, we get $6,\\ 9,\\ 18,\\ 23,\\ 23,\\ 23,\\ 24.$"
   },
   {
     "hint_id": 27,
     "type": "mathtex_wrapper",
-    "value": "In the second choice, Sports is only one section of the newspaper, so Sports articles do not represent the entire population of newspaper articles. This is not a representative sample."
+    "value": "We can see that the number in the middle is $23,$ so the median points earned is $23.$"
   },
   {
     "hint_id": 28,
     "type": "mathtex_wrapper",
-    "value": "In the third choice, Style is only one section of the newspaper, so Style articles do not represent the entire population of newspaper articles. This is not a representative sample."
+    "value": "The mean, or average, is the center of the data and can be found by adding all of the numbers in the set and then dividing the sum by the number of entries."
   },
   {
     "hint_id": 29,
     "type": "mathtex_wrapper",
-    "value": "In the fourth choice, Z is an uncommon first letter for last names, so there might not be enough, if any, articles of this type to sample. This sample is not a representative sample."
+    "value": "When we add all $8$ entries, we get $5.6+5.8+9.6+2.3+3.4+10.9+6.8+6.8=51.2.$"
   },
   {
     "hint_id": 30,
     "type": "mathtex_wrapper",
-    "value": "In a random sample, every member of the population has an equal chance of being chosen."
+    "value": "Then we divide $51.2$ by $8$ since there are eight numbers in our set of data."
   },
   {
     "hint_id": 31,
     "type": "mathtex_wrapper",
-    "value": "Since the reporter chooses the first $20$ people to cross the finish line which would include only the fastest runners in the race, this is not a random sample."
+    "value": "So $51.2 \\div 8 = 6.4,$ so the mean is $6.4$ inches."
   },
   {
     "hint_id": 32,
     "type": "mathtex_wrapper",
-    "value": "A representative sample represents as accurately as possible the characteristics of the entire population being studied."
+    "value": "The mode of a set of data is the number that occurs the most. A set of data can have more than one mode."
   },
   {
     "hint_id": 33,
     "type": "mathtex_wrapper",
-    "value": "In the first choice, one crate does not represent the entire population of oranges in all $10$ crates. This is not a representative sample."
+    "value": "We see that $23$ occurs three times and all the other numbers occur one time."
   },
   {
     "hint_id": 34,
     "type": "mathtex_wrapper",
-    "value": "In the second choice, the first four crates do not represent the entire population of oranges in all $10$ crates. This is not a representative sample."
-  },
-  {
-    "hint_id": 35,
-    "type": "mathtex_wrapper",
-    "value": "In the third choice, inspecting $2$ oranges in each of the $10$ crates would represent the population of oranges in all the crates. This sample is a representative sample."
-  },
-  {
-    "hint_id": 36,
-    "type": "mathtex_wrapper",
-    "value": "In the fourth choice, the last two crates do not represent the entire population of oranges in all $10$ crates. This is not a representative sample."
-  },
-  {
-    "hint_id": 37,
-    "type": "mathtex_wrapper",
-    "value": "An unbiased sample of the population should be chosen in a fair, unbiased manner so that each member of the population has an equal chance of being selected."
-  },
-  {
-    "hint_id": 38,
-    "type": "mathtex_wrapper",
-    "value": "Since men do not have a chance to be selected if only women exiting a restroom are questioned, the first choice is a biased sample."
-  },
-  {
-    "hint_id": 39,
-    "type": "mathtex_wrapper",
-    "value": "Since women do not have a chance to be selected if only men visiting the museum with exactly $2$ children are questioned, the second choice is a biased sample."
-  },
-  {
-    "hint_id": 40,
-    "type": "mathtex_wrapper",
-    "value": "Since the visitors who arrive before $11\\text{am}$ might not be similar to visitors who arrive later in the day, the third choice is a biased sample."
-  },
-  {
-    "hint_id": 41,
-    "type": "mathtex_wrapper",
-    "value": "When visitors are selected at regular intervals during an entire day, each visitor has an equal chance of being questioned. The fourth choice is an unbiased sample."
-=======
-    "hint_id": 11,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 12,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 13,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 14,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 15,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $7$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 16,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 17,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 18,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 19,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 20,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p1-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 21,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 22,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 23,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 24,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 25,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $8$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 26,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 27,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 28,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 29,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 30,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p2-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 31,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 32,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 33,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $8$ units since side $AC$ needs to be $8$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 34,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 35,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $8$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 36,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 6$ units, we need to follow the same steps to create a circle with a radius of $6$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 37,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 38,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 39,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 40,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p3-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 41,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 42,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 43,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 44,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 45,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $4$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 46,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 9$ units, we need to follow the same steps to create a circle with a radius of $9$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 47,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 48,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 49,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 50,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p4-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 51,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 52,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 53,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $7$ units since side $AC$ needs to be $7$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 54,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 55,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $7$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 56,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 3$ units, we need to follow the same steps to create a circle with a radius of $3$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 57,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 58,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 59,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 60,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p5-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 61,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 62,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 63,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $4$ units since side $AC$ needs to be $4$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 64,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 65,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $4$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 66,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 8$ units, we need to follow the same steps to create a circle with a radius of $8$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 67,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 68,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 69,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 70,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p6-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 71,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 72,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 73,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 74,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 75,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $2$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 76,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 77,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 78,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 79,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 80,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p7-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 81,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 82,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 83,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $6$ units since side $AC$ needs to be $6$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 84,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 85,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $6$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 86,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 4$ units, we need to follow the same steps to create a circle with a radius of $4$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 87,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 88,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 89,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 90,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p8-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 91,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 92,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 93,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $2$ units since side $AC$ needs to be $2$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 94,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 95,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $2$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 96,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 97,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 98,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 99,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 100,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p9-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
-  },
-  {
-    "hint_id": 101,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h1-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We are already given one side, so we need to use the remaining side lengths to create two more sides to make a triangle. Since we are only given side lengths, we need to use the compass to help us make the two sides."
-      }
-    ]
-  },
-  {
-    "hint_id": 102,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h2-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Start by clicking on the Compass button."
-      }
-    ]
-  },
-  {
-    "hint_id": 103,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h3-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We will need to select the radius of the circle that we want to create. So we choose to create a circle with a radius of $9$ units since side $AC$ needs to be $9$ units long."
-      }
-    ]
-  },
-  {
-    "hint_id": 104,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h4-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we need to click on the location for the center of the circle. Since we are creating side $AC,$ we want to create our center at $A.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 105,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h5-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We can see that we have created one circle with a radius of $9$ units."
-      }
-    ]
-  },
-  {
-    "hint_id": 106,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h6-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "To create side $BC = 5$ units, we need to follow the same steps to create a circle with a radius of $5$ units that is centered at $B.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 107,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h7-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "We see that the two circles intersect at one point above the given segment. That is where our remaining two sides will connect."
-      }
-    ]
-  },
-  {
-    "hint_id": 108,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h8-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "So we select Line, click on point $A,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 109,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h9-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Then we select Line, click on point $B,$ and then drag the line to the point of intersection, $C.$"
-      }
-    ]
-  },
-  {
-    "hint_id": 110,
-    "row": [
-      {
-        "type": "img",
-        "value": "10.2/math-g7-c10-s10-2-p10-h10-img1.png",
-        "show": true
-      },
-      {
-        "type": "mathtex_wrapper",
-        "value": "Now we have made triangle $ABC$ by constructing three sides with the given lengths."
-      }
-    ]
->>>>>>> 19df6e792b1555bf8c5c6383b26c11d5d6aa9eca
+    "value": "So $23$ is the mode of the set of data."
   }
 ]
