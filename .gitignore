@@ -1,6 +1,8 @@
 /bower_components
+/node_modules
 *.pyc
 *.idea
 .DS_Store
 *.txt
 /hitsGenerator/*.json
+/**/.idea

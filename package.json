@@ -1,0 +1,22 @@
+{
+  "name": "lazy-gang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hr2204/LazyGang.git"
+  },
+  "author": "lazy gang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hr2204/LazyGang/issues"
+  },
+  "homepage": "https://github.com/hr2204/LazyGang#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
