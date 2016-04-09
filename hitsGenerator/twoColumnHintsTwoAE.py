@@ -5,7 +5,7 @@ import json
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 7_ Skill 13.5.txt"
+filePath = "/Users/rhe/Downloads/Grade 7_ Skill 12.5.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -97,7 +97,7 @@ for i in range(0,len(finalExeRight)):
         tempObj = {"hint_id": dataIndex, "row": [
             {
                 "type": "mathtex_wrapper",
-                "value": " $\\begin{array}{rl}"    + " \\end{array}$",
+                "value": " $\\begin{array}{rl}" + finalExeLeft[i][j]  + " \\end{array}$",
                 "show": False
             },
             {

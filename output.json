@@ -2,366 +2,96 @@
   {
     "hint_id": 1,
     "type": "mathtex_wrapper",
-    "value": "The mean score for Student $1$ is $\\dfrac{ 78+82+85+95+80+78+85+87+90+90}{10} = 85.$"
+    "value": "Since Ben\u2019s MAD, $0.25,$ is less than Ken\u2019s MAD, $3.5,$ the distances that he ran varied less than the distances that Ken ran."
   },
   {
     "hint_id": 2,
     "type": "mathtex_wrapper",
-    "value": "The MAD for Student $1$ is $\\dfrac{ (85-78)+(85-82)+(85-85)+(95-85)+(85-80)+(85-78)+(85-85)+(87-85)+(90-85)+(90-85)}{10} \\ = 4.4.$"
+    "value": "So the distances that Ben ran were more consistent than the distances that Ken ran."
   },
   {
     "hint_id": 3,
     "type": "mathtex_wrapper",
-    "value": "So, the MAD/mean ratio for Student $1$ is $\\dfrac{4.4}{85} \\ = 5.18 \\ %.$"
+    "value": " "
   },
   {
     "hint_id": 4,
     "type": "mathtex_wrapper",
-    "value": "The mean score for Student $2$ is $\\dfrac{100+70+90+80+100+60+100+80+70+100}{10} = 85.$"
+    "value": "The range for the second graders is $15$ minutes and the range for the fourth graders is $35$ minutes. So, the third statement is true and the fourth statement is false."
   },
   {
     "hint_id": 5,
     "type": "mathtex_wrapper",
-    "value": "The MAD for Student $2$ is $\\dfrac{ (100-85)+(85-70)+(90-85)+(85-80)+(100-85)+(85-60)+(100-85)+(85-80)+(85-70)+(100-85)}{10} \\ = 13.$"
+    "value": " "
   },
   {
     "hint_id": 6,
     "type": "mathtex_wrapper",
-    "value": "So, the MAD/mean ratio for Student $2$ is $\\dfrac{13}{85} \\ = 15.29 \\ %.$"
+    "value": " "
   },
   {
     "hint_id": 7,
     "type": "mathtex_wrapper",
-    "value": "As we can see, the mean score is the same for both students, but the MAD/mean ratio for Student $2$ is much greater than the MAD/mean ratio for Student $1.$"
+    "value": "The range of speeds on Highway $1$ is $15$ mph, which is less than the range of speeds on Highway $2,$ $25$ mph. This means that the speeds of the cars on Highway $2$ vary widely in comparison to the speeds of the cars on Highway $1.$"
   },
   {
     "hint_id": 8,
     "type": "mathtex_wrapper",
-    "value": "This means that the scores of Student $2$ vary greatly, from $60$ to $100.$"
+    "value": "So, the third statement is true and the fourth statement is false."
   },
   {
     "hint_id": 9,
     "type": "mathtex_wrapper",
-    "value": "So, we can predict that it was Student $2$ who received a score of $55$ on the next test."
+    "value": " "
   },
   {
     "hint_id": 10,
     "type": "mathtex_wrapper",
-    "value": "The median speed on Highway $1$ is $\\dfrac{68+72}{2} = 70.$"
+    "value": "Since the MAD/mean ratio of Student $1,$ $3$%, is less than the MAD/mean ratio of Student $2,$ $20$%, the scores that he earned vary less than the scores of Student $2.$"
   },
   {
     "hint_id": 11,
     "type": "mathtex_wrapper",
-    "value": "When we arrange all the entries from Highway $2\\text{\u2018s}$ data set in order from least to greatest, we get $\\{65,\\ 65,\\ 70,\\ 70,\\ 70,\\ 70,\\ 72,\\ 75,\\ 75,\\ 78\\}.$"
+    "value": "So the performance of Student $1$ was more consistent than the performance of Student $2.$"
   },
   {
     "hint_id": 12,
     "type": "mathtex_wrapper",
-    "value": "The median speed on Highway $2$ is $70.$"
+    "value": "So the second and the third statements are true, and "
   },
   {
     "hint_id": 13,
     "type": "mathtex_wrapper",
-    "value": "As we can see, the median speed for Highway $1$ is the same as the median speed for Highway $2.$"
+    "value": "the first and fourth statements are false. "
   },
   {
     "hint_id": 14,
     "type": "mathtex_wrapper",
-    "value": "The median speed on Highway $1$ is $70,$ which is greater than the speed limit."
+    "value": "  "
   },
   {
     "hint_id": 15,
     "type": "mathtex_wrapper",
-    "value": "The median speed on Highway $2$ is also $70,$ which is greater than the speed limit."
+    "value": "Since the median number of students who ordered hot lunches in Class $1$ is $15,$ and the median number of students who ordered hot lunches in Class $2$ is $18,$ both of them are below the number of hot lunches that the school cafeteria plans to prepare daily for the next month. So the second statement is false."
   },
   {
     "hint_id": 16,
     "type": "mathtex_wrapper",
-    "value": " "
+    "value": "The range for Class $1$ is $2$ students, which is less than the range for Class $2,$ $7$ students. So the third and the fourth statements are false. "
   },
   {
     "hint_id": 17,
     "type": "mathtex_wrapper",
-    "value": "The MAD for Road $1$ is $\\dfrac{ (35-30)+(40-35)+(35-35)+(42-35)+(35-28)+(35-30)+(35-32)+(38-35)+(35-35)+(40-35)}{10} \\ = 4$ mph."
+    "value": "  "
   },
   {
     "hint_id": 18,
     "type": "mathtex_wrapper",
-    "value": "The mean speed for Road $2$ is $\\dfrac{40+45+50+45+50+45+35+45+45+50}{10} = 45$ mph."
+    "value": "The range for each parking lot is $12,$ which is relatively small in comparison to the median number of cars. So the number of cars in both parking lots varies slightly and with the same range. The third statement is false, and the fourth statement is true."
   },
   {
     "hint_id": 19,
     "type": "mathtex_wrapper",
-    "value": "The MAD for Road $2$ is $\\dfrac{ (45-40)+(45-45)+(50-45)+(45-45)+(50-45)+(45-45)+(45-35)+(45-45)+(45-45)+(50-45)}{10} \\ = 3$ mph."
-  },
-  {
-    "hint_id": 20,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the mean speed for Road $1$ is $35$ mph and the mean speed for Road $2$ is $45$ mph."
-  },
-  {
-    "hint_id": 21,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for both roads is relatively small, $4$ mph and $3$ mph."
-  },
-  {
-    "hint_id": 22,
-    "type": "mathtex_wrapper",
-    "value": "This means that the speeds of cars on both roads vary slightly and are close to the mean."
-  },
-  {
-    "hint_id": 23,
-    "type": "mathtex_wrapper",
-    "value": "So, we can predict that a car that drives with a speed of $50$ mph uses Road $2,$ where cars tend to drive faster."
-  },
-  {
-    "hint_id": 24,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of pizza slices sold in order from least to greatest, we get $\\{60,\\ 75,\\ 90,\\ 100,\\ 105\\}.$ The median number of pizza slices sold is $90.$"
-  },
-  {
-    "hint_id": 25,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of hot dogs sold in order from least to greatest, we get $\\{72,\\ 75,\\ 80,\\ 87,\\ 90\\}.$ The median number of hot dogs sold is $80.$"
-  },
-  {
-    "hint_id": 26,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the median number of pizza slices sold is greater than the median number of hot dogs sold."
-  },
-  {
-    "hint_id": 27,
-    "type": "mathtex_wrapper",
-    "value": "The median number of pizza slices sold is greater than the number of pizza slices ordered for the next day."
-  },
-  {
-    "hint_id": 28,
-    "type": "mathtex_wrapper",
-    "value": "The median number of hot dogs sold is less than the number of hot dogs ordered for the next day."
-  },
-  {
-    "hint_id": 29,
-    "type": "mathtex_wrapper",
-    "value": "The mean score for Team $1$ is $\\dfrac{60+80+100+90+70}{5} = 80.$ "
-  },
-  {
-    "hint_id": 30,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Team $1$ is $\\dfrac{ (80-60)+(80-80)+(100-80)+(90-80)+(80-70)}{5} \\ = 12.$"
-  },
-  {
-    "hint_id": 31,
-    "type": "mathtex_wrapper",
-    "value": "The mean score for Team $2$ is $\\dfrac{100+100+70+70+60}{5} = 80.$ "
-  },
-  {
-    "hint_id": 32,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Team $2$ is $\\dfrac{ (100-80)+(100-80)+(80-70)+(80-70)+(80-60)}{5} \\ = 16.$"
-  },
-  {
-    "hint_id": 33,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the mean scores for both teams are the same, and the MAD for Team $2$ is only slightly higher than the MAD for Team $1.$"
-  },
-  {
-    "hint_id": 34,
-    "type": "mathtex_wrapper",
-    "value": "This means that their average scores are the same and their performances are nearly consistent."
-  },
-  {
-    "hint_id": 35,
-    "type": "mathtex_wrapper",
-    "value": "So, Annie\u2019s conclusion is incorrect."
-  },
-  {
-    "hint_id": 36,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of vanilla cones sold in order from least to greatest, we get $\\{15,\\ 18,\\ 28,\\ 32,\\ 45\\}.$ The median number of vanilla cones sold is $28.$"
-  },
-  {
-    "hint_id": 37,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of chocolate cones sold in order from least to greatest, we get $\\{24,\\ 27,\\ 27,\\ 33,\\ 68\\}.$ The median number of chocolate cones sold is $27.$"
-  },
-  {
-    "hint_id": 38,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the median number of vanilla cones sold is greater than the median number of chocolate cones sold."
-  },
-  {
-    "hint_id": 39,
-    "type": "mathtex_wrapper",
-    "value": "The median number of vanilla cones sold is greater than the number of vanilla cones ordered for the party."
-  },
-  {
-    "hint_id": 40,
-    "type": "mathtex_wrapper",
-    "value": "The median number of chocolate cones sold is also greater than the number of chocolate cones ordered for the party."
-  },
-  {
-    "hint_id": 41,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Group $1$ is $\\dfrac{ (13-10)+(13-12)+(13-10)+(18-13)+(15-13)}{5} \\ = 2.8.$ So, the MAD/mean ratio for Group $1$ is $\\dfrac{2.8}{13} \\ = 21.54 \\ %.$"
-  },
-  {
-    "hint_id": 42,
-    "type": "mathtex_wrapper",
-    "value": "The mean number of pages for Group $2$ is $\\dfrac{20+22+20+18+20}{5} = 20.$"
-  },
-  {
-    "hint_id": 43,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Group $2$ is $\\dfrac{ (20-20)+(22-20)+(20-20)+(20-18)+(20-20)}{5} \\ = 0.8.$ So, the MAD/mean ratio for Group $2$ is $\\dfrac{0.8}{20} \\ = 4 \\ %.$"
-  },
-  {
-    "hint_id": 44,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the mean for Group $1$ is $13$ pages with a relatively large MAD/mean ratio of $21.54 \\ %,$ while the mean for Group $2$ is $20$ pages with a small MAD/mean ratio of $4 \\%.$"
-  },
-  {
-    "hint_id": 45,
-    "type": "mathtex_wrapper",
-    "value": " "
-  },
-  {
-    "hint_id": 46,
-    "type": "mathtex_wrapper",
-    "value": "This means that the scores of students from Group $1$ vary widely around the mean of $13,$ and the scores of students from Group $2$ vary slightly, close to the mean score of $20.$"
-  },
-  {
-    "hint_id": 47,
-    "type": "mathtex_wrapper",
-    "value": "So, we can predict that the student who read $21$ pages in $10$ minutes was from Group $2.$"
-  },
-  {
-    "hint_id": 48,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of students who participated in the math competition in order from least to greatest, we get $\\{245,\\ 275,\\ 275,\\ 330,\\ 350\\}.$"
-  },
-  {
-    "hint_id": 49,
-    "type": "mathtex_wrapper",
-    "value": "The median number of students is $275.$"
-  },
-  {
-    "hint_id": 50,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the median number of students who participated in science competitions is greater than the median number of students who participated in math competitions."
-  },
-  {
-    "hint_id": 51,
-    "type": "mathtex_wrapper",
-    "value": "The median number of students who participated in each competition is less than the number of participants that the teachers expect to have next year."
-  },
-  {
-    "hint_id": 52,
-    "type": "mathtex_wrapper",
-    "value": "The mean time for Student $1$ is $\\dfrac{10+120+20+50+100}{5} = 60.$ "
-  },
-  {
-    "hint_id": 53,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Student $1$ is $\\dfrac{ (60-10)+(120-60)+(60-20)+(60-50)+(100-60)}{5} \\ = 40.$"
-  },
-  {
-    "hint_id": 54,
-    "type": "mathtex_wrapper",
-    "value": "The mean time for Student $2$ is $\\dfrac{80+80+80+70+70}{5} = 76.$ "
-  },
-  {
-    "hint_id": 55,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Student $2$ is $\\dfrac{ (80-76)+(80-76)+(80-76)+(76-70)+(76-70)}{5} \\ = 4.8.$"
-  },
-  {
-    "hint_id": 56,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the mean time for Student $2$ is greater than the mean time for Student $1,$ and the MAD for Student $2$ is much less than the MAD for Student $1.$"
-  },
-  {
-    "hint_id": 57,
-    "type": "mathtex_wrapper",
-    "value": "That means that Student $2$ spent more time, on average, practicing each day than Student $1,$ and his preparation was more consistent."
-  },
-  {
-    "hint_id": 58,
-    "type": "mathtex_wrapper",
-    "value": "So, Taylor\u2019s conclusion is correct."
-  },
-  {
-    "hint_id": 59,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the numbers of kindergarten students who attended Collins Elementary School in order from least to greatest, we get $\\{66,\\ 72,\\ 75,\\ 90,\\ 120\\}.$"
-  },
-  {
-    "hint_id": 60,
-    "type": "mathtex_wrapper",
-    "value": "The median number of kindergarten students is $75.$"
-  },
-  {
-    "hint_id": 61,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the median number of kindergarten students who attended Kimberly Elementary School is greater than the median number of kindergarten students who attended Collins Elementary School."
-  },
-  {
-    "hint_id": 62,
-    "type": "mathtex_wrapper",
-    "value": "The median number of kindergarten students who attended each school in the past is less than the number of kindergarten students who are expected in the next year."
-  },
-  {
-    "hint_id": 63,
-    "type": "mathtex_wrapper",
-    "value": "The mean number of books for Student $1$ is $\\dfrac{5+4+3+4+4}{5} = 4.$"
-  },
-  {
-    "hint_id": 64,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Student $1$ is $\\dfrac{ (5-4)+(4-4)+(4-3)+(4-4)+(4-4)}{5} \\ = 0.4.$ So, the MAD/mean ratio for Student $1$ is $\\dfrac{0.4}{4} \\ = 10 \\ %.$"
-  },
-  {
-    "hint_id": 65,
-    "type": "mathtex_wrapper",
-    "value": "The mean number of books for Student $2$ is $\\dfrac{6+2+3+4+5}{5} = 4.$"
-  },
-  {
-    "hint_id": 66,
-    "type": "mathtex_wrapper",
-    "value": "The MAD for Student $2$ is $\\dfrac{ (6-4)+(4-2)+(4-3)+(4-4)+(5-4)}{5} \\ = 1.2.$ So, the MAD/mean ratio for Student $2$ is $\\dfrac{1.2}{4} \\ = 30 \\ %.$"
-  },
-  {
-    "hint_id": 67,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the mean number of books read is the same for both students, but the MAD/mean ratio for Student $2$ is much greater than the MAD/mean ratio for Student $1.$"
-  },
-  {
-    "hint_id": 68,
-    "type": "mathtex_wrapper",
-    "value": "This means that the number of books that Student $2$ read varied greatly, while Student $1$ read more consistently each month, on average $4$ books per month."
-  },
-  {
-    "hint_id": 69,
-    "type": "mathtex_wrapper",
-    "value": "So, we can predict that Student $1$ was chosen."
-  },
-  {
-    "hint_id": 70,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the reading times for Student $1$ in order from least to greatest, we get $\\{20,\\ 20,\\ 35,\\ 45,\\ 50\\}.$ The median reading time for Student $1$ is $35$ minutes."
-  },
-  {
-    "hint_id": 71,
-    "type": "mathtex_wrapper",
-    "value": "When we arrange all the reading times for Student $2$ in order from least to greatest, we get $\\{30,\\ 35,\\ 40,\\ 45,\\ 55\\}.$ The median reading time for Student $2$ is $40$ minutes."
-  },
-  {
-    "hint_id": 72,
-    "type": "mathtex_wrapper",
-    "value": "As we can see, the median reading time for Student $1$ is less than the median reading time for Student $2.$"
-  },
-  {
-    "hint_id": 73,
-    "type": "mathtex_wrapper",
-    "value": "The median time that each student spent on his reading assignment is greater than the recommended reading time."
+    "value": "  "
   }
 ]

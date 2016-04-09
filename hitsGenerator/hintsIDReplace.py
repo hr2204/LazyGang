@@ -7,10 +7,9 @@ import re
 #----------------input--Here---------------------------------
 
 
-txtPath = "/Users/rhe/Downloads/Grade 7_ Skill 13.9.txt"
+txtPath = "/Users/rhe/Downloads/Grade 7_ Skill 13.4.txt"
 
 numberOfAE = 2
-
 
 #------------------init path-----------------------------------------
 

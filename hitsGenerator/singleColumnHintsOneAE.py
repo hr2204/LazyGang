@@ -5,7 +5,7 @@ import json
 
 #filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 7_ Skill 13.7.txt"
+filePath = "/Users/rhe/Downloads/Grade 7_ Skill 13.1.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -21,7 +21,11 @@ print "Get {0} AE hints".format(len(matchStrings))
 
 # for string in matchStrings:
 #    print string
-aeHint = matchStrings[len(matchStrings) - 1]
+if(len(matchStrings)!=0):
+    aeHint = matchStrings[len(matchStrings) - 1]
+else:
+    aeHint = []
+
 
 regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
