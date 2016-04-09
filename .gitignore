@@ -1,5 +1,6 @@
+/bower_components
 *.pyc
 *.idea
 .DS_Store
 *.txt
-*.json
+/hitsGenerator/*.json
