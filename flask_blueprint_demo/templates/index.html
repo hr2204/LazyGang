@@ -1,0 +1,19 @@
+<html>
+
+<head>
+    {% if title %}
+    <title>{{ title }} - Lazy Gang's Flask Demo</title>
+    {% else %}
+    <title>Welcome to the world of Lazy Gang</title>
+    {% endif %}
+</head>
+
+<body>
+    <h1>Hello, {{ user.nickname }}!</h1> {% for post in posts %}
+    <div>
+        <p>{{ post.author.nickname }} wrote a new book: <b>{{ post.body }}</b></p>
+    </div>
+    {% endfor %}
+</body>
+
+</html>
