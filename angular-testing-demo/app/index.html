@@ -1,0 +1,28 @@
+<html ng-app="testApp">
+
+<head>
+    <meta charset="UTF-8">
+    <title>This is a angular testing page</title>
+</head>
+
+<body>
+
+    <div ng-controller="testController">
+
+        First Name:
+        <input type="text" id="input_firstName" ng-model="firstName">
+        <br> Last Name:
+        <input type="text" id="input_lastName" ng-model="lastName">
+        <br>
+        <br> Full Name:
+        <input type="text" id="input_fullName" ng-model="fullName">
+
+        <button type="button" id="button_getFullName" ng-click="getFullName()">Get full name</button>
+
+        <!--Js-->
+        <script src="../../bower_components/angular/angular.js"></script>
+        <script src="js/test-app.js"></script>
+
+</body>
+
+</html>

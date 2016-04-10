@@ -6,3 +6,4 @@
 *.txt
 /hitsGenerator/*.json
 /**/.idea
+/**/.log
