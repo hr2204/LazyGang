@@ -1,0 +1,13 @@
+# install packages
+cd /lazygang
+npm install
+
+# run unit test
+cd /lazygang
+cd /angular-testing-demo
+karma start
+
+# run e2e test
+cd /lazygang
+cd /angular-testing-demo
+protractor

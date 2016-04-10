@@ -7,3 +7,4 @@
 /hitsGenerator/*.json
 /**/.idea
 /**/.log
+!/angular-testing-demo/howto.txt
