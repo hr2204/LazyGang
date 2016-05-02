@@ -1,0 +1,30 @@
+<div layout="row">
+    <div flex ng-controller="LoginController">
+        <form id="loginbutton" role="form">
+            <div class="input-group line">
+                <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
+                <input class="form-control" ng-model="userEmail" type="text" placeholder="Username" autofocus>
+            </div>
+            <div class="input-group line">
+                <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
+                <input class="form-control" ng-model="userPassword" type="password" placeholder="Password">
+            </div>
+            <div class="text-left">
+                <a href="#">Forgot Password</a>
+            </div>
+            <div class="alert alert-danger" ng-show="userExpired">
+                Your account has expired since {{ userExpirationDate }}. Please contact Afficient Academy (info@afficienta.com) to renew
+                your account. Thanks.
+            </div>
+            <div class="alert alert-danger" ng-hide="validUser">
+                Your login or password is incorrect.
+            </div>
+            <p align="right">
+
+                <md-button class="md-raised md-primary" ng-click="authenticateUser(userEmail, userPassword)">
+                    <i class="fa fa-sign-in fa-lg"></i> Login
+                </md-button>
+            </p>
+        </form>
+    </div>
+</div>
