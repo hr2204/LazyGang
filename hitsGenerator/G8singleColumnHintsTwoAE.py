@@ -6,7 +6,7 @@ import json
 
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill 1.1.txt"
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill 2.6.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -14,16 +14,21 @@ with open(filePath, 'r') as f:
 
 regex_ae = "Assisted Exercise #\d+\)[\s\S].*?\(Assisted Exercise #\d* - Solution\)"
 
+
 aeMatches = re.findall(regex_ae, data, re.S)
 
 print "Get {0} AE".format(len(aeMatches))
 aeHints = []
 aeHintsLen = []
 for ae in aeMatches:
-    regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
+    # regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
+    regex_exe_hints = "Text.*?\d+\.\d+ Identifying"
+
     aeHintMatches = re.findall(regex_exe_hints, ae, re.S)
     aeHintsLen.append(len(aeHintMatches))
-    aeHints.append(aeHintMatches[len(aeHintMatches) - 1])
+    if len(aeHintMatches)!= 0:
+        aeHints.append(aeHintMatches[len(aeHintMatches) - 1])
+print aeHintsLen
 
 
 # ------------get final Assisted Exercise Hints---------------------------
@@ -39,19 +44,22 @@ for i in range(0, len(aeHintsLen)):  # extHint in exeHints:
 for test in finalAE:
     print test
 
-regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
+regex_exe = "\(Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))
 
 exeHints = []
 exeHintsLen = []
+
 for exe in exeMatches:
-    regex_exe_hints = "\(Exercise #\d+ - Hints\).*?Tool Tip:"
+    regex_exe_hints = "Text.*?\d+\.\d+ Identifying"
     exeHintMatches = re.findall(regex_exe_hints, exe, re.S)
     exeHintsLen.append(len(exeHintMatches))
-    exeHints.append(exeHintMatches[len(exeHintMatches) - 1])
+    if len(exeHintMatches)!=0:
+        exeHints.append(exeHintMatches[len(exeHintMatches) - 1])
 
+print exeHintsLen
 
 # ------------get final Exercise Hints---------------------------
 finalExe = []
@@ -98,3 +106,6 @@ with open('output.json', 'w') as txtfile:
     json.dump(finalData, txtfile)
     # for extHint in exeHints:
     #     print extHint
+
+finalList = aeHintsLen + exeHintsLen
+print aeHintsLen + exeHintsLen

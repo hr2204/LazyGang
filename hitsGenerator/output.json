@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "hint_id": 1,
+    "type": "mathtex_wrapper",
+    "value": "Since $6$ is not a perfect square, we use a calculator to evaluate the square root."
+  },
+  {
+    "hint_id": 2,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt{6}=2.449489742783\u2026$"
+  },
+  {
+    "hint_id": 3,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt{6}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 4,
+    "type": "mathtex_wrapper",
+    "value": "To express $\\\\dfrac{3}{8}$ as a decimal, we use division where the denominator, $8,$ is the divisor and the numerator, $3,$ is the dividend."
+  },
+  {
+    "hint_id": 5,
+    "type": "mathtex_wrapper",
+    "value": "After dividing $3$ by $8,$ we see that the decimal terminates."
+  },
+  {
+    "hint_id": 6,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\dfrac{3}{8}$ is an rational number because its decimal expansion terminates."
+  },
+  {
+    "hint_id": 7,
+    "type": "mathtex_wrapper",
+    "value": "Since $17$ is not a perfect square, we use a calculator to evaluate the square root."
+  },
+  {
+    "hint_id": 8,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt{17}=4.123105625617\u2026$"
+  },
+  {
+    "hint_id": 9,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt{17}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 10,
+    "type": "mathtex_wrapper",
+    "value": "Since $9$ is not a perfect cube, we use a calculator to evaluate the cube root."
+  },
+  {
+    "hint_id": 11,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt[3]{9}=2.0800838230...$"
+  },
+  {
+    "hint_id": 12,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt[3]{9}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 13,
+    "type": "mathtex_wrapper",
+    "value": "We use a calculator to express$\\\\dfrac{\\\\pi}{2}$ as a decimal."
+  },
+  {
+    "hint_id": 14,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\dfrac{\\\\pi}{2}=1.570796327...$"
+  },
+  {
+    "hint_id": 15,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\dfrac{\\\\pi}{2}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 16,
+    "type": "mathtex_wrapper",
+    "value": "Since $99$ is not a perfect square, we use a calculator to evaluate the square root."
+  },
+  {
+    "hint_id": 17,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt{99}=9.949874371066\u2026$"
+  },
+  {
+    "hint_id": 18,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt{99}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 19,
+    "type": "mathtex_wrapper",
+    "value": "To express $\\\\dfrac{7}{12}$ as a decimal, we use division where the denominator, $12,$ is the divisor and the numerator, $7,$ is the dividend."
+  },
+  {
+    "hint_id": 20,
+    "type": "mathtex_wrapper",
+    "value": "After dividing $7$ by $12,$ we see the number $3$ repeats after the number $8.$"
+  },
+  {
+    "hint_id": 21,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\dfrac{7}{12}$is a rational number because it is a repeating decimal."
+  },
+  {
+    "hint_id": 22,
+    "type": "mathtex_wrapper",
+    "value": "Since $18$ is not a perfect cube, we use a calculator to evaluate the cube root."
+  },
+  {
+    "hint_id": 23,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt[3]{18}=2.6207413942...$"
+  },
+  {
+    "hint_id": 24,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt[3]{18}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 25,
+    "type": "mathtex_wrapper",
+    "value": "Since $42$ is not a perfect square, we use a calculator to evaluate the square root."
+  },
+  {
+    "hint_id": 26,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt{42}=6.480740698407\u2026$"
+  },
+  {
+    "hint_id": 27,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt{42}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 28,
+    "type": "mathtex_wrapper",
+    "value": "To express $\\\\dfrac{2}{3}$ as a decimal, we use division where the denominator, $3,$ is the divisor and the numerator, $2,$ is the dividend."
+  },
+  {
+    "hint_id": 29,
+    "type": "mathtex_wrapper",
+    "value": "After dividing $2$ by $3,$ we see the number, $6,$ repeats after the decimal."
+  },
+  {
+    "hint_id": 30,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\dfrac{2}{3}$is a rational number because it is a repeating decimal."
+  },
+  {
+    "hint_id": 31,
+    "type": "mathtex_wrapper",
+    "value": "Since $9$ is a perfect square, we know that $\\\\sqrt{9}=3.0.$"
+  },
+  {
+    "hint_id": 32,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt{9}$ is a rational number because it is a terminating decimal."
+  },
+  {
+    "hint_id": 33,
+    "type": "mathtex_wrapper",
+    "value": "Since $51$ is not a perfect cube, we use a calculator to evaluate the cube root."
+  },
+  {
+    "hint_id": 34,
+    "type": "mathtex_wrapper",
+    "value": "We see that $\\\\sqrt[3]{51}=3.708429769...$"
+  },
+  {
+    "hint_id": 35,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\sqrt[3]{51}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 36,
+    "type": "mathtex_wrapper",
+    "value": "We use a calculator to express$4\\\\bold{\\pi}$ as a decimal."
+  },
+  {
+    "hint_id": 37,
+    "type": "mathtex_wrapper",
+    "value": "We see that $4\\\\bold{\\pi}=12.566370614...$"
+  },
+  {
+    "hint_id": 38,
+    "type": "mathtex_wrapper",
+    "value": "So, $4\\\\bold{\\pi}$ is an irrational number because its decimal expansion does not terminate and does not repeat."
+  },
+  {
+    "hint_id": 39,
+    "type": "mathtex_wrapper",
+    "value": "To express $\\\\dfrac{3}{25}$ as a decimal, we use division where the denominator, $25,$ is the divisor and the numerator, $3,$ is the dividend."
+  },
+  {
+    "hint_id": 40,
+    "type": "mathtex_wrapper",
+    "value": "After dividing $3$ by $25,$ we see that the decimal terminates."
+  },
+  {
+    "hint_id": 41,
+    "type": "mathtex_wrapper",
+    "value": "So, $\\\\dfrac{3}{25}$ is an rational number because it is a terminating decimal."
+  }
+]

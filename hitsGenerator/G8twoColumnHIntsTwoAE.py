@@ -3,7 +3,7 @@ import re
 import json
 # import simpleVersion
 
-filePath = "/Users/rhe/Downloads/Grade 7_ Skill 13.9-2.txt"
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill 2.4-2.txt"
 
 # filePath = "/Users/rhe/Downloads/Grade 7_ Skill 12.5.txt"
 data = ""
@@ -20,7 +20,9 @@ print "Get {0} AE".format(len(aeMatches))
 aeHints = []
 aeHintsLen = []
 for ae in aeMatches:
-    regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
+    # regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
+    regex_exe_hints = "Text.*?\d+\.\d+ Comparing"
+
     aeHintMatches = re.findall(regex_exe_hints, ae, re.S)
     aeHintsLen.append(len(aeHintMatches))
     aeHints.append(aeHintMatches[len(aeHintMatches)-1])
@@ -41,20 +43,25 @@ for test in finalAERight:
     print test
 
 
-regex_exe = "Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
+
+
+regex_exe = "\(Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))
+# for x in exeMatches:
+#     print x
 
 exeHints = []
 exeHintsLen = []
 for exe in exeMatches:
-    regex_exe_hints = "\(Exercise #\d+ - Hints\).*?Tool Tip:"
+    regex_exe_hints = "Text.*?\d+\.\d+ Expressing "
     exeHintMatches = re.findall(regex_exe_hints, exe, re.S)
     exeHintsLen.append(len(exeHintMatches))
-    exeHints.append(exeHintMatches[len(exeHintMatches)-1])
+    if len(exeHintMatches)!=0:
+        exeHints.append(exeHintMatches[len(exeHintMatches)-1])
 
-print exeHintsLen
+print aeHintsLen+exeHintsLen
 #------------get final Exercise Hints---------------------------
 finalExeRight = []
 finalExeLeft = []
@@ -62,11 +69,16 @@ for i in range(0,len(exeHints)): #extHint in exeHints:
     exHintList = exeHints[i].split("\n")
     exeAllHints = [x for x in exHintList if x]
     finalExeRight.append(exeAllHints[-exeHintsLen[i]-1:-1])
-    finalExeLeft.append( exeAllHints[3:3+exeHintsLen[i]])
+    finalExeLeft.append( exeAllHints[1:1+exeHintsLen[i]])
 
 # important for Exercise Debug
+for test in finalExeLeft:
+    print test
+
 for test in finalExeRight:
     print test
+
+
 
 
 #----------------generate json-------------------------------
