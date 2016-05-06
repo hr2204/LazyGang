@@ -45,11 +45,11 @@ print skillPath
 #----------------get IDs from .txt-----------------------------------
 
 index = 0
-def replaceId():
-    global index
-    text = "\"hintIds\": {0}".format(values[index])
-    index = index + 1
-    return text
+# def replaceId():
+#     global index
+#     text = "\"hintIds\": {0}".format(values[index])
+#     index = index + 1
+#     return text
 
 print hintIds
 
