@@ -1,4 +1,6 @@
-
+import json
+import re
+from pprint import pprint
 filePath = "/Users/rhe/Documents/Test/LazyGang/hitsGenerator/problemTest/template.txt"
 outputPath = "/Users/rhe/Documents/Test/LazyGang/hitsGenerator/problemTest/output.txt"
 
@@ -41,7 +43,7 @@ replace_value = {
 }
 # print replace_value["question_2"][7]
 
-def generateProblem(templatePath,replaceValue,numOfProblem):
+def generateProblem(templatePath,replaceValue):
     with open(templatePath, 'r') as f:
         template = f.read()
 
@@ -69,4 +71,4 @@ def generateProblem(templatePath,replaceValue,numOfProblem):
     with open(outputPath, 'w') as txtfile:
         txtfile.write(final_out)
 
-generateProblem(filePath,replace_value,11)
+generateProblem(filePath,replace_value)

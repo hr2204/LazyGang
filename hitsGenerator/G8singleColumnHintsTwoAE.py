@@ -1,12 +1,17 @@
-__author__ = 'sma'
 import io
 import re
 import json
+from G8IdReplace import do
+from G8IdReplace import replaceID
 
+
+
+skillNumber = "4.5"
+keyword = "Comparing"
 
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill 2.6.txt"
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill 4.5.txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -22,7 +27,7 @@ aeHints = []
 aeHintsLen = []
 for ae in aeMatches:
     # regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
-    regex_exe_hints = "Text.*?\d+\.\d+ Identifying"
+    regex_exe_hints = "Text.*?\d+\.\d+ " + keyword
 
     aeHintMatches = re.findall(regex_exe_hints, ae, re.S)
     aeHintsLen.append(len(aeHintMatches))
@@ -53,7 +58,7 @@ exeHints = []
 exeHintsLen = []
 
 for exe in exeMatches:
-    regex_exe_hints = "Text.*?\d+\.\d+ Identifying"
+    regex_exe_hints = "Text.*?\d+\.\d+ " + keyword
     exeHintMatches = re.findall(regex_exe_hints, exe, re.S)
     exeHintsLen.append(len(exeHintMatches))
     if len(exeHintMatches)!=0:
@@ -87,16 +92,16 @@ for i in range(0, len(finalAE)):
         }
         finalData.append(tempObj)
         dataIndex += 1
-print "***final json:***",finalData
 # # -------b)-For Exercise--------------------------------------------
 # # to do for exercise
 #
 for i in range(0, len(finalExe)):
     for j in range(0, len(finalExe[i])):
+        temp = finalExe[i][j].replace("\\\\","\\")
         tempObj = {
                 "hint_id": dataIndex,
                 "type": "mathtex_wrapper",
-                "value": finalExe[i][j]
+                "value": temp
             }
         finalData.append(tempObj)
         dataIndex += 1
@@ -109,3 +114,6 @@ with open('output.json', 'w') as txtfile:
 
 finalList = aeHintsLen + exeHintsLen
 print aeHintsLen + exeHintsLen
+totalLen = aeHintsLen + exeHintsLen
+
+replaceID(skillNumber,totalLen,"singleColumn")
