@@ -2,7 +2,6 @@ import re
 import json
 from G8IdReplace import replaceID
 
-# import simpleVersion
 
 
 skillNumber = "4.12"

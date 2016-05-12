@@ -2,8 +2,9 @@ import re
 from problemLib import generateProblem
 from problemLib import getMathtex
 
-skillNum = "3.13"
-filePath = "/Users/rhe/Downloads/Grade 8_.Skill "+ skillNum+".txt"
+skillNum = "6.6"
+
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill "+ skillNum+".txt"
 templatePath = "/Users/rhe/Documents/Test/LazyGang/hitsGenerator/problemTest/template3.txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/" + skillNum +"/skill_problem.json"
 
@@ -11,6 +12,12 @@ outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/
 with open(filePath, 'r') as f:
     text = f.read()
 
+
+regex_toopTips = "Tool Tip:(.*?\.)"
+
+toolFind = re.search(regex_toopTips, text)
+toolTip = toolFind.group(1).strip()
+# print toolTip
 
 
 #exact solution slide
@@ -36,9 +43,10 @@ allSolution = re.findall(regex_solution, text, re.S)
 debug = False
 dropdown = False
 inputBox = False
-Mathtex = True
+Mathtex = False
 checkBox = False
-descritionTxt = False
+byLocation = True
+images = False
 # for final output
 regex = "input\n.*?\\n"
 def getInput(solutionSlide,regex):
@@ -53,7 +61,7 @@ def getDropDownSelection(options,answer):
         print "-----------"
     return options.index(answer)
 
-def getDescrition(solution,index):
+def getByLocation(solution,index):
     desText = []
     solutionContent = solution.split("\n")
     solutionInfo = [x for x in solutionContent if x]
@@ -95,9 +103,10 @@ for solution in allSolution:
         options, answers = getCheckBoxOption(solution)
         rowResult = rowResult + options + answers
 
-    if descritionTxt:
-        rowResult = rowResult + getDescrition(solution,1)
-
+    if byLocation:
+        rowResult = rowResult + getByLocation(solution,8) + getByLocation(solution,4) + getByLocation(solution,5) + getByLocation(solution,6) + getByLocation(solution,7)
+    if images:
+        rowResult.append(allSolution.index(solution)+1)
     finalOutput.append(rowResult)
 
 
@@ -105,18 +114,23 @@ for solution in allSolution:
 finalOutput = map(list, zip(*finalOutput))
 # [list(i) for i in zip(*finalOutput)]
 
-for x in finalOutput:
-    print x
+# for x in finalOutput:
+#     print x
 
 finalObj = {}
 for i in range(0,len(finalOutput)):
-    key = "tobereplace" + str(i+1)
+    if i < 9:
+        key = "tobereplace" + "0" + str(i+1)
+    else:
+        key = "tobereplace" + str(i+1)
+
     finalObj[key] = finalOutput[i]
 
 print "===================================="
 
 for skill in finalObj:
     print skill,finalObj[skill]
+print "===================================="
 
-
-generateProblem(templatePath,outputPath,finalObj,len(finalOutput[0]))
+print "Number of Skill: " , len(finalOutput[0])
+generateProblem(templatePath,outputPath,finalObj,len(finalOutput[0]),skillNum,toolTip)

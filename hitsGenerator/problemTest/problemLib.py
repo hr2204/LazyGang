@@ -5,7 +5,7 @@ def getMathtex(solutionSlide):
     regex = "\$.*?\$"
     return re.findall(regex, solutionSlide, re.S)
 
-def generateProblem(templatePath,outputPath,replaceValue,numOfProblem):
+def generateProblem(templatePath,outputPath,replaceValue,numOfProblem,skillNumber,tooltip):
     with open(templatePath, 'r') as f:
         template = f.read()
 
@@ -18,11 +18,15 @@ def generateProblem(templatePath,outputPath,replaceValue,numOfProblem):
     # keys: ['answer_value', 'question_1', 'value', 'problemId']
 
     for i in range(0,numOfProblem):
-        # for x in replace_value["answer_value"]:
+        # for x in replace_value["answer_value"]:'
         text = template.replace("problemID",str(i+1))
-        for key in replaceValue.keys():
-            text = text.replace(key,str(replaceValue[key][i]))
+        text = text.replace("SkillNum",str(skillNumber))
+        text = text.replace("tooltipsReplaced", tooltip)
 
+        for key in replaceValue.keys():
+
+            text = text.replace(key,str(replaceValue[key][i]))
+            # print key,str(replaceValue[key][i])
         final_out = final_out + '\n' + text + ','
 
     final_out = final_out[:-1]
