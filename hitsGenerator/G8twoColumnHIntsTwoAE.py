@@ -4,10 +4,12 @@ from G8IdReplace import replaceID
 
 
 
-skillNumber = "4.12"
-keyword = "Using"
+skillNumber = "7.6"
+keyword = "Solving"
+offsetLeft = 2
+offsetRight = 1
 
-filePath = "/Users/rhe/Downloads/Grade 8_.Skill 4.12.txt"
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill "+ skillNumber + ".txt"
 
 # filePath = "/Users/rhe/Downloads/Grade 7_ Skill 12.5.txt"
 data = ""
@@ -38,8 +40,8 @@ finalAELeft = []
 for i in range(0,len(aeHintsLen)): #extHint in exeHints:
     aeHintList = aeHints[i].split("\n")
     aeAllHints = [x for x in aeHintList if x]
-    finalAERight.append(aeAllHints[-aeHintsLen[i]-2:-2])
-    finalAELeft.append( aeAllHints[1:1+aeHintsLen[i]])
+    finalAERight.append(aeAllHints[-aeHintsLen[i]-offsetRight:-offsetRight])
+    finalAELeft.append( aeAllHints[offsetLeft:offsetLeft+aeHintsLen[i]])
 
 
 # important for AE Debug
@@ -72,8 +74,8 @@ finalExeLeft = []
 for i in range(0,len(exeHints)): #extHint in exeHints:
     exHintList = exeHints[i].split("\n")
     exeAllHints = [x for x in exHintList if x]
-    finalExeRight.append(exeAllHints[-exeHintsLen[i]-2:-2])
-    finalExeLeft.append( exeAllHints[1:1+exeHintsLen[i]])
+    finalExeRight.append(exeAllHints[-exeHintsLen[i]-offsetRight:-offsetRight])
+    finalExeLeft.append( exeAllHints[offsetLeft:offsetLeft+exeHintsLen[i]])
 
 # important for Exercise Debug
 for test in finalExeLeft:

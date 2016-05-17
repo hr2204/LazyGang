@@ -6,12 +6,12 @@ from G8IdReplace import replaceID
 
 
 
-skillNumber = "4.5"
-keyword = "Comparing"
-
+skillNumber = "7.10"
+keyword = "Writing"
+offset = 1
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill 4.5.txt"
+filePath = "/Users/rhe/Downloads/Grade 8_.Skill "+ skillNumber + ".txt"
 data = ""
 
 with open(filePath, 'r') as f:
@@ -41,7 +41,7 @@ finalAE = []
 for i in range(0, len(aeHintsLen)):  # extHint in exeHints:
     aeHintList = aeHints[i].split("\n")
     aeAllHints = [x for x in aeHintList if x]
-    finalAE.append(aeAllHints[-aeHintsLen[i] - 1:-1])
+    finalAE.append(aeAllHints[-aeHintsLen[i] - offset:-offset])
     # finalAE.append(aeAllHints[3:3 + aeHintsLen[i]])
 
 
@@ -71,7 +71,7 @@ finalExe = []
 for i in range(0, len(exeHints)):  # extHint in exeHints:
     exHintList = exeHints[i].split("\n")
     exeAllHints = [x for x in exHintList if x]
-    finalExe.append(exeAllHints[-exeHintsLen[i] - 1:-1])
+    finalExe.append(exeAllHints[-exeHintsLen[i] - offset:-offset])
 
 # important for Exercise Debug
 for test in finalExe:

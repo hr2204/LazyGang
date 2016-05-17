@@ -11,7 +11,7 @@ import re
 
 skillNumber = "2.6"
 
-totalLen = [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3]
+# totalLen = [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 3, 3, 3]
 #######
 hintIds = []
 
