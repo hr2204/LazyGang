@@ -6,12 +6,14 @@ from G8IdReplace import replaceID
 
 
 
-skillNumber = "7.10"
-keyword = "Writing"
-offset = 1
+skillNumber = "9.6"
+keyword = "Identifying"
+offset = 2
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 8_.Skill "+ skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Grade 8_ Skill "+ skillNumber + ".txt"
+outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/" + skillNumber +"/hints.json"
+
 data = ""
 
 with open(filePath, 'r') as f:
@@ -107,7 +109,7 @@ for i in range(0, len(finalExe)):
         dataIndex += 1
 
 # # ----------------output file-------------------------------
-with open('output.json', 'w') as txtfile:
+with open(outputPath, 'w') as txtfile:
     json.dump(finalData, txtfile)
     # for extHint in exeHints:
     #     print extHint
@@ -116,4 +118,4 @@ finalList = aeHintsLen + exeHintsLen
 print aeHintsLen + exeHintsLen
 totalLen = aeHintsLen + exeHintsLen
 
-replaceID(skillNumber,totalLen,"singleColumn")
+# replaceID(skillNumber,totalLen,"singleColumn")

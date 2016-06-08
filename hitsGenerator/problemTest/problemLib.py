@@ -14,7 +14,7 @@ def generateProblem(templatePath,outputPath,replaceValue,numOfProblem,skillNumbe
 
     keys = replaceValue.keys()  #get all keywords need to replace
     print "===================================="
-    print "keys:",keys
+    # print "keys:",keys
     # keys: ['answer_value', 'question_1', 'value', 'problemId']
 
     for i in range(0,numOfProblem):
