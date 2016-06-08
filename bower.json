@@ -1,5 +1,5 @@
 {
-  "name": "LazyGang",
+  "name": "lasy_gang",
   "homepage": "https://github.com/hr2204/LazyGang",
   "authors": [
     "Lazy Gang"
@@ -17,6 +17,9 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": "^1.5.3"
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0"
   }
 }
