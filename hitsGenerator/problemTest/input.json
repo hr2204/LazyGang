@@ -1,0 +1,71 @@
+
+[
+  {
+    "Question1": [],
+    "answer_value": ["6.92","6","4.13"]
+  },
+  {
+    "skill_id": "4.12",
+    "problem_id": 1,
+    "template_type": "rowtype",
+    "hint_template_type": "two_columns_hint_b",
+    "description": "",
+    "tooltip": "Fill in the blanks, then choose your answer from the drop-down menu.",
+    "meta_data": " meta data will come here",
+    "demo_id": 1,
+    "hintIds": [1, 2, 3, 4, 5, 6],
+    "specified_time": "1",
+    "weight": "",
+    "problemItems": [
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "Question1"
+        }
+      ],
+      [
+        {
+          "type": "mathtex_wrapper",
+          "value": "How much farther did Jane drive in June compared to August? Express the answer in scientific notation.",
+          "style": "font-weight:bold;"
+        }
+      ],
+      [
+        {
+          "type": "input",
+          "value": " ",
+          "class": "input-r-3-digits",
+          "length": 4,
+          "disable": false,
+          "answer": "answer_value"
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "$\\times$"
+        },
+        {
+          "type": "mathjax_select",
+          "data": {
+            "id": "1",
+            "disabled": false,
+            "items": [
+              "$10^8$"
+            ],
+            "answer": 0
+          }
+        },
+        {
+          "type": "mathtex_wrapper",
+          "value": "millimeters"
+        }
+      ],
+      [
+        {
+          "type": "image",
+          "value": "4.12/math-g8-c4-s4-12-ap1-img1.png"
+        }
+      ]
+    ],
+    "assisted_exercise": true
+  }
+]
