@@ -1,5 +1,11 @@
-Problem Generator
+Research Project by Lazy Gang
 ================
+
+Purpose 
+
+- Flask + MongoDB + AngularJS Web Development
+- Tools for daily working
+- Any funny stuff
 
 Steps
 -----
