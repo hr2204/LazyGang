@@ -4,32 +4,17 @@ Problem Generator
 Steps
 -----
 
-**Step 1**: Clone the git repository
+**Step 1**: Save skill spec from Google Doc to a txt file
+    Name the file like : Grade_8_Skill_10.3.txt
 
-    $ git clone https://github.com/benjaminhuanghuang/rest_bank_project.git
-    $ cd rest_bank_project
 
-**Step 2**: Create a virtual environment.
-
-For Linux, OSX :
-
-    $ virtualenv venv
-    $ source venv/bin/activate
-    (venv) $ pip install -r requirements.txt
-
-For Windows users working on the standard command prompt:
-
-    > virtualenv venv
-    > venv\scripts\activate
-    (venv) > pip install -r requirements.txt
-
-**Step 3**: Install python library required in project directory
-
-For Linux, OSX :
-    (venv) $ pip install -r requirements.txt
-
-For Windows users working on the standard command prompt:
-    (venv) > pip install -r requirements.txt
+**Step 2**: Create template form skill.
+    The template contains json data which only has one problem.
+    In the template, we need to generate the one problem data manually.
+    Some string will be replace by our script.
     
-Check library version installed:
-    (venv) $ pip list
+
+**Step 3**: Modify script to match the skill spec txt file
+
+**Step 4**: Run script to fill template by using data in skill spec txt file
+
