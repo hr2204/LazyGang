@@ -15,6 +15,7 @@ Steps
     
 
 **Step 3**: Modify script to match the skill spec txt file
+    User the data in solution page of the spec file.
 
 **Step 4**: Run script to fill template by using data in skill spec txt file
 
