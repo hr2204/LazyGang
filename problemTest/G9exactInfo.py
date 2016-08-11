@@ -3,14 +3,14 @@ from problemLib import generateProblem
 from problemLib import getMathtex
 import os.path
 
-skillNum = "11111110.11"
+skillNum = "10.18"
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill " + skillNum + ".txt"
+filePath = "/Users/rhe/Downloads/Algebra 1_. Skill " + skillNum + ".txt"
 if not os.path.exists(filePath):
-    filePath = "/Users/rhe/Downloads/Grade 8_.Skill " + skillNum + ".txt"
+    filePath = "/Users/rhe/Downloads/Algebra 1_.Skill " + skillNum + ".txt"
 
-templatePath = "/Users/rhe/Documents/Test/LazyGang/problemTest/template3.txt"
-outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/" + skillNum + "/skill_problem.json"
+templatePath = "/Users/rhe/Documents/Test/LazyGang/problemTest/template3.json"
+outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/9th/" + skillNum + "/skill_problem.json"
 
 # open text file and
 with open(filePath, 'r') as f:
@@ -32,8 +32,9 @@ dropdown = False
 inputBox = False
 Mathtex = True
 checkBox = False
+getAnswerOptionIndex = False
 byLocation = False
-locationArr = [1,-2,-6,-7,-8,-12,-13,-14,-18,-19,-20,-24,-25,-26,-30,-31]
+locationArr = [1,2,3,4,5,6,7,10,12,14,16,18]
 
 images = False
 # for final output
@@ -67,8 +68,14 @@ def getDropDown(solutionSlide):
     return AllRes
 
 
-
-
+def getAnswerIndex(solutionSlide):
+    solutionContent = solutionSlide.split("\n")
+    solutionInfo = [x for x in solutionContent if x.strip()]
+    answers = []
+    for answer in solutionInfo:
+        if answer == 'true' or answer == 'false':
+            answers.append(answer)
+    return answers.index("true") + 1
 
 def getInput(solutionSlide, regex):
     temp = re.findall(regex, solutionSlide, re.S)
@@ -87,7 +94,9 @@ def getDropDownSelection(options, answer):
 def getByLocation(solution, index, back):
     desText = []
     solutionContent = solution.split("\n")
-    solutionInfo = [x for x in solutionContent if x]
+    solutionInfo = [x for x in solutionContent if x.strip()]
+    # solutionInfo = [x for x in solutionContent if x is not " "]
+
     if not back:
         desText.append(solutionInfo[index])
         return desText
@@ -142,10 +151,12 @@ for solution in allSolution:
         skillNumber = skillNum.split(".")
         numOfAE = len(allSolution) - 10
         if allSolution.index(solution) < numOfAE :
-            imagePath = str(skillNum)+"/"+"math-g8-c"+str(skillNumber[0])+"-s"+str(skillNumber[0])+"-"+str(skillNumber[1])+"-ap"+ str(allSolution.index(solution)+1) + "-img1.png"
+            imagePath = str(skillNum)+"/"+"math-g9-c"+str(skillNumber[0])+"-s"+str(skillNumber[0])+"-"+str(skillNumber[1])+"-ap"+ str(allSolution.index(solution)+1) + "-img1.png"
         else :
-            imagePath = str(skillNum)+"/"+"math-g8-c"+str(skillNumber[0])+"-s"+str(skillNumber[0])+"-"+str(skillNumber[1])+"-p"+ str(allSolution.index(solution)+0) + "-img1.png"
+            imagePath = str(skillNum)+"/"+"math-g9-c"+str(skillNumber[0])+"-s"+str(skillNumber[0])+"-"+str(skillNumber[1])+"-p"+ str(allSolution.index(solution)+1) + "-img1.png"
         rowResult.append(imagePath)
+    if getAnswerOptionIndex:
+        rowResult.append(getAnswerIndex(solution))
     # getDropDown(solution)
     # temp = []
     # rowResult = rowResult + temp.append(getDropDown(solution))

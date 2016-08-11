@@ -6,12 +6,12 @@ from G8IdReplace import replaceID
 
 
 
-skillNumber = "9.6"
-keyword = "Identifying"
-offset = 2
+skillNumber = "10.11"
+keyword = "Constructing"
+offset = 3
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill "+ skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Grade 8_.Skill "+ skillNumber + ".txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/" + skillNumber +"/hints.json"
 
 data = ""
@@ -19,7 +19,7 @@ data = ""
 with open(filePath, 'r') as f:
     data = f.read()
 
-regex_ae = "Assisted Exercise #\d+\)[\s\S].*?\(Assisted Exercise #\d* - Solution\)"
+regex_ae = r"Assisted Exercise[ #\d+]*?\)[\s\S]*?\(Assisted Exercise[ #\d*]? - Solution\)"
 
 
 aeMatches = re.findall(regex_ae, data, re.S)
@@ -29,7 +29,7 @@ aeHints = []
 aeHintsLen = []
 for ae in aeMatches:
     # regex_exe_hints = "\(Assisted Exercise #\d+ - Hints\).*?Tool Tip:"
-    regex_exe_hints = "Text.*?\d+\.\d+ " + keyword
+    regex_exe_hints = r"Text.*?\d+\.\d+ " + keyword
 
     aeHintMatches = re.findall(regex_exe_hints, ae, re.S)
     aeHintsLen.append(len(aeHintMatches))
@@ -51,7 +51,7 @@ for i in range(0, len(aeHintsLen)):  # extHint in exeHints:
 for test in finalAE:
     print test
 
-regex_exe = "\(Exercise #\d+\)[\s\S].*?\(Exercise #\d* - Solution\)"
+regex_exe = "Exercise #\d+\)[\s\S].*?Exercise #\d* - Solution\)"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))
@@ -118,4 +118,4 @@ finalList = aeHintsLen + exeHintsLen
 print aeHintsLen + exeHintsLen
 totalLen = aeHintsLen + exeHintsLen
 
-# replaceID(skillNumber,totalLen,"singleColumn")
+replaceID(skillNumber,totalLen,"singleColumn")

@@ -27,7 +27,7 @@ def replaceID(skillNumber,totalLen,templateType):
 
     print hintIds
 
-    projectPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/"
+    projectPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/9th/"
     skillPath = projectPath + skillNumber + "/skill_problem.json"
     print skillPath
     data = ""
@@ -41,8 +41,11 @@ def replaceID(skillNumber,totalLen,templateType):
     if templateType == "singleColumn":
         text = re.sub(regex_template_type, "hint_template_type\": \"singlecolumn\",", text)
     if templateType == "twoColumn":
-        text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_b\",", text)
-
+        text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_d\",", text)
+    if templateType == "two_columns_hint_a":
+        text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_a\",", text)
+    if templateType == "three_columns_hint_b":
+        text = re.sub(regex_template_type, "hint_template_type\": \"three_columns_hint_b\",", text)
     with open(skillPath, 'w') as txtfile:
         txtfile.write(text)
 

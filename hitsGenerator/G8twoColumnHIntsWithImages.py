@@ -5,12 +5,12 @@ import re
 import json
 from G8IdReplace import replaceID
 
-skillNumber = "13.3"
-keyword = "Solving"
+skillNumber = "10.7"
+keyword = "Identifying"
 offsetLeft = 2
 offsetRight = 2
 
-filePath = "/Users/rhe/Downloads/Grade 8_ Skill " + skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Grade 8_.Skill " + skillNumber + ".txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/8th/" + skillNumber + "/hints.json"
 
 # filePath = "/Users/rhe/Downloads/Grade 7_ Skill 12.5.txt"
@@ -72,7 +72,6 @@ for i in range(0, len(exeHints)):  # extHint in exeHints:
     exeAllHints = [x for x in exHintList if x]
     finalExeRight.append(exeAllHints[-exeHintsLen[i] - offsetRight:-offsetRight])
     finalExeLeft.append(exeAllHints[offsetLeft:offsetLeft + exeHintsLen[i]])
-
 index_show = 1
 # important for Exercise Debug
 for test in finalExeLeft:
@@ -80,8 +79,8 @@ for test in finalExeLeft:
     print "Exercise #" + str(index_show) + str(test)
     index_show += 1
 
-for test in finalExeRight:
-    print test
+# for test in finalExeRight:
+#     print test
 
 # ----------------generate json-------------------------------
 # -------a)-For AE--------------------------------------------
@@ -96,19 +95,22 @@ for i in range(0, len(finalAERight)):
         tempRight = finalAERight[i][j].replace("\\\\", "\\")
         tempObj = {"hint_id": dataIndex, "row": [
             {
-                "type": "mathtex_wrapper",
-                "value": " $\\begin{array}{rl}" + tempLeft + " \\end{array}$",
-                "show": False
             },
-            # {
-            #     "type": "img",
-            #     "value": "8.3/math-g8-c8-s8-3-ap" + str(i + 1) + "-h" + str(j + 1) + "-img1.png",
-            # },
             {
                 "type": "mathtex_wrapper",
                 "value": tempRight
             }
         ]}
+        if j == 1 or j == 2:
+            tempObj["row"][0] = {
+                    "type": "img",
+                    "value": "9.4/math-g8-c11-12-ap" + str(i + 1) + "-h" + str(1) + "-img1.png",
+                }
+        else:
+            tempObj["row"][0] = {
+                    "type": "mathtex_wrapper",
+                    "value": " "
+                }
         finalData.append(tempObj)
         dataIndex += 1
 
@@ -122,15 +124,22 @@ for i in range(0, len(finalExeRight)):
 
         tempObj = {"hint_id": dataIndex, "row": [
             {
-                "type": "mathtex_wrapper",
-                "value": " $\\begin{array}{rl} " + tempLeft +   " \\end{array}$",
-                "show": False
             },
             {
                 "type": "mathtex_wrapper",
                 "value": tempRight
             }
         ]}
+        if j == 1 or j == 2:
+            tempObj["row"][0] = {
+                    "type": "img",
+                    "value": "11.13/math-g8-c11-s12-p" + str(i + 1) + "-h" + str(j+1) + "-img1.png",
+                }
+        else:
+            tempObj["row"][0] = {
+                    "type": "mathtex_wrapper",
+                    "value": " "
+                }
         finalData.append(tempObj)
         dataIndex += 1
 
@@ -141,4 +150,4 @@ with open(outputPath, 'w') as txtfile:
 #     print extHint
 
 
-replaceID(skillNumber, aeHintsLen + exeHintsLen, "twoColumn")
+replaceID(skillNumber, aeHintsLen + exeHintsLen, "two_columns_hint_a")

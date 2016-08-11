@@ -1,0 +1,70 @@
+{
+  "skill_id": "SkillNum",
+  "problem_id": problemID,
+  "template_type": "rowtype",
+  "hint_template_type": "two_columns_hint_b",
+  "description": "",
+  "tooltip": "tooltipsReplaced",
+  "meta_data": " meta data will come here",
+  "demo_id": 1,
+  "hintIds": [
+    1,
+    2,
+    3
+  ],
+  "specified_time": "1",
+  "weight": "",
+  "problemItems": [
+    [
+      {
+        "style": "font-weight:bold;",
+        "type": "mathtex_wrapper",
+        "value": "Which of the following expressions is equal to  tobereplace01"
+      }
+    ],
+    [
+      {
+        "type": "checkbutton",
+        "checkData": [
+          {
+            "label": "tobereplace02",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          },
+          {
+            "label": "tobereplace03",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          },
+          {
+            "label": "tobereplace04",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          },
+          {
+            "label": "tobereplace05",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          },
+          {
+            "label": "tobereplace06",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          },
+          {
+            "label": "tobereplace07",
+            "value": "",
+            "answer": false,
+            "disabled": ""
+          }
+        ]
+      }
+    ]
+  ],
+  "assisted_exercise": false
+}
