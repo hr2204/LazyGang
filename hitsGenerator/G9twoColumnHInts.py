@@ -5,11 +5,11 @@ import re
 import json
 from G8IdReplace import replaceID
 
-skillNumber = "7.7"
+skillNumber = "10.23"
 # offsetLeft = 2
 # offsetRight = 2
 
-filePath = "/Users/rhe/Downloads/Algebra 1_ Skill " + skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Algebra 1_. Skill " + skillNumber + ".txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/9th/" + skillNumber + "/hints.json"
 data = ""
 
@@ -88,10 +88,6 @@ for i in range(0, len(finalExeRight)):
         tempLeft = tempLeft.replace("skip", "")
 
         tempObj = {"hint_id": dataIndex, "row": [
-            {
-                "type": "img",
-                "value": "7.7/math-g9-c7-s7-7-p"+str(i) + "-h"+str(j+1) +"-img1.png"
-            },
             {
                 "type": "mathtex_wrapper",
                 "value": " $\\begin{array}{rl} " + tempLeft + " \\end{array}$"

@@ -19,48 +19,31 @@
       {
         "style": "font-weight:bold;",
         "type": "mathtex_wrapper",
-        "value": "Which of the following expressions is equal to  tobereplace01"
+        "value": "Which of the expressions below is the conjugate of tobereplace01"
       }
     ],
     [
       {
-        "type": "checkbutton",
-        "checkData": [
+        "type": "radiobutton",
+        "value": "",
+        "answer": tobereplace06,
+        "disabled": "",
+        "radioData": [
           {
             "label": "tobereplace02",
-            "value": "",
-            "answer": false,
-            "disabled": ""
+            "value": 1
           },
           {
             "label": "tobereplace03",
-            "value": "",
-            "answer": false,
-            "disabled": ""
+            "value": 2
           },
           {
             "label": "tobereplace04",
-            "value": "",
-            "answer": false,
-            "disabled": ""
+            "value": 3
           },
           {
             "label": "tobereplace05",
-            "value": "",
-            "answer": false,
-            "disabled": ""
-          },
-          {
-            "label": "tobereplace06",
-            "value": "",
-            "answer": false,
-            "disabled": ""
-          },
-          {
-            "label": "tobereplace07",
-            "value": "",
-            "answer": false,
-            "disabled": ""
+            "value": 4
           }
         ]
       }

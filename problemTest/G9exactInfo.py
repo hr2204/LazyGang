@@ -3,7 +3,7 @@ from problemLib import generateProblem
 from problemLib import getMathtex
 import os.path
 
-skillNum = "10.18"
+skillNum = "10.11"
 
 filePath = "/Users/rhe/Downloads/Algebra 1_. Skill " + skillNum + ".txt"
 if not os.path.exists(filePath):
@@ -34,7 +34,7 @@ Mathtex = True
 checkBox = False
 getAnswerOptionIndex = False
 byLocation = False
-locationArr = [1,2,3,4,5,6,7,10,12,14,16,18]
+locationArr = [2]
 
 images = False
 # for final output

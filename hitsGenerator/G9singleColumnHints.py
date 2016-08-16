@@ -6,11 +6,11 @@ from G8IdReplace import replaceID
 
 
 
-skillNumber = "3.4"
+skillNumber = "10.20"
 offset = 0
 # filePath = "/Users/hhuang/Desktop/Grade 7- Skill 14.6.txt"
 
-filePath = "/Users/rhe/Downloads/Algebra 1_ Skill "+ skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Algebra 1_. Skill "+ skillNumber + ".txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/9th/" + skillNumber +"/hints.json"
 
 data = ""
@@ -18,7 +18,7 @@ data = ""
 with open(filePath, 'r') as f:
     data = f.read()
 
-regex_exe = "Image \( Hint\)[\s\S].*?Tool Tip"
+regex_exe = "Image \(Hint\)[\s\S].*?Tool Tip"
 exeMatches = re.findall(regex_exe, data, re.S)
 
 print "Get {0} Exe".format(len(exeMatches))

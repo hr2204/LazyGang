@@ -41,7 +41,7 @@ def replaceID(skillNumber,totalLen,templateType):
     if templateType == "singleColumn":
         text = re.sub(regex_template_type, "hint_template_type\": \"singlecolumn\",", text)
     if templateType == "twoColumn":
-        text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_d\",", text)
+        text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_b\",", text)
     if templateType == "two_columns_hint_a":
         text = re.sub(regex_template_type, "hint_template_type\": \"two_columns_hint_a\",", text)
     if templateType == "three_columns_hint_b":

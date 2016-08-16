@@ -5,11 +5,11 @@ import re
 import json
 from G8IdReplace import replaceID
 
-skillNumber = "8.2"
+skillNumber = "10.23"
 # offsetLeft = 2
 # offsetRight = 2
 
-filePath = "/Users/rhe/Downloads/Algebra 1_ Skill " + skillNumber + ".txt"
+filePath = "/Users/rhe/Downloads/Algebra 1_. Skill " + skillNumber + ".txt"
 outputPath = "/Users/rhe/Documents/git/mathjoy-dev/app/static/src/data/math/9th/" + skillNumber + "/hints.json"
 data = ""
 
@@ -85,45 +85,41 @@ for i in range(0, len(finalExeRight)):
     for j in range(0, len(finalExeRight[i])):
         tempLeft = finalExeLeft[i][j].replace("\\\\", "\\")
         tempRight = finalExeRight[i][j].replace("\\\\", "\\")
+        tempRight = finalExeRight[i][j].replace("skip", "")
+
         # three column hint
-        matchSplit = re.match(r'(.*)(=|\?\)\}|\\ne\})(.*)', tempLeft)
-        matchSkip = re.match(r'(skip).*', tempLeft)
-        print tempLeft.split("&=&");
-        if matchSkip and matchSkip.group(1):
-            tempObj = {
-                "hint_id": dataIndex,
-                "row": [
-                    {
-                        "type": "threeColumn",
-                        "widthLeft": "140px",
-                        "widthRight": "250px",
-                        "valueLeft": "$\\begin{array}{rl}  \\end{array}$",
-                        "valueRight": "$\\begin{array}{rl}  \\end{array}$"
-                    },
-                    {
-                        "type": "mathtex_wrapper",
-                        "value": tempRight
-                    }
-                ]
-            }
-        else:
-            tempObj = {
-                "hint_id": dataIndex,
-                "row": [
-                    {
-                        "type": "threeColumn",
-                        "widthLeft": "140px",
-                        "widthRight": "250px",
-                        "valueLeft": "$\\begin{array}{rl} "+ matchSplit.group(1) + matchSplit.group(
-                                    2) + " \\end{array}$",
-                        "valueRight": "$\\begin{array}{rl}  " + matchSplit.group(3) + " \\end{array}$"
-                    },
-                    {
-                        "type": "mathtex_wrapper",
-                        "value": tempRight
-                    }
-                ]
-            }
+        leftTwoColumn = tempLeft.split("\\\\ \\\\")
+        leftTwoColumn = [x for x in leftTwoColumn if x]
+        # print leftTwoColumn
+        firstCol = ""
+        secCol = ""
+        for eq in leftTwoColumn:
+            temp = eq.split("&=&")
+            firstCol= firstCol + temp[0] + "&=&" + r"\\ "
+            if len(temp)>1:
+                secCol = temp[1] + r"\\ "
+
+        # print "first:",firstCol
+        # print "sec:",secCol
+
+        # print tempLeft.split("&=&")
+
+        tempObj = {
+            "hint_id": dataIndex,
+            "row": [
+                {
+                    "type": "threeColumn",
+                    "widthLeft": "170px",
+                    "widthRight": "210px",
+                    "valueLeft": "$\\begin{array}{rl} "+ firstCol+  " \\end{array}$",
+                    "valueRight": "$\\begin{array}{rl}  "+ secCol + " \\end{array}$"
+                },
+                {
+                    "type": "mathtex_wrapper",
+                    "value": tempRight
+                }
+            ]
+        }
         finalData.append(tempObj)
         dataIndex += 1
 
